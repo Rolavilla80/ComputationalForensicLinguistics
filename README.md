@@ -23,3 +23,8 @@ The focus is on robustness under distribution shift, using character-level stylo
 - Paraphrase-generated text defeats stylometric detectors
 - SBERT generalizes more uniformly but with weaker discrimination
 
+## Graphs and tables
+
+<img width="2379" height="730" alt="slide9_stylometry_results_table" src="https://github.com/user-attachments/assets/ffba9f39-6537-4fba-a6b4-e1e46bd63251" />
+<img width="2380" height="977" alt="slide11_comparison_f1" src="https://github.com/user-attachments/assets/dd2072e5-d653-4fba-8233-32e2d844f45e" />
+![sbert](https://github.com/user-attachments/assets/1af16d7b-04fb-45f8-adc8-04d3d965db4b)
