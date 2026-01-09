@@ -1,0 +1,61 @@
+feature,weight,direction,bucket
+'s ,1.3507487162786358,AI,straight_quotes/apostrophe
+. the,1.0378039027917565,AI,punctuation
+ mind,0.9227324512851668,AI,other
+"ver, ",0.917320043442156,AI,punctuation
+"ever,",0.9134928945110083,AI,punctuation
+"ver,",0.9005780159633103,AI,punctuation
+n't ,0.8960186225206382,AI,straight_quotes/apostrophe
+n't,0.8923928605502983,AI,straight_quotes/apostrophe
+'t ,0.8900786342022478,AI,straight_quotes/apostrophe
+. how,0.8545159905823964,AI,punctuation
+ethe,0.8428089566190737,AI,other
+]. ,0.8320423309037085,AI,punctuation
+hout ,0.8279300011286667,AI,other
+ue t,0.8038254641697916,AI,other
+ether,0.7938130317858572,AI,other
+ his ,0.7704552756927995,AI,other
+joy ,0.77031193532153,AI,other
+nclu,0.7637467134975536,AI,other
+hout,0.763128742334728,AI,other
+ch as,0.7608131649536757,AI,other
+'re ,0.7576539476857617,AI,straight_quotes/apostrophe
+ue to,0.7563972824072015,AI,function_word_fragment
+ inc,0.7508023413031696,AI,other
+. ho,0.7506591740159693,AI,punctuation
+joy,0.7470403470018104,AI,other
+]. i,0.7383254577585429,AI,punctuation
+h as ,0.7322279821504896,AI,other
+oy ,0.7321889376517102,AI,other
+ou',0.7292087377439386,AI,straight_quotes/apostrophe
+njoy ,0.7279336837081707,AI,other
+s] .,-1.0909207032174262,Human,punctuation
+", tha",-1.0999764425063123,Human,punctuation
+ sai,-1.1047139626740348,Human,other
+ it’s,-1.105622114200662,Human,curly_apostrophe/quotes
+"','",-1.1100811007132445,Human,straight_quotes/apostrophe
+sai,-1.1147360511305353,Human,other
+-- ,-1.1187176156546377,Human,other
+ it’,-1.122372368156914,Human,curly_apostrophe/quotes
+"', """,-1.1311136875151382,Human,straight_quotes/apostrophe
+said,-1.1629480837558095,Human,other
+ said,-1.1641940566151043,Human,other
+it’s,-1.1843267856556925,Human,curly_apostrophe/quotes
+it’s ,-1.185635013714616,Human,curly_apostrophe/quotes
+.” ,-1.188108003278603,Human,punctuation
+it’,-1.2022197023440755,Human,curly_apostrophe/quotes
+ – ,-1.2370733835163097,Human,other
+",” ",-1.244909463820659,Human,punctuation
+] . ,-1.2464146854776996,Human,punctuation
+ . ,-1.257365293731474,Human,punctuation
+] .,-1.2683013032732997,Human,punctuation
+ — ,-1.4725335972853764,Human,other
+s] ,-1.48137610339345,Human,other
+".',",-1.5832760392891705,Human,straight_quotes/apostrophe
+. “,-1.5986426248346974,Human,punctuation
+t’s,-1.6573271428296563,Human,curly_apostrophe/quotes
+t’s ,-1.65738915275855,Human,curly_apostrophe/quotes
+’t ,-1.8962306973252605,Human,curly_apostrophe/quotes
+n’t ,-1.8962306973252605,Human,curly_apostrophe/quotes
+n’t,-1.920244569631038,Human,curly_apostrophe/quotes
+’s ,-2.03530059148124,Human,curly_apostrophe/quotes
