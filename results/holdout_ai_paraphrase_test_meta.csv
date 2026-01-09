@@ -1,0 +1,3389 @@
+source,label,n_tokens,n_chars
+openwebtext,0,433,2850
+opinion statements,0,444,2498
+opinion statements,0,405,2140
+paraphrase,1,575,3250
+paraphrase,1,404,2395
+paraphrase,1,647,3861
+paraphrase,1,737,4411
+openwebtext,0,554,3481
+paraphrase,1,410,2404
+paraphrase,1,369,2125
+opinion statements,0,401,2371
+openwebtext,0,750,4652
+paraphrase,1,747,4602
+blog,0,812,4453
+paraphrase,1,559,3606
+paraphrase,1,623,3480
+paraphrase,1,436,2474
+paraphrase,1,378,2227
+opinion statements,0,707,3979
+openwebtext,0,929,5397
+paraphrase,1,404,2474
+paraphrase,1,437,2496
+openwebtext,0,514,3008
+openwebtext,0,427,2750
+paraphrase,1,694,4049
+paraphrase,1,662,3811
+openwebtext,0,589,3563
+openwebtext,0,464,2687
+paraphrase,1,410,2328
+opinion statements,0,782,4227
+paraphrase,1,405,2245
+paraphrase,1,454,2756
+paraphrase,1,495,2845
+openwebtext,0,768,4754
+answers,0,1427,8010
+paraphrase,1,351,1942
+opinion statements,0,406,2253
+openwebtext,0,631,3765
+opinion statements,0,666,4174
+opinion statements,0,462,2681
+openwebtext,0,447,2513
+paraphrase,1,478,2755
+paraphrase,1,603,3450
+openwebtext,0,478,2870
+paraphrase,1,583,3333
+paraphrase,1,688,3269
+openwebtext,0,657,4160
+webtext,0,764,4545
+paraphrase,1,390,2249
+paraphrase,1,588,3423
+paraphrase,1,556,3279
+paraphrase,1,432,2652
+paraphrase,1,560,3272
+paraphrase,1,461,2592
+paraphrase,1,461,2617
+paraphrase,1,608,3411
+paraphrase,1,385,2372
+paraphrase,1,419,2467
+opinion statements,0,624,3453
+openwebtext,0,689,4010
+answers,0,839,4801
+paraphrase,1,389,2088
+blog,0,385,2125
+paraphrase,1,618,3877
+openwebtext,0,779,4425
+openwebtext,0,475,2741
+webtext,0,579,3611
+openwebtext,0,891,5345
+news articles,0,1174,6868
+opinion statements,0,1039,6225
+paraphrase,1,394,2359
+paraphrase,1,542,3398
+paraphrase,1,381,2025
+openwebtext,0,527,3039
+paraphrase,1,768,4439
+paraphrase,1,419,2442
+paraphrase,1,390,2161
+openwebtext,0,444,2912
+openwebtext,0,610,3697
+paraphrase,1,576,3406
+news articles,0,1210,6984
+answers,0,854,5105
+paraphrase,1,416,2519
+paraphrase,1,760,4955
+openwebtext,0,405,2390
+openwebtext,0,390,2639
+paraphrase,1,391,2325
+paraphrase,1,381,2043
+openwebtext,0,775,4319
+opinion statements,0,1285,7030
+paraphrase,1,492,2901
+openwebtext,0,670,4259
+openwebtext,0,1291,8076
+answers,0,940,5088
+paraphrase,1,455,2536
+paraphrase,1,749,4822
+paraphrase,1,690,3932
+paraphrase,1,396,2344
+paraphrase,1,415,2311
+paraphrase,1,702,4290
+paraphrase,1,386,2191
+paraphrase,1,398,2325
+news articles,0,858,4837
+openwebtext,0,371,2165
+paraphrase,1,491,2704
+openwebtext,0,1049,6545
+paraphrase,1,437,2385
+paraphrase,1,384,2146
+paraphrase,1,508,2929
+news articles,0,872,4617
+opinion statements,0,569,3134
+news articles,0,1495,7933
+paraphrase,1,790,4720
+openwebtext,0,1035,6047
+openwebtext,0,1474,8348
+openwebtext,0,1425,8452
+paraphrase,1,381,2130
+paraphrase,1,451,2647
+paraphrase,1,397,2463
+news articles,0,1288,6932
+paraphrase,1,471,2626
+paraphrase,1,474,2802
+paraphrase,1,624,3441
+openwebtext,0,788,4606
+paraphrase,1,678,3618
+paraphrase,1,450,2621
+openwebtext,0,546,3209
+openwebtext,0,1341,8222
+openwebtext,0,1356,7537
+webtext,0,670,4283
+opinion statements,0,467,2512
+openwebtext,0,1087,6266
+paraphrase,1,607,3621
+openwebtext,0,519,2900
+answers,0,914,5356
+paraphrase,1,424,2454
+paraphrase,1,411,2410
+opinion statements,0,768,4452
+paraphrase,1,523,3190
+news articles,0,947,5513
+webtext,0,513,3105
+opinion statements,0,486,2749
+paraphrase,1,368,2255
+opinion statements,0,1254,6915
+paraphrase,1,406,2395
+webtext,0,776,4742
+blog,0,534,2979
+openwebtext,0,727,4527
+openwebtext,0,937,6006
+news articles,0,834,4967
+news articles,0,1153,6793
+openwebtext,0,422,2603
+paraphrase,1,464,2771
+openwebtext,0,457,2773
+opinion statements,0,666,3608
+openwebtext,0,429,2603
+opinion statements,0,486,2656
+openwebtext,0,1246,8225
+paraphrase,1,545,2839
+paraphrase,1,506,2803
+scientific research,0,901,6205
+paraphrase,1,715,3945
+paraphrase,1,535,3066
+openwebtext,0,582,3541
+paraphrase,1,421,2449
+paraphrase,1,507,3125
+paraphrase,1,515,2921
+openwebtext,0,1067,5995
+paraphrase,1,447,2402
+opinion statements,0,653,3385
+webtext,0,854,5198
+news articles,0,1461,8179
+paraphrase,1,688,4085
+paraphrase,1,490,3078
+paraphrase,1,573,3292
+paraphrase,1,470,2781
+webtext,0,811,4965
+news articles,0,912,4849
+paraphrase,1,409,2544
+openwebtext,0,510,2736
+openwebtext,0,411,2436
+paraphrase,1,454,2681
+opinion statements,0,682,3767
+opinion statements,0,413,2511
+opinion statements,0,966,6020
+paraphrase,1,559,3144
+openwebtext,0,692,4081
+paraphrase,1,539,3043
+paraphrase,1,498,2546
+openwebtext,0,688,4238
+news articles,0,829,4963
+webtext,0,792,4585
+paraphrase,1,430,2470
+openwebtext,0,492,2853
+paraphrase,1,451,2551
+paraphrase,1,688,4020
+openwebtext,0,461,2694
+opinion statements,0,636,3404
+openwebtext,0,993,6213
+opinion statements,0,720,4268
+openwebtext,0,1436,7966
+opinion statements,0,628,3537
+opinion statements,0,517,2802
+webtext,0,373,2449
+paraphrase,1,663,4029
+news articles,0,907,5305
+paraphrase,1,491,2858
+opinion statements,0,641,3634
+openwebtext,0,574,3504
+openwebtext,0,430,2720
+webtext,0,497,3302
+paraphrase,1,361,1981
+paraphrase,1,405,2246
+paraphrase,1,393,2265
+scientific research,0,319,1720
+paraphrase,1,385,2204
+answers,0,845,4388
+paraphrase,1,625,3568
+paraphrase,1,391,2198
+openwebtext,0,419,2560
+paraphrase,1,429,2402
+paraphrase,1,536,3225
+paraphrase,1,598,3417
+scientific research,0,329,2236
+paraphrase,1,426,2363
+openwebtext,0,677,4090
+paraphrase,1,387,2210
+openwebtext,0,597,3810
+openwebtext,0,691,4348
+opinion statements,0,1257,7183
+paraphrase,1,397,2472
+blog,0,675,3799
+openwebtext,0,573,3551
+opinion statements,0,890,4704
+paraphrase,1,417,2339
+paraphrase,1,719,3834
+opinion statements,0,631,3279
+scientific research,0,329,1727
+paraphrase,1,532,3682
+paraphrase,1,715,4278
+paraphrase,1,401,2302
+paraphrase,1,421,2375
+paraphrase,1,711,3799
+openwebtext,0,560,3836
+webtext,0,395,2415
+openwebtext,0,1349,8313
+opinion statements,0,672,3680
+paraphrase,1,390,2295
+paraphrase,1,377,2144
+paraphrase,1,492,2749
+openwebtext,0,517,3308
+paraphrase,1,784,4531
+opinion statements,0,508,2872
+blog,0,1011,5538
+paraphrase,1,716,4246
+openwebtext,0,780,4576
+opinion statements,0,588,3343
+opinion statements,0,555,2954
+opinion statements,0,480,2607
+paraphrase,1,461,2681
+openwebtext,0,653,3925
+paraphrase,1,587,3428
+paraphrase,1,717,4028
+paraphrase,1,467,2592
+openwebtext,0,592,3683
+paraphrase,1,445,2463
+webtext,0,848,5130
+paraphrase,1,610,3461
+paraphrase,1,613,3601
+scientific research,0,436,2854
+openwebtext,0,1418,8814
+paraphrase,1,377,2253
+paraphrase,1,584,3074
+paraphrase,1,377,2259
+paraphrase,1,498,2743
+paraphrase,1,532,2972
+paraphrase,1,439,2196
+paraphrase,1,400,2430
+opinion statements,0,703,3744
+paraphrase,1,402,2491
+paraphrase,1,368,2115
+webtext,0,592,3663
+paraphrase,1,493,2961
+news articles,0,1033,6017
+paraphrase,1,599,3630
+paraphrase,1,358,1931
+opinion statements,0,509,2872
+paraphrase,1,707,4317
+openwebtext,0,764,4672
+opinion statements,0,406,2237
+openwebtext,0,497,3045
+openwebtext,0,615,3738
+paraphrase,1,468,2742
+paraphrase,1,374,2125
+opinion statements,0,684,4308
+opinion statements,0,476,2751
+openwebtext,0,965,5659
+paraphrase,1,470,2783
+answers,0,1024,5532
+paraphrase,1,642,3753
+paraphrase,1,489,2625
+opinion statements,0,653,3646
+paraphrase,1,805,4693
+scientific research,0,376,2367
+paraphrase,1,395,2293
+paraphrase,1,397,2229
+paraphrase,1,684,3736
+paraphrase,1,731,4079
+paraphrase,1,539,3032
+openwebtext,0,395,2538
+openwebtext,0,477,2876
+opinion statements,0,469,2674
+answers,0,1417,8234
+openwebtext,0,881,5515
+webtext,0,508,2797
+paraphrase,1,488,2957
+openwebtext,0,387,2408
+paraphrase,1,461,2826
+paraphrase,1,588,3202
+paraphrase,1,395,2304
+paraphrase,1,446,2612
+news articles,0,814,4786
+opinion statements,0,677,4270
+openwebtext,0,934,5212
+openwebtext,0,737,4382
+paraphrase,1,469,2585
+paraphrase,1,359,2065
+openwebtext,0,956,6055
+paraphrase,1,488,2955
+paraphrase,1,426,2336
+openwebtext,0,498,2797
+paraphrase,1,397,2304
+paraphrase,1,555,3194
+paraphrase,1,355,2074
+news articles,0,1427,8057
+openwebtext,0,628,3780
+paraphrase,1,409,2386
+paraphrase,1,436,2600
+paraphrase,1,447,2707
+scientific research,0,362,2436
+paraphrase,1,655,3731
+paraphrase,1,639,3597
+paraphrase,1,438,2611
+paraphrase,1,460,2456
+paraphrase,1,474,2711
+opinion statements,0,483,2742
+paraphrase,1,486,3041
+paraphrase,1,393,2219
+paraphrase,1,443,2346
+opinion statements,0,676,3984
+paraphrase,1,714,4250
+paraphrase,1,503,3044
+opinion statements,0,715,3963
+paraphrase,1,386,2330
+paraphrase,1,510,2723
+openwebtext,0,1330,8325
+paraphrase,1,502,2925
+openwebtext,0,531,2842
+paraphrase,1,498,3111
+opinion statements,0,454,2417
+webtext,0,730,3559
+opinion statements,0,556,3113
+opinion statements,0,441,2563
+paraphrase,1,411,2330
+paraphrase,1,387,2412
+blog,0,386,2011
+paraphrase,1,426,2458
+paraphrase,1,391,2303
+answers,0,1335,7945
+paraphrase,1,421,2500
+paraphrase,1,748,4396
+answers,0,835,4618
+webtext,0,755,4572
+paraphrase,1,336,2095
+openwebtext,0,778,4581
+paraphrase,1,614,3565
+blog,0,443,2181
+openwebtext,0,1144,7113
+scientific research,0,343,2338
+paraphrase,1,533,3067
+opinion statements,0,407,2345
+paraphrase,1,574,3324
+opinion statements,0,509,2902
+paraphrase,1,726,4033
+paraphrase,1,718,4083
+paraphrase,1,426,2340
+opinion statements,0,411,2431
+webtext,0,722,4155
+paraphrase,1,381,2198
+paraphrase,1,694,3743
+openwebtext,0,1108,6211
+blog,0,700,3641
+openwebtext,0,847,5370
+opinion statements,0,404,2408
+news articles,0,1217,7039
+paraphrase,1,410,2368
+paraphrase,1,364,2093
+paraphrase,1,390,2248
+openwebtext,0,613,3698
+paraphrase,1,449,2595
+news articles,0,954,5614
+paraphrase,1,445,2557
+paraphrase,1,407,2177
+answers,0,838,4615
+webtext,0,418,2354
+openwebtext,0,839,5077
+paraphrase,1,389,2325
+paraphrase,1,383,2240
+openwebtext,0,430,2775
+paraphrase,1,647,3570
+openwebtext,0,840,4866
+paraphrase,1,366,2076
+openwebtext,0,784,4887
+paraphrase,1,565,3407
+answers,0,868,4766
+paraphrase,1,463,2807
+openwebtext,0,386,2386
+openwebtext,0,506,3035
+paraphrase,1,1010,6224
+opinion statements,0,527,2868
+paraphrase,1,425,2337
+opinion statements,0,431,2551
+paraphrase,1,423,2399
+paraphrase,1,579,3075
+paraphrase,1,378,2084
+paraphrase,1,367,2097
+opinion statements,0,1254,6447
+paraphrase,1,477,2515
+opinion statements,0,961,5649
+paraphrase,1,410,2191
+paraphrase,1,378,2206
+paraphrase,1,532,2958
+openwebtext,0,693,3759
+paraphrase,1,433,2407
+paraphrase,1,373,2173
+paraphrase,1,707,4202
+scientific research,0,432,2677
+paraphrase,1,454,2739
+paraphrase,1,603,3374
+paraphrase,1,673,3881
+paraphrase,1,353,1930
+scientific research,0,351,2322
+paraphrase,1,357,2110
+paraphrase,1,388,2459
+webtext,0,404,2596
+opinion statements,0,717,4194
+paraphrase,1,416,2395
+news articles,0,1367,7462
+paraphrase,1,596,3519
+paraphrase,1,410,2432
+openwebtext,0,715,4310
+paraphrase,1,744,4474
+paraphrase,1,384,2062
+paraphrase,1,574,3236
+paraphrase,1,410,2361
+opinion statements,0,549,3055
+answers,0,984,5639
+paraphrase,1,392,2157
+openwebtext,0,394,2304
+answers,0,1293,7214
+paraphrase,1,549,3181
+opinion statements,0,433,2387
+paraphrase,1,483,2728
+openwebtext,0,639,3965
+openwebtext,0,419,2776
+paraphrase,1,535,2886
+opinion statements,0,438,2448
+openwebtext,0,727,4455
+news articles,0,866,4843
+paraphrase,1,406,2322
+paraphrase,1,394,2403
+paraphrase,1,498,2681
+news articles,0,886,4963
+paraphrase,1,514,3066
+paraphrase,1,488,3064
+paraphrase,1,446,2589
+paraphrase,1,536,3040
+paraphrase,1,431,2649
+paraphrase,1,377,2252
+opinion statements,0,416,2386
+webtext,0,818,4937
+paraphrase,1,483,2641
+paraphrase,1,370,2124
+paraphrase,1,656,3809
+paraphrase,1,618,3540
+paraphrase,1,527,3110
+paraphrase,1,440,2499
+paraphrase,1,665,3827
+openwebtext,0,1348,7978
+openwebtext,0,759,4876
+openwebtext,0,428,2728
+scientific research,0,340,2352
+paraphrase,1,408,2238
+openwebtext,0,596,3357
+paraphrase,1,365,2095
+opinion statements,0,497,2650
+paraphrase,1,448,2582
+paraphrase,1,371,2132
+paraphrase,1,629,4085
+answers,0,870,4937
+paraphrase,1,601,3742
+paraphrase,1,429,2566
+paraphrase,1,429,2448
+paraphrase,1,447,2861
+answers,0,859,4750
+paraphrase,1,359,2081
+paraphrase,1,496,2764
+openwebtext,0,593,3681
+paraphrase,1,710,3815
+paraphrase,1,458,2566
+blog,0,586,3118
+opinion statements,0,538,3127
+opinion statements,0,864,5283
+news articles,0,1397,8198
+openwebtext,0,606,3463
+paraphrase,1,489,2841
+paraphrase,1,722,4430
+paraphrase,1,443,2465
+opinion statements,0,991,5880
+paraphrase,1,454,2413
+opinion statements,0,766,4164
+answers,0,840,5436
+paraphrase,1,524,2929
+openwebtext,0,414,2481
+paraphrase,1,575,3343
+answers,0,1147,6685
+answers,0,910,5276
+opinion statements,0,783,4365
+paraphrase,1,505,2762
+paraphrase,1,731,3989
+paraphrase,1,585,3374
+paraphrase,1,423,2421
+paraphrase,1,371,2163
+opinion statements,0,413,2305
+paraphrase,1,401,2269
+paraphrase,1,459,2725
+opinion statements,0,830,4862
+opinion statements,0,574,3335
+paraphrase,1,657,3746
+paraphrase,1,661,3698
+webtext,0,711,4376
+openwebtext,0,920,5298
+paraphrase,1,447,2541
+paraphrase,1,498,2681
+openwebtext,0,620,3010
+paraphrase,1,637,3913
+paraphrase,1,567,3231
+openwebtext,0,606,3872
+answers,0,988,5748
+paraphrase,1,765,4831
+paraphrase,1,544,3281
+paraphrase,1,601,3384
+paraphrase,1,518,2901
+paraphrase,1,443,2461
+openwebtext,0,875,5209
+opinion statements,0,606,3415
+paraphrase,1,565,3471
+paraphrase,1,622,3508
+paraphrase,1,517,3021
+openwebtext,0,518,3313
+opinion statements,0,428,2349
+paraphrase,1,557,3051
+paraphrase,1,747,4357
+scientific research,0,338,2455
+opinion statements,0,488,2628
+openwebtext,0,635,3945
+paraphrase,1,424,2699
+paraphrase,1,654,3756
+paraphrase,1,466,2684
+blog,0,384,2170
+openwebtext,0,1084,6417
+webtext,0,716,4412
+paraphrase,1,586,3202
+blog,0,505,2840
+paraphrase,1,675,3631
+openwebtext,0,1123,5879
+openwebtext,0,1133,6555
+openwebtext,0,817,4950
+paraphrase,1,524,3174
+paraphrase,1,575,3267
+paraphrase,1,433,2472
+paraphrase,1,388,2103
+paraphrase,1,376,2087
+opinion statements,0,454,2575
+paraphrase,1,659,3808
+opinion statements,0,436,2559
+paraphrase,1,599,3307
+openwebtext,0,1017,6530
+paraphrase,1,417,2201
+opinion statements,0,549,3156
+paraphrase,1,578,3344
+paraphrase,1,390,2165
+opinion statements,0,458,2627
+openwebtext,0,528,3349
+openwebtext,0,1026,6066
+paraphrase,1,593,3110
+paraphrase,1,395,2393
+paraphrase,1,618,3408
+openwebtext,0,824,4905
+webtext,0,613,4230
+blog,0,1283,7066
+paraphrase,1,586,3536
+paraphrase,1,659,3887
+opinion statements,0,858,4763
+paraphrase,1,464,2631
+paraphrase,1,389,2322
+openwebtext,0,1182,6558
+paraphrase,1,450,2612
+webtext,0,416,2426
+paraphrase,1,449,2572
+paraphrase,1,483,2825
+openwebtext,0,389,2581
+paraphrase,1,483,2675
+webtext,0,461,2496
+paraphrase,1,513,2902
+paraphrase,1,354,1908
+paraphrase,1,403,2239
+paraphrase,1,649,3728
+opinion statements,0,469,2736
+paraphrase,1,474,2769
+news articles,0,1388,7561
+paraphrase,1,461,2773
+paraphrase,1,440,2490
+paraphrase,1,544,2952
+webtext,0,769,4321
+paraphrase,1,671,4147
+paraphrase,1,423,2359
+paraphrase,1,427,2655
+paraphrase,1,663,3926
+paraphrase,1,423,2587
+paraphrase,1,377,2367
+openwebtext,0,440,2627
+paraphrase,1,505,2894
+scientific research,0,446,2904
+paraphrase,1,521,2926
+opinion statements,0,425,2374
+paraphrase,1,441,2654
+openwebtext,0,892,5251
+paraphrase,1,523,3037
+paraphrase,1,423,2299
+openwebtext,0,502,3250
+opinion statements,0,1138,6429
+opinion statements,0,649,3923
+paraphrase,1,403,2289
+paraphrase,1,606,3508
+answers,0,1312,7950
+paraphrase,1,687,3936
+paraphrase,1,526,3022
+paraphrase,1,427,2270
+paraphrase,1,539,3186
+paraphrase,1,419,2516
+opinion statements,0,423,2458
+paraphrase,1,481,2811
+paraphrase,1,544,3135
+paraphrase,1,707,4430
+paraphrase,1,656,3809
+webtext,0,743,3917
+paraphrase,1,480,2721
+answers,0,1266,6961
+openwebtext,0,499,3073
+answers,0,843,4910
+paraphrase,1,446,2562
+blog,0,427,2531
+openwebtext,0,456,2449
+paraphrase,1,552,3193
+paraphrase,1,547,3024
+openwebtext,0,847,5232
+paraphrase,1,431,2435
+opinion statements,0,419,2523
+paraphrase,1,440,2512
+webtext,0,877,5118
+paraphrase,1,472,2734
+openwebtext,0,1254,7144
+openwebtext,0,964,5735
+openwebtext,0,423,2574
+opinion statements,0,668,3870
+openwebtext,0,391,2466
+opinion statements,0,429,2511
+openwebtext,0,1475,8703
+openwebtext,0,712,3983
+paraphrase,1,386,2437
+paraphrase,1,569,3361
+openwebtext,0,406,2586
+openwebtext,0,975,6465
+opinion statements,0,461,2605
+openwebtext,0,480,2936
+webtext,0,501,2988
+paraphrase,1,734,3996
+openwebtext,0,853,5040
+paraphrase,1,573,3284
+paraphrase,1,536,2914
+paraphrase,1,392,2305
+paraphrase,1,490,2663
+paraphrase,1,471,2701
+paraphrase,1,537,3140
+webtext,0,400,2410
+opinion statements,0,489,2724
+openwebtext,0,542,3338
+paraphrase,1,775,4714
+paraphrase,1,462,2512
+opinion statements,0,1389,8001
+webtext,0,548,3130
+paraphrase,1,397,2276
+paraphrase,1,474,2525
+paraphrase,1,488,2752
+paraphrase,1,471,2730
+paraphrase,1,376,2131
+paraphrase,1,623,3756
+paraphrase,1,419,2375
+paraphrase,1,542,3022
+paraphrase,1,534,3279
+openwebtext,0,1179,6841
+openwebtext,0,393,2543
+openwebtext,0,1065,6180
+paraphrase,1,470,2782
+openwebtext,0,810,4454
+openwebtext,0,508,3083
+paraphrase,1,486,2879
+openwebtext,0,545,3748
+openwebtext,0,838,4925
+paraphrase,1,392,2205
+opinion statements,0,594,3327
+paraphrase,1,394,2326
+scientific research,0,302,2053
+answers,0,895,4940
+paraphrase,1,625,3810
+paraphrase,1,656,4256
+paraphrase,1,394,2343
+openwebtext,0,581,3709
+opinion statements,0,499,2627
+answers,0,1236,6921
+paraphrase,1,418,2471
+opinion statements,0,423,2494
+paraphrase,1,479,2751
+paraphrase,1,450,2582
+paraphrase,1,418,2479
+opinion statements,0,531,3056
+blog,0,466,2488
+paraphrase,1,646,3652
+openwebtext,0,594,3350
+webtext,0,817,5036
+paraphrase,1,556,3077
+paraphrase,1,698,3740
+paraphrase,1,562,3098
+paraphrase,1,449,2380
+openwebtext,0,899,5372
+opinion statements,0,902,4967
+opinion statements,0,411,2278
+paraphrase,1,411,2526
+opinion statements,0,456,2590
+opinion statements,0,490,2828
+paraphrase,1,639,3772
+paraphrase,1,395,2329
+openwebtext,0,1218,7449
+paraphrase,1,410,2357
+paraphrase,1,367,2110
+paraphrase,1,373,2176
+paraphrase,1,375,2060
+openwebtext,0,596,3358
+openwebtext,0,864,5028
+openwebtext,0,1285,7788
+paraphrase,1,489,2979
+paraphrase,1,379,2267
+paraphrase,1,624,3423
+openwebtext,0,896,5155
+opinion statements,0,818,4427
+paraphrase,1,463,2538
+paraphrase,1,499,2940
+opinion statements,0,465,2616
+paraphrase,1,419,2448
+paraphrase,1,569,3225
+webtext,0,376,2106
+paraphrase,1,505,2972
+opinion statements,0,576,3394
+openwebtext,0,468,2697
+openwebtext,0,794,4396
+paraphrase,1,644,3683
+paraphrase,1,551,3240
+paraphrase,1,641,3560
+paraphrase,1,433,2417
+openwebtext,0,381,2119
+paraphrase,1,394,2144
+paraphrase,1,363,1943
+paraphrase,1,717,3954
+webtext,0,495,2920
+paraphrase,1,492,2868
+answers,0,961,5180
+paraphrase,1,405,2499
+opinion statements,0,514,2762
+paraphrase,1,751,4609
+opinion statements,0,418,2348
+paraphrase,1,774,4535
+paraphrase,1,566,3097
+answers,0,998,5343
+paraphrase,1,553,3238
+openwebtext,0,580,3674
+paraphrase,1,438,2556
+paraphrase,1,712,4060
+paraphrase,1,438,2730
+paraphrase,1,389,2268
+paraphrase,1,426,2576
+openwebtext,0,655,3849
+paraphrase,1,415,2503
+paraphrase,1,720,4305
+paraphrase,1,461,2964
+opinion statements,0,623,3590
+paraphrase,1,448,2521
+paraphrase,1,746,4397
+paraphrase,1,440,2459
+paraphrase,1,383,2152
+answers,0,1381,7440
+openwebtext,0,910,5339
+paraphrase,1,468,2617
+opinion statements,0,628,3592
+openwebtext,0,711,4254
+paraphrase,1,425,2214
+paraphrase,1,463,2489
+opinion statements,0,968,5664
+paraphrase,1,377,2222
+opinion statements,0,463,2521
+opinion statements,0,428,2625
+opinion statements,0,402,2288
+paraphrase,1,517,2864
+webtext,0,592,3500
+opinion statements,0,422,2421
+opinion statements,0,452,2377
+opinion statements,0,465,2808
+openwebtext,0,410,2717
+openwebtext,0,407,2232
+paraphrase,1,690,4104
+openwebtext,0,1183,7036
+openwebtext,0,1223,7021
+paraphrase,1,427,2494
+blog,0,511,2718
+paraphrase,1,492,2881
+opinion statements,0,443,2752
+paraphrase,1,641,3862
+opinion statements,0,593,3335
+opinion statements,0,477,2649
+paraphrase,1,589,3284
+openwebtext,0,435,2392
+openwebtext,0,947,5871
+paraphrase,1,384,2279
+paraphrase,1,440,2569
+openwebtext,0,894,5609
+openwebtext,0,1112,6620
+paraphrase,1,428,2320
+paraphrase,1,492,2790
+openwebtext,0,576,3403
+opinion statements,0,460,2559
+paraphrase,1,563,3311
+answers,0,870,5323
+paraphrase,1,461,2636
+openwebtext,0,1024,6187
+paraphrase,1,482,2836
+openwebtext,0,461,2885
+openwebtext,0,589,3789
+paraphrase,1,436,2450
+webtext,0,385,2395
+paraphrase,1,490,2641
+opinion statements,0,958,5438
+paraphrase,1,346,1857
+answers,0,1476,8428
+paraphrase,1,403,2261
+paraphrase,1,381,2124
+blog,0,449,2581
+paraphrase,1,445,2454
+paraphrase,1,563,3190
+paraphrase,1,369,2126
+paraphrase,1,509,2861
+opinion statements,0,547,2874
+opinion statements,0,508,2716
+answers,0,880,5166
+paraphrase,1,524,3142
+openwebtext,0,722,4324
+paraphrase,1,600,3502
+paraphrase,1,412,2373
+opinion statements,0,991,5622
+paraphrase,1,498,2840
+paraphrase,1,530,2921
+scientific research,0,301,2012
+scientific research,0,325,1912
+paraphrase,1,505,2975
+openwebtext,0,830,4572
+opinion statements,0,1242,7436
+opinion statements,0,905,5145
+paraphrase,1,364,2073
+opinion statements,0,404,2383
+paraphrase,1,569,3189
+answers,0,1489,8754
+paraphrase,1,565,3191
+paraphrase,1,449,2485
+paraphrase,1,512,2923
+paraphrase,1,409,2441
+blog,0,540,2839
+opinion statements,0,715,3924
+openwebtext,0,895,5766
+paraphrase,1,538,3127
+webtext,0,741,4324
+openwebtext,0,1281,7389
+paraphrase,1,390,2210
+paraphrase,1,430,2514
+opinion statements,0,427,2338
+paraphrase,1,420,2351
+scientific research,0,402,2577
+opinion statements,0,497,2882
+opinion statements,0,484,2764
+paraphrase,1,399,2355
+opinion statements,0,598,3086
+paraphrase,1,463,2714
+opinion statements,0,598,3439
+openwebtext,0,1018,6782
+paraphrase,1,409,2520
+openwebtext,0,630,3966
+answers,0,1170,6672
+paraphrase,1,410,2216
+openwebtext,0,885,5129
+paraphrase,1,393,2213
+openwebtext,0,753,4889
+webtext,0,740,4454
+paraphrase,1,436,2569
+paraphrase,1,393,2356
+paraphrase,1,402,2294
+paraphrase,1,486,2917
+paraphrase,1,517,3006
+paraphrase,1,385,2109
+opinion statements,0,496,2731
+paraphrase,1,437,2468
+opinion statements,0,487,2859
+paraphrase,1,547,3141
+openwebtext,0,422,2634
+paraphrase,1,404,2300
+openwebtext,0,687,3911
+openwebtext,0,392,2472
+news articles,0,914,5306
+paraphrase,1,509,2939
+paraphrase,1,508,2927
+openwebtext,0,907,4774
+paraphrase,1,584,3230
+paraphrase,1,449,2486
+paraphrase,1,857,4767
+opinion statements,0,506,2702
+paraphrase,1,675,4150
+opinion statements,0,826,4311
+paraphrase,1,597,3313
+paraphrase,1,376,2118
+opinion statements,0,587,3318
+paraphrase,1,536,2933
+paraphrase,1,525,3107
+openwebtext,0,629,3696
+openwebtext,0,862,5020
+paraphrase,1,463,2636
+openwebtext,0,1048,6852
+paraphrase,1,494,2810
+paraphrase,1,391,2160
+webtext,0,404,2574
+opinion statements,0,618,3458
+paraphrase,1,530,3218
+paraphrase,1,430,2235
+openwebtext,0,506,3292
+paraphrase,1,561,3261
+paraphrase,1,387,2170
+webtext,0,642,3711
+paraphrase,1,362,2102
+opinion statements,0,507,2803
+openwebtext,0,551,3223
+openwebtext,0,515,3178
+opinion statements,0,414,2510
+paraphrase,1,440,2670
+opinion statements,0,421,2318
+opinion statements,0,454,2410
+answers,0,838,4758
+openwebtext,0,565,3184
+openwebtext,0,1206,7272
+opinion statements,0,568,3241
+openwebtext,0,678,3957
+openwebtext,0,1314,8838
+openwebtext,0,1316,7832
+openwebtext,0,951,5388
+paraphrase,1,421,2549
+openwebtext,0,953,5822
+paraphrase,1,584,3346
+paraphrase,1,657,3883
+opinion statements,0,517,2904
+paraphrase,1,515,3096
+answers,0,1064,6291
+openwebtext,0,636,3562
+paraphrase,1,410,2230
+openwebtext,0,939,5988
+paraphrase,1,447,2512
+paraphrase,1,393,2264
+opinion statements,0,412,2523
+paraphrase,1,528,3092
+paraphrase,1,611,3398
+opinion statements,0,1432,8309
+openwebtext,0,435,2837
+answers,0,1187,6925
+paraphrase,1,558,3193
+paraphrase,1,587,3371
+paraphrase,1,604,3586
+opinion statements,0,898,4718
+openwebtext,0,557,3242
+news articles,0,980,5638
+paraphrase,1,599,3394
+paraphrase,1,490,2746
+openwebtext,0,584,3514
+paraphrase,1,753,4491
+opinion statements,0,526,2854
+blog,0,710,3578
+paraphrase,1,498,2774
+paraphrase,1,411,2425
+opinion statements,0,452,2574
+paraphrase,1,500,2663
+news articles,0,858,4911
+openwebtext,0,682,3779
+paraphrase,1,733,4129
+opinion statements,0,764,4290
+opinion statements,0,870,4939
+openwebtext,0,507,3044
+paraphrase,1,615,3422
+paraphrase,1,503,2771
+paraphrase,1,391,2213
+paraphrase,1,810,4739
+opinion statements,0,494,2706
+paraphrase,1,495,2770
+opinion statements,0,428,2420
+opinion statements,0,768,4484
+paraphrase,1,430,2465
+answers,0,863,4840
+opinion statements,0,1207,7209
+paraphrase,1,765,4430
+paraphrase,1,417,2525
+paraphrase,1,428,2641
+openwebtext,0,896,5099
+paraphrase,1,476,2873
+paraphrase,1,450,2486
+opinion statements,0,424,2284
+paraphrase,1,414,2404
+paraphrase,1,466,2743
+paraphrase,1,480,2797
+openwebtext,0,560,3190
+paraphrase,1,395,2194
+opinion statements,0,401,2326
+paraphrase,1,497,2769
+paraphrase,1,465,2818
+paraphrase,1,432,2571
+answers,0,863,5165
+opinion statements,0,552,3505
+openwebtext,0,571,3529
+answers,0,978,5427
+paraphrase,1,544,3005
+openwebtext,0,558,3382
+openwebtext,0,1180,6664
+webtext,0,718,4069
+news articles,0,1006,5642
+paraphrase,1,513,2995
+paraphrase,1,424,2340
+blog,0,397,1968
+paraphrase,1,403,2349
+openwebtext,0,699,4195
+opinion statements,0,658,3826
+openwebtext,0,851,4973
+paraphrase,1,492,2749
+paraphrase,1,540,2983
+opinion statements,0,755,4056
+paraphrase,1,420,2359
+opinion statements,0,476,2570
+openwebtext,0,735,4307
+scientific research,0,402,2403
+openwebtext,0,1327,8454
+openwebtext,0,1293,8295
+openwebtext,0,648,4293
+paraphrase,1,459,3034
+paraphrase,1,427,2245
+answers,0,1436,7880
+opinion statements,0,480,2678
+paraphrase,1,492,2865
+openwebtext,0,838,5237
+opinion statements,0,1178,6534
+opinion statements,0,458,2504
+blog,0,380,1921
+openwebtext,0,1265,6859
+paraphrase,1,480,2637
+openwebtext,0,996,5766
+paraphrase,1,537,3552
+openwebtext,0,584,3799
+openwebtext,0,459,2784
+paraphrase,1,337,2003
+openwebtext,0,868,5180
+opinion statements,0,491,2773
+opinion statements,0,673,3754
+answers,0,1334,6660
+paraphrase,1,398,2342
+paraphrase,1,579,3487
+paraphrase,1,407,2401
+paraphrase,1,594,3228
+opinion statements,0,433,2528
+paraphrase,1,468,2782
+openwebtext,0,811,4688
+paraphrase,1,537,3032
+openwebtext,0,599,3527
+webtext,0,782,4517
+paraphrase,1,545,3112
+openwebtext,0,506,3106
+openwebtext,0,883,5432
+paraphrase,1,481,2670
+scientific research,0,313,2100
+paraphrase,1,433,2306
+paraphrase,1,436,2658
+paraphrase,1,725,4308
+paraphrase,1,584,3284
+paraphrase,1,601,3490
+openwebtext,0,1314,8240
+paraphrase,1,380,2385
+scientific research,0,348,2090
+paraphrase,1,605,3506
+news articles,0,1157,6466
+paraphrase,1,361,2092
+paraphrase,1,520,2872
+paraphrase,1,394,2244
+openwebtext,0,523,3222
+paraphrase,1,558,3306
+openwebtext,0,571,3527
+paraphrase,1,606,3604
+paraphrase,1,406,2324
+paraphrase,1,569,3217
+paraphrase,1,425,2438
+paraphrase,1,580,3420
+paraphrase,1,418,2424
+news articles,0,1088,6460
+openwebtext,0,474,2485
+openwebtext,0,1213,7668
+paraphrase,1,447,2528
+opinion statements,0,452,2617
+scientific research,0,331,2127
+openwebtext,0,379,2238
+opinion statements,0,421,2392
+opinion statements,0,632,3678
+opinion statements,0,467,2596
+openwebtext,0,847,5456
+news articles,0,1231,7054
+openwebtext,0,502,2843
+opinion statements,0,869,5205
+paraphrase,1,622,3508
+paraphrase,1,560,3275
+paraphrase,1,433,2541
+paraphrase,1,359,2129
+answers,0,848,5024
+openwebtext,0,1155,6720
+paraphrase,1,478,2836
+openwebtext,0,779,4937
+answers,0,818,4363
+paraphrase,1,483,2914
+opinion statements,0,486,2582
+paraphrase,1,427,2436
+paraphrase,1,545,3190
+paraphrase,1,442,2585
+paraphrase,1,402,2222
+paraphrase,1,450,2354
+blog,0,1071,6346
+paraphrase,1,746,4431
+paraphrase,1,595,3303
+opinion statements,0,423,2301
+openwebtext,0,953,5630
+paraphrase,1,749,4355
+paraphrase,1,384,2189
+paraphrase,1,421,2379
+webtext,0,456,2742
+webtext,0,435,2671
+answers,0,834,4915
+openwebtext,0,455,2890
+paraphrase,1,651,4211
+openwebtext,0,426,2592
+webtext,0,813,4751
+opinion statements,0,770,4523
+opinion statements,0,510,2979
+openwebtext,0,544,3381
+scientific research,0,359,1964
+opinion statements,0,529,2997
+paraphrase,1,605,3741
+webtext,0,737,4287
+openwebtext,0,675,4018
+paraphrase,1,414,2363
+paraphrase,1,433,2454
+paraphrase,1,554,3092
+paraphrase,1,414,2383
+paraphrase,1,509,3014
+paraphrase,1,448,2604
+paraphrase,1,555,2881
+paraphrase,1,623,3571
+paraphrase,1,602,3392
+answers,0,1134,6584
+paraphrase,1,498,3111
+paraphrase,1,467,2593
+opinion statements,0,442,2583
+paraphrase,1,685,3851
+paraphrase,1,403,2134
+webtext,0,841,4667
+opinion statements,0,716,4148
+opinion statements,0,590,3174
+paraphrase,1,496,2788
+paraphrase,1,690,3969
+paraphrase,1,555,3076
+paraphrase,1,642,3590
+openwebtext,0,1444,9217
+blog,0,392,2164
+webtext,0,822,5085
+paraphrase,1,403,2393
+paraphrase,1,427,2589
+paraphrase,1,537,2926
+paraphrase,1,426,2399
+openwebtext,0,810,4711
+paraphrase,1,445,2525
+webtext,0,430,2502
+opinion statements,0,586,3219
+opinion statements,0,520,3098
+openwebtext,0,621,3784
+opinion statements,0,582,3393
+paraphrase,1,443,2591
+paraphrase,1,458,2764
+paraphrase,1,707,3957
+openwebtext,0,1054,6958
+paraphrase,1,410,2424
+opinion statements,0,1473,7753
+openwebtext,0,952,5387
+paraphrase,1,601,3429
+webtext,0,821,4522
+scientific research,0,304,1920
+answers,0,814,4697
+paraphrase,1,457,2561
+paraphrase,1,539,2905
+paraphrase,1,570,3328
+opinion statements,0,509,2952
+paraphrase,1,414,2293
+openwebtext,0,1185,7199
+paraphrase,1,707,4061
+paraphrase,1,462,2595
+opinion statements,0,717,3935
+paraphrase,1,527,2935
+paraphrase,1,475,2608
+opinion statements,0,542,3039
+paraphrase,1,704,4057
+opinion statements,0,452,2695
+paraphrase,1,618,3540
+openwebtext,0,524,2909
+opinion statements,0,1159,6787
+paraphrase,1,734,4016
+openwebtext,0,459,2644
+paraphrase,1,593,3253
+openwebtext,0,1179,6591
+scientific research,0,349,2268
+openwebtext,0,415,2535
+openwebtext,0,619,3672
+opinion statements,0,593,3325
+openwebtext,0,398,2370
+paraphrase,1,509,2866
+paraphrase,1,630,3630
+opinion statements,0,953,5436
+opinion statements,0,666,3784
+paraphrase,1,365,2077
+openwebtext,0,622,3332
+paraphrase,1,652,3750
+paraphrase,1,471,2772
+paraphrase,1,663,3990
+paraphrase,1,707,4052
+paraphrase,1,585,3444
+news articles,0,1400,8384
+paraphrase,1,385,2162
+paraphrase,1,723,4253
+paraphrase,1,429,2548
+paraphrase,1,559,2951
+paraphrase,1,668,3730
+paraphrase,1,425,2428
+paraphrase,1,698,3974
+opinion statements,0,857,4569
+news articles,0,954,5660
+paraphrase,1,538,3224
+opinion statements,0,417,2199
+news articles,0,971,5370
+answers,0,953,5342
+opinion statements,0,747,4122
+openwebtext,0,567,3302
+paraphrase,1,456,2551
+scientific research,0,350,2420
+paraphrase,1,383,2358
+paraphrase,1,448,2786
+opinion statements,0,415,2477
+openwebtext,0,1367,7347
+paraphrase,1,470,2509
+opinion statements,0,571,3124
+answers,0,1193,6727
+opinion statements,0,460,2530
+paraphrase,1,642,3529
+openwebtext,0,903,5452
+opinion statements,0,882,5041
+paraphrase,1,388,2194
+paraphrase,1,390,2364
+paraphrase,1,630,3604
+paraphrase,1,633,3543
+paraphrase,1,573,3264
+answers,0,1046,6437
+opinion statements,0,648,3887
+paraphrase,1,426,2525
+paraphrase,1,391,2214
+opinion statements,0,1017,6042
+opinion statements,0,434,2522
+paraphrase,1,452,2617
+opinion statements,0,793,4477
+paraphrase,1,370,2013
+scientific research,0,367,2340
+openwebtext,0,584,3510
+paraphrase,1,459,2632
+paraphrase,1,561,3254
+paraphrase,1,580,3254
+opinion statements,0,639,3781
+openwebtext,0,1133,6764
+opinion statements,0,490,2784
+openwebtext,0,1227,7298
+paraphrase,1,486,3043
+opinion statements,0,628,3740
+paraphrase,1,475,2673
+paraphrase,1,485,2740
+paraphrase,1,457,2565
+openwebtext,0,464,2733
+openwebtext,0,447,2977
+openwebtext,0,1005,5614
+openwebtext,0,394,2470
+openwebtext,0,1029,5821
+paraphrase,1,410,2472
+opinion statements,0,444,2521
+paraphrase,1,623,3744
+paraphrase,1,418,2281
+openwebtext,0,626,4012
+paraphrase,1,514,3064
+paraphrase,1,704,4366
+openwebtext,0,382,2272
+paraphrase,1,503,2665
+paraphrase,1,552,3202
+webtext,0,838,4565
+opinion statements,0,411,2385
+paraphrase,1,435,2288
+opinion statements,0,790,4302
+paraphrase,1,581,3248
+paraphrase,1,498,2789
+opinion statements,0,651,3718
+paraphrase,1,789,4744
+paraphrase,1,412,2375
+paraphrase,1,565,3205
+news articles,0,1388,7502
+paraphrase,1,699,3977
+opinion statements,0,534,2936
+webtext,0,393,2451
+openwebtext,0,529,3195
+opinion statements,0,521,3017
+webtext,0,770,4479
+paraphrase,1,439,2450
+openwebtext,0,915,5504
+paraphrase,1,644,3656
+openwebtext,0,1026,6137
+scientific research,0,313,2153
+paraphrase,1,450,2354
+opinion statements,0,472,2822
+paraphrase,1,368,2043
+openwebtext,0,864,5072
+openwebtext,0,396,2451
+opinion statements,0,558,3198
+paraphrase,1,597,3446
+paraphrase,1,720,4165
+paraphrase,1,621,3640
+paraphrase,1,707,4079
+answers,0,1120,6633
+paraphrase,1,386,2297
+paraphrase,1,524,3138
+paraphrase,1,733,4529
+paraphrase,1,440,2311
+openwebtext,0,1113,7208
+paraphrase,1,616,3792
+paraphrase,1,374,2254
+openwebtext,0,1250,7728
+paraphrase,1,576,3236
+paraphrase,1,548,3489
+scientific research,0,327,1682
+paraphrase,1,552,3306
+paraphrase,1,539,3226
+paraphrase,1,467,2792
+opinion statements,0,528,3067
+paraphrase,1,594,3158
+blog,0,464,2347
+paraphrase,1,419,2271
+paraphrase,1,545,3196
+paraphrase,1,401,2378
+paraphrase,1,602,3504
+opinion statements,0,628,3565
+paraphrase,1,672,3835
+paraphrase,1,455,2603
+opinion statements,0,468,2701
+paraphrase,1,621,3759
+paraphrase,1,403,2157
+paraphrase,1,403,2382
+paraphrase,1,371,2283
+paraphrase,1,562,3128
+paraphrase,1,566,3116
+blog,0,606,3519
+paraphrase,1,382,2204
+paraphrase,1,407,2321
+paraphrase,1,545,3042
+answers,0,1258,7426
+openwebtext,0,631,3619
+paraphrase,1,543,3193
+opinion statements,0,551,3094
+news articles,0,953,5600
+news articles,0,986,5508
+webtext,0,719,4672
+paraphrase,1,584,3306
+paraphrase,1,656,3797
+news articles,0,832,4746
+paraphrase,1,370,2097
+paraphrase,1,424,2375
+paraphrase,1,685,4105
+paraphrase,1,566,3248
+paraphrase,1,467,2464
+opinion statements,0,440,2529
+answers,0,872,4954
+paraphrase,1,668,3835
+openwebtext,0,1154,6835
+scientific research,0,421,2911
+webtext,0,607,3786
+paraphrase,1,497,2737
+paraphrase,1,363,2072
+paraphrase,1,494,2888
+openwebtext,0,868,5515
+paraphrase,1,403,2159
+openwebtext,0,507,3223
+paraphrase,1,562,3205
+blog,0,501,2722
+paraphrase,1,520,2987
+webtext,0,807,4285
+paraphrase,1,684,3957
+opinion statements,0,422,2434
+paraphrase,1,478,2763
+opinion statements,0,403,2304
+paraphrase,1,384,2288
+paraphrase,1,363,2080
+opinion statements,0,448,2465
+opinion statements,0,440,2502
+openwebtext,0,1164,6650
+openwebtext,0,1254,7181
+opinion statements,0,426,2384
+paraphrase,1,589,3321
+openwebtext,0,1290,7398
+paraphrase,1,436,2590
+openwebtext,0,727,4533
+openwebtext,0,433,2438
+opinion statements,0,542,3184
+paraphrase,1,534,3018
+opinion statements,0,756,4313
+answers,0,912,4985
+opinion statements,0,464,2704
+opinion statements,0,705,4063
+paraphrase,1,435,2524
+paraphrase,1,566,3116
+paraphrase,1,399,2236
+paraphrase,1,420,2326
+paraphrase,1,470,2628
+blog,0,565,2908
+paraphrase,1,415,2491
+paraphrase,1,567,3225
+webtext,0,415,2590
+paraphrase,1,405,2258
+openwebtext,0,788,4730
+paraphrase,1,635,3351
+news articles,0,1145,6619
+opinion statements,0,471,2516
+scientific research,0,375,2205
+paraphrase,1,582,3288
+openwebtext,0,923,5834
+paraphrase,1,424,2486
+opinion statements,0,523,2714
+opinion statements,0,843,4852
+opinion statements,0,722,4059
+paraphrase,1,711,4319
+paraphrase,1,379,1993
+paraphrase,1,386,2133
+openwebtext,0,741,4598
+blog,0,604,3221
+scientific research,0,437,2996
+openwebtext,0,391,2297
+paraphrase,1,485,2781
+paraphrase,1,469,2599
+openwebtext,0,520,2912
+paraphrase,1,384,2311
+paraphrase,1,741,4091
+openwebtext,0,859,5258
+answers,0,1076,6117
+paraphrase,1,497,2749
+paraphrase,1,606,3375
+answers,0,1159,7198
+paraphrase,1,458,2617
+paraphrase,1,434,2835
+answers,0,1023,6164
+paraphrase,1,417,2303
+paraphrase,1,455,2605
+openwebtext,0,453,2661
+paraphrase,1,428,2470
+paraphrase,1,573,3368
+openwebtext,0,530,3006
+paraphrase,1,445,2556
+paraphrase,1,536,3110
+paraphrase,1,350,2018
+opinion statements,0,813,4371
+answers,0,802,4659
+openwebtext,0,719,4712
+paraphrase,1,483,2672
+paraphrase,1,606,3368
+opinion statements,0,542,3026
+openwebtext,0,1013,6460
+news articles,0,1444,8357
+blog,0,790,4123
+paraphrase,1,556,3124
+openwebtext,0,403,2536
+paraphrase,1,435,2483
+news articles,0,898,5353
+paraphrase,1,399,2327
+opinion statements,0,465,2547
+news articles,0,1043,6070
+opinion statements,0,547,3080
+openwebtext,0,882,5526
+paraphrase,1,433,2438
+openwebtext,0,1104,8411
+news articles,0,1052,5738
+opinion statements,0,855,4891
+paraphrase,1,768,4645
+opinion statements,0,581,3230
+paraphrase,1,359,2092
+paraphrase,1,467,2594
+answers,0,1003,5987
+paraphrase,1,472,2626
+opinion statements,0,603,3681
+paraphrase,1,538,3079
+openwebtext,0,602,3527
+paraphrase,1,400,2279
+webtext,0,664,3758
+paraphrase,1,459,2633
+paraphrase,1,483,2609
+opinion statements,0,456,2648
+scientific research,0,414,2391
+paraphrase,1,398,2380
+paraphrase,1,584,3235
+paraphrase,1,415,2479
+openwebtext,0,406,2052
+openwebtext,0,426,2465
+paraphrase,1,411,2290
+paraphrase,1,403,2266
+paraphrase,1,394,2288
+paraphrase,1,384,2069
+answers,0,1155,6356
+openwebtext,0,1195,7290
+paraphrase,1,425,2358
+opinion statements,0,530,3220
+paraphrase,1,694,4037
+openwebtext,0,964,5764
+openwebtext,0,522,3083
+answers,0,1130,6746
+paraphrase,1,473,2635
+opinion statements,0,499,2767
+paraphrase,1,463,2673
+opinion statements,0,603,3478
+paraphrase,1,775,4461
+openwebtext,0,607,3903
+paraphrase,1,446,2682
+paraphrase,1,806,4644
+paraphrase,1,466,2693
+paraphrase,1,446,2632
+openwebtext,0,834,4830
+paraphrase,1,438,2701
+openwebtext,0,932,5638
+paraphrase,1,390,2075
+opinion statements,0,647,3995
+paraphrase,1,582,3363
+paraphrase,1,585,3494
+openwebtext,0,415,2767
+webtext,0,552,3309
+openwebtext,0,441,2534
+opinion statements,0,906,4913
+openwebtext,0,956,5800
+paraphrase,1,405,2315
+blog,0,1138,6441
+opinion statements,0,1022,5576
+paraphrase,1,697,3894
+opinion statements,0,444,2627
+blog,0,385,2313
+openwebtext,0,1250,7463
+openwebtext,0,937,5763
+paraphrase,1,573,3338
+paraphrase,1,415,2263
+openwebtext,0,993,6096
+paraphrase,1,423,2321
+news articles,0,815,4643
+paraphrase,1,503,2995
+openwebtext,0,1033,5892
+paraphrase,1,825,4535
+openwebtext,0,1192,7010
+paraphrase,1,378,2100
+paraphrase,1,604,3619
+paraphrase,1,388,2195
+opinion statements,0,741,4292
+paraphrase,1,417,2809
+webtext,0,415,2371
+paraphrase,1,379,2226
+paraphrase,1,375,2073
+answers,0,863,5131
+openwebtext,0,432,2802
+paraphrase,1,544,3081
+openwebtext,0,410,2394
+openwebtext,0,1087,6827
+openwebtext,0,403,2187
+paraphrase,1,352,2091
+scientific research,0,464,3007
+paraphrase,1,686,3870
+openwebtext,0,425,2398
+openwebtext,0,1041,6035
+answers,0,1380,7776
+openwebtext,0,1406,8358
+opinion statements,0,742,4511
+paraphrase,1,446,2695
+openwebtext,0,806,5293
+paraphrase,1,507,3094
+openwebtext,0,425,2485
+paraphrase,1,408,2441
+opinion statements,0,672,3752
+scientific research,0,574,3426
+paraphrase,1,467,2609
+openwebtext,0,403,2518
+scientific research,0,341,2211
+paraphrase,1,713,4200
+opinion statements,0,408,2223
+paraphrase,1,391,2318
+paraphrase,1,451,2442
+openwebtext,0,893,5512
+paraphrase,1,589,3332
+opinion statements,0,445,2414
+paraphrase,1,421,2404
+webtext,0,786,4760
+opinion statements,0,513,2827
+scientific research,0,370,2633
+paraphrase,1,703,4278
+opinion statements,0,620,3426
+openwebtext,0,724,4526
+paraphrase,1,667,3784
+blog,0,378,2019
+openwebtext,0,747,4699
+paraphrase,1,595,3337
+paraphrase,1,367,2201
+paraphrase,1,555,3586
+paraphrase,1,469,2571
+paraphrase,1,519,3305
+paraphrase,1,402,2271
+paraphrase,1,443,2496
+opinion statements,0,427,2458
+opinion statements,0,506,2871
+opinion statements,0,460,2808
+paraphrase,1,396,2071
+openwebtext,0,841,4802
+news articles,0,900,4856
+opinion statements,0,490,2766
+opinion statements,0,453,2386
+openwebtext,0,757,4468
+paraphrase,1,574,3489
+openwebtext,0,543,3382
+openwebtext,0,707,4088
+paraphrase,1,387,2339
+paraphrase,1,443,2531
+answers,0,928,5366
+paraphrase,1,415,2671
+opinion statements,0,477,2706
+webtext,0,781,4840
+paraphrase,1,476,2705
+paraphrase,1,436,2349
+paraphrase,1,678,4132
+opinion statements,0,442,2583
+opinion statements,0,412,2376
+opinion statements,0,453,2675
+paraphrase,1,376,2213
+paraphrase,1,360,2159
+opinion statements,0,553,3083
+paraphrase,1,500,2827
+paraphrase,1,443,2700
+paraphrase,1,428,2627
+openwebtext,0,1264,8361
+paraphrase,1,702,4081
+webtext,0,782,4748
+openwebtext,0,697,3944
+paraphrase,1,372,2222
+paraphrase,1,511,2926
+opinion statements,0,437,2664
+webtext,0,827,5309
+paraphrase,1,393,2243
+paraphrase,1,408,2205
+opinion statements,0,454,2456
+openwebtext,0,601,3582
+webtext,0,779,4586
+paraphrase,1,454,2615
+scientific research,0,399,2220
+paraphrase,1,451,2678
+paraphrase,1,559,3102
+paraphrase,1,699,3897
+news articles,0,1337,8180
+openwebtext,0,1434,8899
+news articles,0,1288,6849
+paraphrase,1,684,3716
+paraphrase,1,622,3535
+paraphrase,1,635,3650
+webtext,0,847,4728
+paraphrase,1,491,3041
+answers,0,861,5101
+openwebtext,0,385,2319
+paraphrase,1,778,4617
+answers,0,869,4942
+paraphrase,1,720,4349
+openwebtext,0,721,3976
+openwebtext,0,632,3966
+paraphrase,1,595,3790
+opinion statements,0,813,4862
+paraphrase,1,701,4128
+opinion statements,0,955,5593
+openwebtext,0,521,3034
+opinion statements,0,491,2769
+paraphrase,1,495,2920
+scientific research,0,360,2032
+opinion statements,0,511,2833
+paraphrase,1,469,2658
+paraphrase,1,501,3020
+paraphrase,1,400,2420
+openwebtext,0,436,2795
+paraphrase,1,489,2803
+webtext,0,828,4663
+opinion statements,0,622,3548
+paraphrase,1,665,4065
+webtext,0,668,4131
+openwebtext,0,1106,6749
+opinion statements,0,700,3707
+openwebtext,0,409,2169
+openwebtext,0,554,3411
+paraphrase,1,650,3597
+paraphrase,1,664,3644
+openwebtext,0,1335,7563
+openwebtext,0,654,3629
+paraphrase,1,432,2435
+opinion statements,0,427,2295
+paraphrase,1,512,3209
+opinion statements,0,536,2952
+openwebtext,0,467,2926
+paraphrase,1,520,2929
+paraphrase,1,454,2588
+openwebtext,0,429,2804
+opinion statements,0,487,2861
+openwebtext,0,372,2166
+paraphrase,1,400,2186
+paraphrase,1,493,2905
+opinion statements,0,1333,8137
+blog,0,405,2149
+answers,0,1489,8425
+paraphrase,1,472,2663
+opinion statements,0,559,3128
+paraphrase,1,451,2568
+blog,0,885,5342
+paraphrase,1,575,3269
+paraphrase,1,396,2254
+paraphrase,1,367,2055
+openwebtext,0,1073,5846
+opinion statements,0,663,3677
+openwebtext,0,837,5356
+opinion statements,0,730,4086
+paraphrase,1,483,2557
+openwebtext,0,379,2489
+paraphrase,1,484,2628
+opinion statements,0,475,2777
+openwebtext,0,481,2792
+paraphrase,1,371,2151
+openwebtext,0,955,5890
+news articles,0,864,4984
+paraphrase,1,539,3143
+paraphrase,1,433,2392
+paraphrase,1,468,2744
+openwebtext,0,875,5478
+paraphrase,1,393,2083
+paraphrase,1,500,2783
+openwebtext,0,456,2899
+paraphrase,1,538,3003
+webtext,0,804,5268
+paraphrase,1,449,2656
+paraphrase,1,642,3928
+paraphrase,1,516,3231
+scientific research,0,341,1943
+opinion statements,0,478,2834
+paraphrase,1,422,2411
+openwebtext,0,982,5953
+opinion statements,0,476,2743
+blog,0,507,2659
+paraphrase,1,590,3222
+paraphrase,1,488,2719
+paraphrase,1,413,2326
+opinion statements,0,404,2295
+paraphrase,1,491,2716
+paraphrase,1,427,2399
+webtext,0,650,3884
+paraphrase,1,462,2391
+opinion statements,0,461,2643
+openwebtext,0,648,3844
+scientific research,0,301,1778
+openwebtext,0,1457,8807
+opinion statements,0,582,3230
+openwebtext,0,661,3989
+openwebtext,0,506,3045
+openwebtext,0,535,3326
+paraphrase,1,578,3394
+paraphrase,1,405,2355
+paraphrase,1,657,3642
+paraphrase,1,436,2295
+opinion statements,0,520,2958
+paraphrase,1,544,3027
+openwebtext,0,1232,7520
+openwebtext,0,922,5442
+openwebtext,0,566,3338
+news articles,0,987,5748
+opinion statements,0,520,2984
+openwebtext,0,1245,7529
+answers,0,943,5143
+paraphrase,1,591,3429
+paraphrase,1,414,2381
+paraphrase,1,402,2363
+paraphrase,1,530,3118
+openwebtext,0,410,2512
+answers,0,819,4532
+opinion statements,0,551,3189
+openwebtext,0,647,3941
+paraphrase,1,387,2065
+paraphrase,1,859,4584
+webtext,0,547,3259
+paraphrase,1,409,2318
+paraphrase,1,684,3736
+openwebtext,0,550,3223
+opinion statements,0,625,3433
+openwebtext,0,580,3665
+opinion statements,0,617,3538
+paraphrase,1,606,3626
+paraphrase,1,458,2579
+answers,0,1232,7127
+openwebtext,0,703,4054
+opinion statements,0,1243,7194
+openwebtext,0,1171,7460
+openwebtext,0,935,5539
+paraphrase,1,425,2516
+paraphrase,1,376,2112
+paraphrase,1,453,2787
+opinion statements,0,686,4227
+openwebtext,0,915,5436
+paraphrase,1,552,3371
+answers,0,903,5228
+paraphrase,1,571,3249
+opinion statements,0,713,4175
+opinion statements,0,424,2364
+openwebtext,0,454,2663
+openwebtext,0,538,3568
+paraphrase,1,659,3603
+openwebtext,0,721,4332
+paraphrase,1,449,2531
+opinion statements,0,445,2591
+paraphrase,1,380,2107
+openwebtext,0,419,2494
+opinion statements,0,721,4051
+opinion statements,0,547,3094
+answers,0,1079,6265
+paraphrase,1,514,2980
+webtext,0,563,3358
+answers,0,867,4919
+scientific research,0,313,1537
+answers,0,1202,6720
+openwebtext,0,726,4719
+paraphrase,1,571,3567
+openwebtext,0,1236,7028
+paraphrase,1,428,2421
+paraphrase,1,452,2462
+openwebtext,0,462,2729
+paraphrase,1,536,3069
+paraphrase,1,567,3318
+openwebtext,0,717,4268
+paraphrase,1,736,4486
+paraphrase,1,505,3157
+openwebtext,0,552,3671
+paraphrase,1,449,2470
+paraphrase,1,586,3439
+openwebtext,0,1445,8606
+paraphrase,1,601,3556
+paraphrase,1,556,3137
+paraphrase,1,709,3974
+paraphrase,1,734,4397
+paraphrase,1,633,3608
+opinion statements,0,435,2487
+paraphrase,1,361,2090
+paraphrase,1,594,3505
+paraphrase,1,447,2457
+opinion statements,0,556,2956
+news articles,0,1163,6656
+paraphrase,1,488,2719
+paraphrase,1,678,4066
+answers,0,1069,6194
+paraphrase,1,432,2369
+openwebtext,0,472,2836
+opinion statements,0,493,2736
+paraphrase,1,748,4460
+paraphrase,1,578,3088
+openwebtext,0,835,5052
+paraphrase,1,626,3734
+paraphrase,1,440,2682
+paraphrase,1,395,2190
+news articles,0,1121,6925
+paraphrase,1,474,2657
+paraphrase,1,507,2851
+paraphrase,1,438,2321
+answers,0,1168,6286
+paraphrase,1,388,2056
+openwebtext,0,952,6314
+openwebtext,0,619,3826
+openwebtext,0,775,4942
+paraphrase,1,606,3795
+paraphrase,1,451,2677
+opinion statements,0,401,2110
+opinion statements,0,492,2500
+paraphrase,1,670,3892
+openwebtext,0,699,4280
+paraphrase,1,716,4193
+openwebtext,0,763,4822
+openwebtext,0,501,3130
+paraphrase,1,512,2917
+openwebtext,0,406,2404
+paraphrase,1,574,3495
+openwebtext,0,420,2359
+scientific research,0,348,2297
+paraphrase,1,516,2859
+paraphrase,1,672,3787
+openwebtext,0,623,4123
+opinion statements,0,619,3386
+openwebtext,0,502,3009
+opinion statements,0,408,2446
+paraphrase,1,410,2446
+paraphrase,1,404,2364
+paraphrase,1,434,2513
+news articles,0,983,5510
+paraphrase,1,379,2227
+paraphrase,1,468,2652
+openwebtext,0,516,3144
+openwebtext,0,447,2730
+webtext,0,804,4682
+paraphrase,1,586,3267
+webtext,0,465,2775
+paraphrase,1,594,3622
+opinion statements,0,639,3659
+webtext,0,789,4785
+paraphrase,1,704,4024
+openwebtext,0,384,2171
+opinion statements,0,407,2212
+paraphrase,1,743,4483
+paraphrase,1,703,4070
+paraphrase,1,413,2440
+openwebtext,0,495,3194
+openwebtext,0,1408,7898
+paraphrase,1,539,2915
+webtext,0,643,3923
+openwebtext,0,1221,7562
+paraphrase,1,490,2828
+openwebtext,0,393,2477
+opinion statements,0,424,2441
+paraphrase,1,635,3544
+openwebtext,0,676,4032
+opinion statements,0,518,3025
+paraphrase,1,428,2432
+openwebtext,0,488,2871
+paraphrase,1,608,3434
+openwebtext,0,958,5671
+opinion statements,0,800,4509
+opinion statements,0,416,2351
+openwebtext,0,652,3659
+paraphrase,1,546,3111
+paraphrase,1,478,2688
+openwebtext,0,374,2101
+openwebtext,0,811,5030
+paraphrase,1,429,2501
+paraphrase,1,398,2189
+paraphrase,1,433,2398
+paraphrase,1,477,2946
+paraphrase,1,494,3004
+paraphrase,1,398,2244
+paraphrase,1,599,3518
+paraphrase,1,375,2034
+openwebtext,0,583,3697
+paraphrase,1,389,2227
+paraphrase,1,398,2079
+opinion statements,0,498,3004
+openwebtext,0,790,4645
+paraphrase,1,538,3246
+paraphrase,1,645,3650
+paraphrase,1,910,4797
+answers,0,829,4482
+paraphrase,1,442,2561
+openwebtext,0,1021,6150
+paraphrase,1,405,2410
+paraphrase,1,613,3450
+opinion statements,0,506,2809
+paraphrase,1,461,2759
+paraphrase,1,377,2186
+paraphrase,1,387,2157
+webtext,0,659,3713
+openwebtext,0,432,2611
+paraphrase,1,652,3714
+paraphrase,1,404,2261
+paraphrase,1,446,2722
+openwebtext,0,1389,8146
+paraphrase,1,355,2071
+openwebtext,0,378,2093
+paraphrase,1,417,2319
+opinion statements,0,634,3743
+openwebtext,0,928,5494
+paraphrase,1,439,2563
+opinion statements,0,484,2620
+openwebtext,0,520,2856
+opinion statements,0,409,2426
+opinion statements,0,546,3211
+openwebtext,0,711,4804
+openwebtext,0,719,4617
+paraphrase,1,544,3191
+blog,0,962,4854
+openwebtext,0,628,3770
+paraphrase,1,363,2143
+paraphrase,1,424,2517
+paraphrase,1,440,2488
+paraphrase,1,509,2811
+paraphrase,1,461,3006
+paraphrase,1,406,2392
+opinion statements,0,860,4593
+paraphrase,1,468,2524
+paraphrase,1,548,3103
+paraphrase,1,635,3390
+answers,0,842,4170
+paraphrase,1,796,4742
+openwebtext,0,803,4798
+paraphrase,1,444,2414
+paraphrase,1,626,3691
+opinion statements,0,611,3466
+opinion statements,0,664,3781
+openwebtext,0,646,3624
+paraphrase,1,391,2152
+paraphrase,1,408,2329
+paraphrase,1,550,3061
+openwebtext,0,736,3826
+paraphrase,1,548,3046
+paraphrase,1,488,2828
+openwebtext,0,591,3593
+paraphrase,1,435,2437
+paraphrase,1,599,3518
+paraphrase,1,411,2383
+paraphrase,1,461,2699
+opinion statements,0,604,3389
+opinion statements,0,688,3901
+paraphrase,1,406,2265
+paraphrase,1,493,2876
+paraphrase,1,680,3694
+paraphrase,1,370,2127
+paraphrase,1,408,2444
+paraphrase,1,371,2136
+paraphrase,1,392,2219
+openwebtext,0,638,3961
+opinion statements,0,549,2959
+openwebtext,0,942,5807
+paraphrase,1,445,2625
+paraphrase,1,517,2929
+openwebtext,0,1355,7880
+opinion statements,0,441,2306
+paraphrase,1,688,3884
+opinion statements,0,887,4907
+openwebtext,0,713,4373
+paraphrase,1,500,2949
+paraphrase,1,537,3221
+news articles,0,1035,6035
+paraphrase,1,636,3503
+news articles,0,851,5036
+blog,0,400,2169
+paraphrase,1,370,2075
+paraphrase,1,368,1990
+paraphrase,1,565,3330
+openwebtext,0,577,3463
+opinion statements,0,855,4610
+opinion statements,0,527,2932
+openwebtext,0,547,3074
+news articles,0,1146,6876
+paraphrase,1,431,2654
+openwebtext,0,857,5503
+paraphrase,1,370,2181
+paraphrase,1,403,2465
+openwebtext,0,700,4345
+openwebtext,0,939,5464
+webtext,0,784,4428
+opinion statements,0,504,2754
+opinion statements,0,581,3251
+openwebtext,0,778,4621
+scientific research,0,346,2151
+opinion statements,0,480,2685
+answers,0,975,5675
+opinion statements,0,418,2338
+paraphrase,1,498,2867
+paraphrase,1,660,3688
+openwebtext,0,385,2422
+paraphrase,1,431,2615
+webtext,0,495,3092
+opinion statements,0,629,3448
+openwebtext,0,534,3216
+openwebtext,0,534,3425
+openwebtext,0,963,5359
+opinion statements,0,441,2671
+openwebtext,0,681,4033
+paraphrase,1,378,2113
+paraphrase,1,459,2564
+webtext,0,418,2280
+paraphrase,1,440,2591
+paraphrase,1,599,3353
+openwebtext,0,535,3430
+opinion statements,0,1457,8578
+answers,0,1109,5860
+opinion statements,0,484,2726
+openwebtext,0,1264,7198
+paraphrase,1,341,2000
+paraphrase,1,754,4531
+openwebtext,0,1098,6591
+opinion statements,0,580,3425
+paraphrase,1,425,2496
+paraphrase,1,625,3779
+news articles,0,1353,7890
+news articles,0,1407,7765
+paraphrase,1,708,4223
+paraphrase,1,477,2735
+openwebtext,0,688,4210
+paraphrase,1,393,2269
+openwebtext,0,634,3899
+openwebtext,0,769,4649
+paraphrase,1,459,2709
+paraphrase,1,393,2302
+paraphrase,1,452,2529
+openwebtext,0,1360,8756
+news articles,0,887,5263
+openwebtext,0,595,3833
+paraphrase,1,729,4200
+paraphrase,1,423,2405
+paraphrase,1,599,3433
+openwebtext,0,585,3740
+openwebtext,0,925,5472
+webtext,0,829,4848
+paraphrase,1,604,3508
+opinion statements,0,696,3997
+opinion statements,0,413,2604
+openwebtext,0,982,5824
+news articles,0,802,4749
+paraphrase,1,384,2309
+openwebtext,0,388,2105
+paraphrase,1,598,3589
+news articles,0,1075,6207
+paraphrase,1,593,3759
+paraphrase,1,381,2339
+paraphrase,1,408,2355
+paraphrase,1,448,2574
+opinion statements,0,665,3869
+news articles,0,861,4988
+paraphrase,1,427,2436
+paraphrase,1,546,3263
+paraphrase,1,621,3598
+openwebtext,0,569,3329
+scientific research,0,351,2312
+opinion statements,0,473,2851
+paraphrase,1,483,2903
+openwebtext,0,912,5882
+paraphrase,1,565,3216
+news articles,0,968,5281
+openwebtext,0,500,3179
+openwebtext,0,625,4200
+webtext,0,447,2546
+news articles,0,1380,7602
+paraphrase,1,441,2677
+opinion statements,0,815,4565
+paraphrase,1,463,2741
+scientific research,0,312,1730
+webtext,0,745,4450
+paraphrase,1,396,2211
+paraphrase,1,507,3059
+paraphrase,1,551,3241
+blog,0,401,2087
+paraphrase,1,478,2929
+openwebtext,0,899,5541
+paraphrase,1,470,2724
+paraphrase,1,387,2153
+opinion statements,0,822,4803
+openwebtext,0,543,3054
+paraphrase,1,506,2985
+paraphrase,1,470,2594
+paraphrase,1,490,2862
+paraphrase,1,350,2008
+paraphrase,1,356,2084
+paraphrase,1,698,3941
+paraphrase,1,395,2156
+paraphrase,1,566,3278
+paraphrase,1,511,3067
+webtext,0,752,4213
+paraphrase,1,528,2829
+paraphrase,1,393,2077
+openwebtext,0,1364,7447
+opinion statements,0,977,5367
+opinion statements,0,469,2804
+openwebtext,0,516,3103
+paraphrase,1,398,2282
+paraphrase,1,453,2653
+paraphrase,1,547,3188
+openwebtext,0,681,4380
+webtext,0,797,4467
+answers,0,1252,7082
+openwebtext,0,1446,8027
+webtext,0,721,4495
+paraphrase,1,645,3935
+paraphrase,1,403,2234
+paraphrase,1,447,2561
+paraphrase,1,671,3772
+opinion statements,0,541,2871
+opinion statements,0,449,2557
+opinion statements,0,454,2485
+openwebtext,0,624,3350
+openwebtext,0,409,2543
+openwebtext,0,1054,6344
+paraphrase,1,481,2717
+openwebtext,0,1147,7178
+paraphrase,1,583,3417
+paraphrase,1,449,2557
+opinion statements,0,720,4012
+paraphrase,1,380,2166
+openwebtext,0,554,3440
+paraphrase,1,404,2192
+news articles,0,864,4962
+paraphrase,1,408,2358
+paraphrase,1,516,2857
+paraphrase,1,529,3306
+openwebtext,0,709,4321
+webtext,0,781,5037
+paraphrase,1,391,2290
+paraphrase,1,571,3615
+openwebtext,0,527,3206
+paraphrase,1,523,3209
+paraphrase,1,395,2190
+paraphrase,1,383,2178
+webtext,0,760,4037
+paraphrase,1,571,3499
+paraphrase,1,469,2588
+paraphrase,1,476,2893
+opinion statements,0,459,2647
+openwebtext,0,960,5761
+paraphrase,1,456,2524
+paraphrase,1,504,2838
+openwebtext,0,633,3885
+answers,0,909,5445
+openwebtext,0,493,3258
+answers,0,1004,5671
+openwebtext,0,753,4699
+opinion statements,0,1055,6147
+paraphrase,1,546,3115
+webtext,0,795,4931
+paraphrase,1,766,4560
+webtext,0,763,4526
+openwebtext,0,460,2985
+openwebtext,0,552,3120
+opinion statements,0,567,2977
+paraphrase,1,467,2605
+opinion statements,0,440,2637
+paraphrase,1,491,2689
+blog,0,685,3435
+openwebtext,0,712,4059
+paraphrase,1,403,2339
+openwebtext,0,399,2423
+opinion statements,0,402,2413
+blog,0,392,2187
+opinion statements,0,488,2709
+paraphrase,1,464,2588
+openwebtext,0,602,3617
+openwebtext,0,514,3155
+paraphrase,1,591,3288
+webtext,0,428,2246
+paraphrase,1,495,2890
+paraphrase,1,443,2561
+opinion statements,0,664,3647
+webtext,0,540,3418
+paraphrase,1,709,3973
+webtext,0,756,4751
+openwebtext,0,650,4272
+paraphrase,1,587,3256
+webtext,0,768,4365
+paraphrase,1,495,2768
+opinion statements,0,418,2307
+openwebtext,0,393,2254
+paraphrase,1,359,2101
+scientific research,0,340,2244
+paraphrase,1,605,3648
+paraphrase,1,398,2325
+paraphrase,1,464,2614
+paraphrase,1,734,4112
+paraphrase,1,462,2626
+openwebtext,0,962,5762
+opinion statements,0,463,2663
+paraphrase,1,419,2382
+paraphrase,1,397,2224
+opinion statements,0,597,3395
+openwebtext,0,1110,6290
+paraphrase,1,434,2579
+openwebtext,0,966,5903
+paraphrase,1,818,4509
+news articles,0,942,5289
+blog,0,653,3233
+news articles,0,961,5790
+paraphrase,1,473,2672
+answers,0,1164,6504
+paraphrase,1,442,2808
+paraphrase,1,376,2257
+opinion statements,0,419,2310
+openwebtext,0,585,3413
+webtext,0,752,4270
+scientific research,0,329,2235
+openwebtext,0,686,3783
+openwebtext,0,418,2479
+opinion statements,0,514,2984
+openwebtext,0,478,2813
+openwebtext,0,747,4482
+paraphrase,1,724,4372
+paraphrase,1,387,2307
+opinion statements,0,649,3567
+opinion statements,0,423,2363
+paraphrase,1,527,3050
+openwebtext,0,754,5023
+paraphrase,1,501,2948
+paraphrase,1,513,2991
+openwebtext,0,905,5430
+paraphrase,1,407,2509
+paraphrase,1,490,2875
+blog,0,401,2308
+paraphrase,1,405,2294
+openwebtext,0,751,4574
+openwebtext,0,888,5196
+paraphrase,1,613,3305
+openwebtext,0,1279,7632
+paraphrase,1,633,3509
+paraphrase,1,520,2836
+paraphrase,1,748,4530
+webtext,0,411,2221
+blog,0,554,2954
+opinion statements,0,438,2525
+paraphrase,1,452,2683
+webtext,0,385,2242
+openwebtext,0,1034,5712
+paraphrase,1,526,2772
+opinion statements,0,965,5240
+opinion statements,0,650,3687
+opinion statements,0,433,2204
+openwebtext,0,793,4846
+paraphrase,1,517,2851
+openwebtext,0,673,3988
+paraphrase,1,441,2469
+paraphrase,1,530,3024
+opinion statements,0,403,2087
+answers,0,870,5248
+news articles,0,858,4789
+opinion statements,0,714,4162
+news articles,0,968,5359
+opinion statements,0,816,4645
+paraphrase,1,369,2124
+paraphrase,1,518,3268
+answers,0,1046,5588
+paraphrase,1,491,2929
+paraphrase,1,583,3300
+openwebtext,0,454,2736
+openwebtext,0,1045,6067
+news articles,0,882,5104
+openwebtext,0,708,3805
+paraphrase,1,628,3534
+answers,0,1030,5800
+paraphrase,1,599,3469
+opinion statements,0,499,2817
+blog,0,701,3704
+paraphrase,1,390,2378
+openwebtext,0,639,3836
+paraphrase,1,425,2434
+openwebtext,0,885,5159
+openwebtext,0,752,4731
+opinion statements,0,511,2977
+paraphrase,1,690,4098
+paraphrase,1,520,2977
+answers,0,1453,7984
+opinion statements,0,584,3290
+answers,0,880,4935
+answers,0,1115,6299
+answers,0,1219,6677
+paraphrase,1,578,3245
+paraphrase,1,380,2053
+paraphrase,1,727,4217
+openwebtext,0,965,5995
+opinion statements,0,410,2298
+answers,0,866,5000
+paraphrase,1,457,2697
+opinion statements,0,461,2921
+paraphrase,1,387,2239
+openwebtext,0,449,2649
+scientific research,0,312,2199
+paraphrase,1,465,2861
+paraphrase,1,481,2837
+opinion statements,0,1018,5962
+openwebtext,0,840,4554
+paraphrase,1,383,2281
+answers,0,1482,8154
+openwebtext,0,1483,9268
+paraphrase,1,666,4177
+paraphrase,1,392,2250
+paraphrase,1,419,2331
+openwebtext,0,502,3083
+blog,0,395,1892
+paraphrase,1,429,2529
+openwebtext,0,927,5233
+paraphrase,1,375,2221
+paraphrase,1,431,2479
+paraphrase,1,363,2050
+paraphrase,1,428,2541
+openwebtext,0,508,3137
+opinion statements,0,525,3035
+paraphrase,1,632,3657
+answers,0,867,4803
+opinion statements,0,763,4370
+news articles,0,848,4927
+paraphrase,1,616,3392
+webtext,0,474,2912
+paraphrase,1,464,2444
+paraphrase,1,363,2270
+paraphrase,1,612,3525
+paraphrase,1,472,2596
+news articles,0,971,5806
+paraphrase,1,764,4439
+paraphrase,1,396,2318
+paraphrase,1,451,2656
+news articles,0,1124,6598
+paraphrase,1,887,5376
+paraphrase,1,543,2850
+news articles,0,1101,6089
+paraphrase,1,410,2369
+paraphrase,1,866,4701
+paraphrase,1,550,3141
+paraphrase,1,468,2615
+paraphrase,1,402,2225
+paraphrase,1,492,2712
+paraphrase,1,367,2163
+openwebtext,0,1359,7474
+paraphrase,1,527,2841
+openwebtext,0,401,2465
+blog,0,468,2433
+paraphrase,1,664,4100
+paraphrase,1,745,4442
+answers,0,1134,6572
+answers,0,817,4493
+openwebtext,0,783,4540
+openwebtext,0,1043,6103
+scientific research,0,352,2054
+news articles,0,1198,6825
+answers,0,940,5618
+openwebtext,0,1104,7021
+scientific research,0,310,2072
+paraphrase,1,542,2769
+paraphrase,1,667,3972
+openwebtext,0,1392,8794
+paraphrase,1,453,2675
+webtext,0,793,4364
+paraphrase,1,644,3620
+paraphrase,1,382,2086
+openwebtext,0,737,4384
+openwebtext,0,574,3105
+paraphrase,1,578,2952
+openwebtext,0,756,4253
+paraphrase,1,362,2044
+paraphrase,1,572,3356
+openwebtext,0,848,4751
+openwebtext,0,707,4634
+openwebtext,0,1093,6396
+paraphrase,1,452,2375
+paraphrase,1,359,1953
+openwebtext,0,503,3078
+paraphrase,1,557,3282
+opinion statements,0,1106,6438
+scientific research,0,387,2688
+opinion statements,0,503,2737
+answers,0,1079,6043
+opinion statements,0,676,3871
+paraphrase,1,425,2544
+paraphrase,1,715,4012
+openwebtext,0,1454,9152
+opinion statements,0,597,3362
+openwebtext,0,635,3626
+openwebtext,0,482,3205
+opinion statements,0,434,2334
+paraphrase,1,500,2779
+paraphrase,1,678,4085
+paraphrase,1,490,2771
+paraphrase,1,446,2512
+paraphrase,1,463,2604
+paraphrase,1,636,3539
+openwebtext,0,1381,8154
+paraphrase,1,381,2198
+answers,0,908,5207
+paraphrase,1,756,4606
+paraphrase,1,410,2586
+paraphrase,1,421,2391
+paraphrase,1,438,2430
+paraphrase,1,666,3941
+paraphrase,1,443,2544
+paraphrase,1,424,2471
+openwebtext,0,530,3204
+paraphrase,1,558,3121
+openwebtext,0,881,5070
+paraphrase,1,451,2755
+openwebtext,0,428,2630
+paraphrase,1,565,3239
+paraphrase,1,504,2760
+paraphrase,1,394,2239
+paraphrase,1,716,4504
+paraphrase,1,405,2344
+openwebtext,0,1009,5678
+paraphrase,1,516,3154
+opinion statements,0,610,3319
+openwebtext,0,454,2740
+paraphrase,1,519,2947
+openwebtext,0,637,3997
+webtext,0,729,4431
+opinion statements,0,605,3455
+openwebtext,0,875,5304
+paraphrase,1,487,2747
+webtext,0,768,4616
+openwebtext,0,816,4968
+paraphrase,1,432,2357
+opinion statements,0,413,2384
+paraphrase,1,646,3746
+answers,0,930,5157
+paraphrase,1,449,2469
+paraphrase,1,661,3801
+opinion statements,0,1039,5487
+paraphrase,1,614,3349
+openwebtext,0,615,3996
+paraphrase,1,422,2591
+paraphrase,1,449,2515
+paraphrase,1,463,2694
+answers,0,1205,6544
+paraphrase,1,368,2149
+scientific research,0,319,1896
+paraphrase,1,384,2262
+paraphrase,1,473,2735
+openwebtext,0,1156,6845
+openwebtext,0,425,2628
+news articles,0,1028,6000
+paraphrase,1,463,2779
+openwebtext,0,566,3550
+opinion statements,0,433,2426
+paraphrase,1,724,4719
+opinion statements,0,527,2946
+paraphrase,1,346,1977
+paraphrase,1,613,3300
+openwebtext,0,740,4091
+paraphrase,1,565,3191
+openwebtext,0,743,4565
+webtext,0,706,4212
+webtext,0,513,3028
+paraphrase,1,377,2138
+paraphrase,1,479,2780
+opinion statements,0,506,2901
+answers,0,960,5535
+paraphrase,1,442,2545
+paraphrase,1,423,2604
+paraphrase,1,507,2682
+webtext,0,737,4154
+paraphrase,1,372,2074
+paraphrase,1,343,1907
+paraphrase,1,591,3456
+openwebtext,0,488,2988
+paraphrase,1,393,2168
+webtext,0,754,4190
+paraphrase,1,590,3544
+opinion statements,0,707,3883
+paraphrase,1,615,3788
+openwebtext,0,555,3400
+openwebtext,0,970,5850
+paraphrase,1,377,2054
+scientific research,0,311,1846
+paraphrase,1,456,2699
+openwebtext,0,976,6240
+openwebtext,0,629,3754
+answers,0,1379,7821
+openwebtext,0,548,3669
+paraphrase,1,450,2582
+paraphrase,1,398,2320
+paraphrase,1,380,2191
+openwebtext,0,668,3963
+openwebtext,0,441,2607
+paraphrase,1,365,2086
+paraphrase,1,455,2636
+opinion statements,0,413,2433
+paraphrase,1,425,2403
+paraphrase,1,436,2538
+paraphrase,1,381,2230
+opinion statements,0,570,3208
+paraphrase,1,643,3544
+openwebtext,0,1295,7673
+answers,0,1224,7078
+opinion statements,0,1230,7866
+opinion statements,0,525,2953
+opinion statements,0,493,2708
+paraphrase,1,410,2247
+paraphrase,1,657,3883
+paraphrase,1,423,2292
+opinion statements,0,423,2246
+opinion statements,0,460,2755
+answers,0,1241,6866
+openwebtext,0,432,2753
+openwebtext,0,514,3217
+paraphrase,1,538,2935
+paraphrase,1,498,3250
+answers,0,1223,7034
+paraphrase,1,671,4199
+openwebtext,0,601,3906
+paraphrase,1,728,4510
+opinion statements,0,449,2705
+paraphrase,1,401,2490
+paraphrase,1,437,2375
+paraphrase,1,377,2087
+paraphrase,1,380,2180
+openwebtext,0,566,3568
+openwebtext,0,551,3040
+paraphrase,1,734,4293
+openwebtext,0,1199,6994
+paraphrase,1,477,2729
+paraphrase,1,540,3109
+paraphrase,1,604,3895
+paraphrase,1,457,2552
+opinion statements,0,416,2290
+openwebtext,0,500,3162
+paraphrase,1,598,3728
+paraphrase,1,385,2400
+openwebtext,0,689,4070
+paraphrase,1,419,2203
+openwebtext,0,638,3696
+news articles,0,1065,6127
+blog,0,474,2420
+news articles,0,1140,6674
+opinion statements,0,590,3439
+paraphrase,1,825,4668
+openwebtext,0,501,3086
+opinion statements,0,1312,7628
+scientific research,0,313,1990
+paraphrase,1,440,2477
+paraphrase,1,374,2014
+paraphrase,1,705,4310
+paraphrase,1,399,2277
+paraphrase,1,679,3800
+paraphrase,1,489,2554
+answers,0,857,4724
+opinion statements,0,1207,6484
+opinion statements,0,490,2686
+paraphrase,1,594,3268
+webtext,0,543,2890
+answers,0,953,5417
+paraphrase,1,450,2539
+paraphrase,1,732,4637
+paraphrase,1,474,2897
+paraphrase,1,432,2278
+openwebtext,0,1441,7624
+paraphrase,1,588,3505
+paraphrase,1,535,3191
+paraphrase,1,512,3056
+paraphrase,1,375,2059
+paraphrase,1,418,2409
+paraphrase,1,400,2308
+paraphrase,1,503,3015
+paraphrase,1,569,3333
+paraphrase,1,498,2775
+paraphrase,1,405,2298
+paraphrase,1,619,3398
+opinion statements,0,961,5645
+paraphrase,1,690,4123
+paraphrase,1,559,3101
+openwebtext,0,466,2797
+paraphrase,1,673,3842
+news articles,0,1021,5857
+paraphrase,1,546,3078
+opinion statements,0,604,3222
+paraphrase,1,517,2966
+openwebtext,0,389,2491
+paraphrase,1,509,3438
+paraphrase,1,522,2899
+paraphrase,1,479,2812
+openwebtext,0,607,3447
+opinion statements,0,479,2807
+openwebtext,0,419,2319
+news articles,0,1330,7477
+paraphrase,1,400,2195
+paraphrase,1,561,3458
+paraphrase,1,502,2696
+paraphrase,1,457,2571
+paraphrase,1,439,2443
+paraphrase,1,653,3488
+paraphrase,1,562,3650
+paraphrase,1,416,2368
+openwebtext,0,656,3799
+openwebtext,0,404,2473
+answers,0,1099,5957
+openwebtext,0,1022,6176
+openwebtext,0,762,4215
+paraphrase,1,594,3292
+paraphrase,1,470,2668
+paraphrase,1,456,2571
+openwebtext,0,612,3304
+openwebtext,0,877,5421
+paraphrase,1,663,3926
+openwebtext,0,453,2826
+openwebtext,0,695,4400
+openwebtext,0,822,4882
+paraphrase,1,423,2410
+paraphrase,1,369,2057
+paraphrase,1,734,4044
+openwebtext,0,713,4208
+paraphrase,1,419,2429
+paraphrase,1,458,2814
+answers,0,1126,6414
+paraphrase,1,551,2972
+answers,0,857,4994
+openwebtext,0,674,4024
+opinion statements,0,465,2767
+paraphrase,1,517,2839
+paraphrase,1,568,3351
+paraphrase,1,414,2366
+paraphrase,1,425,2362
+paraphrase,1,616,3392
+paraphrase,1,426,2365
+openwebtext,0,451,2910
+answers,0,838,4829
+paraphrase,1,627,3403
+paraphrase,1,657,3610
+openwebtext,0,459,2730
+openwebtext,0,1244,6885
+webtext,0,474,2968
+paraphrase,1,681,4088
+paraphrase,1,524,3045
+openwebtext,0,792,5056
+paraphrase,1,594,3358
+webtext,0,571,3206
+webtext,0,753,4389
+paraphrase,1,423,2421
+paraphrase,1,551,3206
+paraphrase,1,702,3912
+opinion statements,0,588,3191
+paraphrase,1,495,2926
+openwebtext,0,510,2961
+paraphrase,1,451,2714
+opinion statements,0,546,3200
+paraphrase,1,387,2270
+paraphrase,1,477,2744
+openwebtext,0,384,2286
+paraphrase,1,542,2937
+opinion statements,0,408,2406
+news articles,0,822,4544
+paraphrase,1,574,3084
+paraphrase,1,486,2858
+openwebtext,0,534,3176
+paraphrase,1,521,2842
+scientific research,0,316,2153
+paraphrase,1,544,3209
+paraphrase,1,658,3938
+scientific research,0,330,2061
+paraphrase,1,437,2670
+paraphrase,1,361,2116
+openwebtext,0,646,3871
+paraphrase,1,461,2634
+opinion statements,0,672,3536
+paraphrase,1,430,2452
+opinion statements,0,643,3420
+openwebtext,0,422,2689
+paraphrase,1,405,2141
+paraphrase,1,538,3145
+news articles,0,836,4669
+paraphrase,1,390,2309
+openwebtext,0,1212,7332
+answers,0,1171,6374
+blog,0,765,4206
+paraphrase,1,430,2578
+paraphrase,1,581,3350
+opinion statements,0,1391,8046
+webtext,0,812,4703
+paraphrase,1,405,2434
+opinion statements,0,563,3319
+paraphrase,1,596,3712
+opinion statements,0,432,2418
+paraphrase,1,449,2629
+openwebtext,0,684,3985
+blog,0,548,3012
+paraphrase,1,705,3952
+paraphrase,1,740,4220
+opinion statements,0,620,3534
+openwebtext,0,798,4939
+openwebtext,0,611,3472
+webtext,0,440,2843
+paraphrase,1,486,3144
+paraphrase,1,657,3825
+paraphrase,1,561,3106
+answers,0,889,5294
+openwebtext,0,1167,6431
+openwebtext,0,378,2357
+openwebtext,0,527,3214
+paraphrase,1,470,2672
+opinion statements,0,679,3758
+paraphrase,1,444,2572
+paraphrase,1,398,2235
+paraphrase,1,667,3790
+paraphrase,1,709,3817
+paraphrase,1,431,2407
+paraphrase,1,429,2513
+paraphrase,1,355,2071
+paraphrase,1,379,2195
+paraphrase,1,688,4175
+openwebtext,0,515,2994
+webtext,0,424,2401
+paraphrase,1,459,2787
+openwebtext,0,1359,7702
+opinion statements,0,641,3755
+paraphrase,1,448,2567
+opinion statements,0,1011,6016
+paraphrase,1,711,4302
+paraphrase,1,813,4596
+openwebtext,0,442,2486
+paraphrase,1,424,2401
+paraphrase,1,476,2865
+paraphrase,1,549,3212
+paraphrase,1,614,3510
+opinion statements,0,424,2525
+openwebtext,0,472,2934
+opinion statements,0,1051,6249
+scientific research,0,373,2605
+paraphrase,1,676,4027
+openwebtext,0,885,4831
+openwebtext,0,436,2569
+openwebtext,0,1219,7264
+paraphrase,1,595,3303
+paraphrase,1,432,2496
+opinion statements,0,693,3934
+paraphrase,1,459,2778
+paraphrase,1,388,2245
+opinion statements,0,738,4474
+opinion statements,0,593,3286
+paraphrase,1,382,2239
+openwebtext,0,590,3319
+paraphrase,1,377,2199
+paraphrase,1,572,3290
+paraphrase,1,515,3087
+openwebtext,0,503,3020
+scientific research,0,355,2207
+opinion statements,0,642,3559
+opinion statements,0,1002,6282
+news articles,0,873,4981
+openwebtext,0,981,6001
+openwebtext,0,924,5592
+news articles,0,1359,7786
+opinion statements,0,766,4354
+paraphrase,1,389,2218
+webtext,0,786,4972
+paraphrase,1,540,3084
+paraphrase,1,739,4193
+paraphrase,1,418,2324
+openwebtext,0,445,2566
+opinion statements,0,881,5322
+answers,0,924,5339
+opinion statements,0,471,2576
+paraphrase,1,526,3160
+opinion statements,0,490,2759
+paraphrase,1,475,2711
+openwebtext,0,722,4093
+opinion statements,0,502,2662
+paraphrase,1,457,2697
+paraphrase,1,518,2974
+opinion statements,0,456,2772
+news articles,0,1421,8182
+paraphrase,1,526,2997
+paraphrase,1,654,3756
+paraphrase,1,405,2213
+openwebtext,0,627,3951
+openwebtext,0,1069,6222
+paraphrase,1,381,2207
+paraphrase,1,613,3305
+paraphrase,1,429,2281
+paraphrase,1,528,2946
+paraphrase,1,478,2704
+paraphrase,1,402,2280
+paraphrase,1,420,2415
+paraphrase,1,544,3148
+paraphrase,1,503,2788
+opinion statements,0,591,3322
+paraphrase,1,429,2262
+paraphrase,1,420,2604
+webtext,0,811,4746
+paraphrase,1,784,4258
+paraphrase,1,508,2977
+openwebtext,0,412,2393
+paraphrase,1,520,2877
+opinion statements,0,921,5231
+openwebtext,0,613,3501
+paraphrase,1,383,2005
+paraphrase,1,451,2643
+opinion statements,0,1344,7287
+opinion statements,0,623,3533
+paraphrase,1,542,3040
+webtext,0,848,5082
+paraphrase,1,433,2433
+paraphrase,1,390,2265
+paraphrase,1,435,2395
+openwebtext,0,1040,5835
+openwebtext,0,938,5623
+openwebtext,0,723,4880
+paraphrase,1,462,2625
+paraphrase,1,412,2297
+paraphrase,1,357,1954
+opinion statements,0,472,2694
+openwebtext,0,642,3558
+opinion statements,0,460,2720
+paraphrase,1,717,3686
+answers,0,934,5343
+paraphrase,1,465,2650
+paraphrase,1,443,2519
+paraphrase,1,452,2752
+paraphrase,1,529,3018
+paraphrase,1,549,3250
+paraphrase,1,871,4487
+paraphrase,1,724,4172
+openwebtext,0,1065,6696
+openwebtext,0,619,3996
+news articles,0,1358,7732
+paraphrase,1,506,2867
+paraphrase,1,429,2441
+paraphrase,1,435,2601
+openwebtext,0,1113,6372
+openwebtext,0,629,4075
+openwebtext,0,786,4623
+openwebtext,0,484,2652
+opinion statements,0,865,4842
+paraphrase,1,543,3130
+paraphrase,1,441,2525
+paraphrase,1,706,4443
+paraphrase,1,442,2727
+answers,0,875,5071
+opinion statements,0,432,2430
+news articles,0,1412,8470
+paraphrase,1,479,2813
+paraphrase,1,522,2887
+paraphrase,1,519,2902
+answers,0,1223,6790
+answers,0,1281,7208
+paraphrase,1,482,2719
+opinion statements,0,854,4810
+paraphrase,1,387,2208
+scientific research,0,409,2574
+openwebtext,0,1361,8046
+paraphrase,1,780,4571
+paraphrase,1,451,2521
+paraphrase,1,742,4616
+openwebtext,0,801,4819
+openwebtext,0,1215,7434
+news articles,0,809,4645
+paraphrase,1,402,2235
+opinion statements,0,981,5762
+paraphrase,1,490,2736
+openwebtext,0,387,2411
+opinion statements,0,597,3259
+paraphrase,1,398,2350
+openwebtext,0,549,3081
+scientific research,0,313,1770
+opinion statements,0,456,2496
+paraphrase,1,392,2395
+paraphrase,1,471,2706
+paraphrase,1,572,3185
+webtext,0,836,4763
+paraphrase,1,390,2161
+paraphrase,1,612,3525
+openwebtext,0,1175,6588
+paraphrase,1,421,2607
+openwebtext,0,590,3661
+webtext,0,682,4279
+paraphrase,1,564,3083
+paraphrase,1,431,2339
+openwebtext,0,397,2682
+openwebtext,0,489,2805
+opinion statements,0,494,2882
+opinion statements,0,407,2309
+paraphrase,1,373,1982
+opinion statements,0,598,3492
+opinion statements,0,710,3916
+openwebtext,0,675,4292
+paraphrase,1,479,2734
+openwebtext,0,708,4615
+paraphrase,1,381,2335
+paraphrase,1,536,2999
+paraphrase,1,511,2998
+paraphrase,1,434,2463
+paraphrase,1,420,2469
+paraphrase,1,381,2130
+paraphrase,1,402,2155
+openwebtext,0,789,4920
+opinion statements,0,537,3164
+paraphrase,1,510,2933
+opinion statements,0,1044,5483
+openwebtext,0,496,3073
+scientific research,0,340,2288
+paraphrase,1,500,2893
+opinion statements,0,631,3567
+opinion statements,0,418,2265
+paraphrase,1,551,3153
+paraphrase,1,796,4835
+opinion statements,0,1128,6677
+paraphrase,1,432,2611
+paraphrase,1,452,2529
+opinion statements,0,482,2856
+openwebtext,0,588,3420
+paraphrase,1,664,3667
+paraphrase,1,478,2643
+openwebtext,0,547,3298
+openwebtext,0,571,3545
+paraphrase,1,452,2569
+paraphrase,1,413,2321
+news articles,0,1208,6303
+answers,0,920,5367
+openwebtext,0,779,5957
+webtext,0,734,4421
+openwebtext,0,1171,6391
+opinion statements,0,535,2988
+paraphrase,1,633,3509
+opinion statements,0,528,3195
+paraphrase,1,505,2854
+paraphrase,1,417,2431
+paraphrase,1,462,2770
+opinion statements,0,499,2843
+news articles,0,929,5430
+paraphrase,1,460,2513
+opinion statements,0,783,4296
+paraphrase,1,577,3259
+paraphrase,1,515,2924
+paraphrase,1,602,3670
+answers,0,889,4973
+paraphrase,1,621,3573
+news articles,0,951,5300
+paraphrase,1,610,3419
+opinion statements,0,499,2736
+openwebtext,0,1069,6178
+paraphrase,1,727,4247
+paraphrase,1,370,1976
+webtext,0,509,3129
+paraphrase,1,529,3206
+openwebtext,0,406,2345
+webtext,0,574,3482
+paraphrase,1,458,2752
+opinion statements,0,429,2421
+opinion statements,0,896,5571
+openwebtext,0,846,5397
+openwebtext,0,1061,6070
+paraphrase,1,439,2589
+opinion statements,0,863,4848
+openwebtext,0,1058,6367
+paraphrase,1,367,2068
+paraphrase,1,424,2619
+paraphrase,1,585,3437
+paraphrase,1,587,3503
+paraphrase,1,766,4700
+paraphrase,1,403,2354
+paraphrase,1,402,2316
+openwebtext,0,901,5296
+opinion statements,0,504,3098
+webtext,0,561,3582
+paraphrase,1,392,2258
+paraphrase,1,526,3018
+answers,0,1179,6655
+openwebtext,0,1221,7185
+paraphrase,1,671,4199
+openwebtext,0,459,2835
+opinion statements,0,482,2672
+openwebtext,0,877,5525
+paraphrase,1,434,2635
+openwebtext,0,1320,8636
+paraphrase,1,598,3310
+news articles,0,1046,5803
+webtext,0,798,4877
+paraphrase,1,476,2737
+openwebtext,0,1231,7210
+paraphrase,1,439,2480
+openwebtext,0,701,3925
+blog,0,411,2025
+blog,0,627,3151
+paraphrase,1,372,2140
+paraphrase,1,702,4051
+paraphrase,1,635,3802
+openwebtext,0,1050,5991
+openwebtext,0,1358,7640
+webtext,0,800,5126
+scientific research,0,301,1908
+paraphrase,1,398,2173
+opinion statements,0,757,4336
+opinion statements,0,608,3586
+openwebtext,0,714,4106
+opinion statements,0,492,2830
+answers,0,820,4643
+blog,0,505,2726
+paraphrase,1,394,2251
+scientific research,0,412,2656
+openwebtext,0,435,2662
+webtext,0,846,5097
+paraphrase,1,400,2385
+paraphrase,1,653,3780
+openwebtext,0,451,2724
+paraphrase,1,627,3915
+answers,0,912,5170
+news articles,0,1420,8332
+news articles,0,1012,5258
+openwebtext,0,404,2525
+paraphrase,1,428,2328
+openwebtext,0,372,2615
+openwebtext,0,1238,7499
+paraphrase,1,355,2065
+paraphrase,1,572,3472
+paraphrase,1,423,2432
+webtext,0,662,4209
+openwebtext,0,519,3189
+openwebtext,0,903,5321
+opinion statements,0,520,3131
+paraphrase,1,360,2187
+opinion statements,0,655,3735
+opinion statements,0,486,2665
+paraphrase,1,371,2168
+paraphrase,1,474,2725
+paraphrase,1,402,2198
+paraphrase,1,387,2338
+paraphrase,1,371,2251
+paraphrase,1,457,2855
+opinion statements,0,498,2752
+paraphrase,1,609,3345
+openwebtext,0,800,4683
+openwebtext,0,880,5251
+opinion statements,0,514,2829
+openwebtext,0,831,4474
+openwebtext,0,507,2995
+paraphrase,1,542,3063
+paraphrase,1,728,4153
+openwebtext,0,618,3681
+opinion statements,0,897,5066
+paraphrase,1,428,2436
+paraphrase,1,654,3797
+blog,0,404,2027
+paraphrase,1,413,2481
+paraphrase,1,915,5432
+openwebtext,0,865,5209
+paraphrase,1,471,2578
+news articles,0,997,5767
+opinion statements,0,482,2583
+paraphrase,1,741,4047
+paraphrase,1,578,3165
+openwebtext,0,805,4281
+answers,0,1128,6266
+paraphrase,1,654,3517
+openwebtext,0,1455,8853
+paraphrase,1,505,2751
+blog,0,618,3121
+paraphrase,1,720,4099
+opinion statements,0,488,2552
+paraphrase,1,443,2606
+paraphrase,1,430,2412
+paraphrase,1,576,3455
+paraphrase,1,390,2109
+paraphrase,1,433,2617
+paraphrase,1,601,3622
+paraphrase,1,629,3631
+paraphrase,1,425,2353
+paraphrase,1,537,3057
+webtext,0,747,4304
+paraphrase,1,482,2708
+opinion statements,0,590,3384
+opinion statements,0,729,4411
+paraphrase,1,614,3643
+paraphrase,1,602,3540
+paraphrase,1,565,3300
+webtext,0,698,4435
+paraphrase,1,636,3811
+opinion statements,0,501,2829
+paraphrase,1,647,3963
+paraphrase,1,757,4327
+paraphrase,1,584,3416
+openwebtext,0,576,3701
+openwebtext,0,803,4813
+paraphrase,1,739,4425
+paraphrase,1,515,2910
+paraphrase,1,471,2758
+openwebtext,0,668,4082
+news articles,0,984,5688
+paraphrase,1,738,4548
+opinion statements,0,563,3113
+scientific research,0,448,2643
+openwebtext,0,1401,8373
+scientific research,0,310,2032
+webtext,0,441,2644
+openwebtext,0,540,3902
+paraphrase,1,548,3102
+answers,0,1370,7796
+paraphrase,1,516,2972
+paraphrase,1,413,2087
+paraphrase,1,659,3887
+openwebtext,0,392,2574
+openwebtext,0,730,3903
+openwebtext,0,371,2066
+openwebtext,0,814,5027
+scientific research,0,301,1837
+paraphrase,1,440,2811
+paraphrase,1,492,3096
+paraphrase,1,409,2382
+opinion statements,0,500,2709
+paraphrase,1,478,2739
+paraphrase,1,613,3704
+opinion statements,0,500,2783
+openwebtext,0,661,3487
+paraphrase,1,499,2995
+paraphrase,1,377,2404
+paraphrase,1,394,2425
+openwebtext,0,948,7046
+paraphrase,1,482,2959
+paraphrase,1,387,2072
+opinion statements,0,433,2433
+opinion statements,0,991,6245
+paraphrase,1,480,2735
+opinion statements,0,441,2384
+paraphrase,1,637,3766
+opinion statements,0,436,2417
+paraphrase,1,481,2783
+paraphrase,1,668,3869
+openwebtext,0,1199,7179
+openwebtext,0,819,4931
+openwebtext,0,817,4723
+scientific research,0,333,2421
+paraphrase,1,455,2722
+openwebtext,0,1456,9143
+opinion statements,0,703,4169
+paraphrase,1,415,2500
+openwebtext,0,1007,6396
+answers,0,971,5855
+openwebtext,0,549,3369
+paraphrase,1,438,2327
+opinion statements,0,521,2908
+paraphrase,1,364,2195
+opinion statements,0,685,3855
+answers,0,1178,6421
+openwebtext,0,510,3000
+openwebtext,0,446,2768
+openwebtext,0,821,5080
+blog,0,422,2650
+paraphrase,1,400,2472
+opinion statements,0,404,2271
+paraphrase,1,384,2356
+blog,0,653,3133
+paraphrase,1,422,2750
+openwebtext,0,1105,6522
+paraphrase,1,683,3748
+paraphrase,1,540,3369
+openwebtext,0,410,2584
+paraphrase,1,633,3846
+openwebtext,0,1155,7305
+openwebtext,0,1090,6687
+paraphrase,1,521,2953
+paraphrase,1,539,3114
+blog,0,726,4000
+paraphrase,1,588,3387
+opinion statements,0,553,3172
+paraphrase,1,547,2976
+openwebtext,0,504,2896
+paraphrase,1,430,2376
+paraphrase,1,379,2138
+news articles,0,1429,8218
+paraphrase,1,425,2371
+opinion statements,0,910,5024
+paraphrase,1,418,2370
+paraphrase,1,515,2931
+paraphrase,1,459,2740
+paraphrase,1,388,2140
+news articles,0,869,4936
+openwebtext,0,705,3883
+paraphrase,1,509,2943
+paraphrase,1,499,3081
+paraphrase,1,432,2555
+paraphrase,1,448,2516
+blog,0,401,1954
+paraphrase,1,439,2406
+news articles,0,842,4548
+paraphrase,1,370,2339
+paraphrase,1,384,2344
+paraphrase,1,711,3940
+opinion statements,0,492,2641
+opinion statements,0,793,4206
+paraphrase,1,463,2628
+paraphrase,1,642,3712
+paraphrase,1,544,3269
+opinion statements,0,674,3747
+paraphrase,1,496,2885
+answers,0,828,4691
+paraphrase,1,672,3877
+opinion statements,0,461,2545
+openwebtext,0,747,4470
+openwebtext,0,551,3471
+paraphrase,1,744,4361
+paraphrase,1,429,2573
+answers,0,801,4797
+paraphrase,1,613,3905
+answers,0,1057,5968
+paraphrase,1,593,3341
+openwebtext,0,939,5653
+paraphrase,1,589,3129
+opinion statements,0,445,2512
+answers,0,1316,7201
+openwebtext,0,493,3076
+answers,0,1128,6380
+paraphrase,1,378,2226
+openwebtext,0,738,4479
+webtext,0,580,3333
+paraphrase,1,422,2459
+news articles,0,1320,7430
+paraphrase,1,528,2857
+openwebtext,0,550,3317
+openwebtext,0,1171,7690
+opinion statements,0,512,2858
+paraphrase,1,428,2651
+openwebtext,0,1168,6800
+paraphrase,1,647,3808
+opinion statements,0,494,2730
+paraphrase,1,569,3417
+answers,0,1236,7523
+paraphrase,1,401,2397
+openwebtext,0,511,3062
+openwebtext,0,1179,7417
+answers,0,898,4907
+paraphrase,1,369,2082
+opinion statements,0,455,2583
+paraphrase,1,472,2865
+answers,0,1319,7401
+answers,0,1332,8140
+opinion statements,0,421,2361
+paraphrase,1,493,2749
+paraphrase,1,400,2231
+openwebtext,0,982,5833
+paraphrase,1,458,2806
+openwebtext,0,861,4884
+paraphrase,1,778,5059
+paraphrase,1,415,2318
+paraphrase,1,550,3237
+openwebtext,0,933,5895
+paraphrase,1,485,2761
+paraphrase,1,555,3054
+scientific research,0,331,2234
+answers,0,1175,6663
+paraphrase,1,662,3503
+openwebtext,0,814,5025
+paraphrase,1,470,2508
+paraphrase,1,652,3714
+paraphrase,1,366,2127
+openwebtext,0,1048,6463
+opinion statements,0,599,3292
+opinion statements,0,570,3190
+paraphrase,1,643,3913
+paraphrase,1,366,2024
+paraphrase,1,541,3176
+paraphrase,1,393,2304
+opinion statements,0,439,2675
+paraphrase,1,726,4086
+openwebtext,0,878,5274
+paraphrase,1,479,2741
+paraphrase,1,491,2748
+paraphrase,1,542,3153
+paraphrase,1,436,2452
+opinion statements,0,848,5238

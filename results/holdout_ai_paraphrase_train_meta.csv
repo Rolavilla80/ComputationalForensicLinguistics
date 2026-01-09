@@ -1,0 +1,6817 @@
+source,label,n_tokens,n_chars
+chatgpt,1,428,2717
+gpt-4,1,315,2006
+chatgpt,1,321,2120
+opt-iml,1,523,3272
+scientific research,0,477,2878
+openwebtext,0,976,6217
+chatgpt,1,594,4067
+openwebtext,0,457,2741
+flan_t5,1,877,5461
+openwebtext,0,658,3662
+chatgpt,1,374,2524
+blog,0,482,2633
+answers,0,924,5472
+davinci,1,559,3573
+gpt-3.5,1,572,3837
+gpt-3.5,1,464,2774
+opt-iml,1,567,3174
+opinion statements,0,468,2670
+blog,0,380,1937
+chatgpt,1,400,2577
+gpt-4,1,438,2606
+gpt2,1,798,4746
+openwebtext,0,938,6710
+opt-iml,1,859,5285
+gpt2,1,807,4805
+openwebtext,0,466,2872
+chatgpt,1,505,3447
+openwebtext,0,889,4930
+gpt-3,1,381,2009
+gpt-4,1,492,2798
+openwebtext,0,609,3714
+gpt-4,1,386,2466
+openwebtext,0,777,4491
+scientific research,0,350,2223
+opt-iml,1,574,3140
+opinion statements,0,926,5395
+webtext,0,765,4760
+news articles,0,934,5343
+news articles,0,1258,6817
+opt-iml,1,792,4432
+webtext,0,669,4322
+opt-iml,1,720,4073
+openwebtext,0,708,4195
+opinion statements,0,673,3614
+openwebtext,0,663,3967
+opinion statements,0,424,2400
+gpt2,1,760,4754
+opinion statements,0,492,2884
+news articles,0,820,4863
+opt-iml,1,483,3446
+gpt-3.5,1,655,3932
+opinion statements,0,425,2333
+chatgpt,1,547,3469
+openwebtext,0,838,5453
+gpt2,1,770,4417
+chatgpt,1,389,2400
+flan_t5,1,769,4674
+gpt-3.5,1,485,2865
+chatgpt,1,383,2420
+gpt2,1,816,4478
+flan_t5,1,780,4770
+openwebtext,0,1214,7025
+openwebtext,0,1312,7961
+openwebtext,0,1004,5578
+opt-iml,1,543,2977
+davinci,1,404,2423
+gpt-4,1,362,2069
+opinion statements,0,472,2539
+opinion statements,0,425,2403
+davinci,1,474,3292
+gpt-3.5,1,697,4339
+openwebtext,0,1480,9125
+gpt2,1,852,4515
+flan_t5,1,544,3143
+flan_t5,1,482,2859
+answers,0,1259,7645
+news articles,0,1025,5597
+answers,0,914,5361
+davinci,1,409,2471
+scientific research,0,321,2011
+gpt-3.5,1,607,3550
+gpt-3.5,1,719,4151
+openwebtext,0,770,4564
+answers,0,1079,5697
+opinion statements,0,545,2918
+news articles,0,900,5138
+blog,0,595,3112
+davinci,1,860,5061
+flan_t5,1,420,2657
+gpt-3.5,1,628,3921
+gpt-4,1,416,2351
+answers,0,1355,7840
+gpt-4,1,464,2745
+flan_t5,1,853,5173
+gpt2,1,798,4848
+openwebtext,0,930,5547
+chatgpt,1,471,2906
+chatgpt,1,631,3943
+chatgpt,1,435,2854
+gpt2,1,611,3763
+opinion statements,0,714,4047
+gpt-4,1,408,2573
+answers,0,926,5410
+gpt-4,1,404,2521
+opt-iml,1,536,3386
+webtext,0,449,2593
+openwebtext,0,383,2375
+gpt-3.5,1,944,6374
+openwebtext,0,555,3310
+chatgpt,1,531,3188
+chatgpt,1,630,3921
+news articles,0,892,5035
+opt-iml,1,511,3303
+opinion statements,0,406,2203
+scientific research,0,427,2889
+flan_t5,1,458,2581
+chatgpt,1,601,3623
+davinci,1,693,4474
+chatgpt,1,433,2586
+gpt-3.5,1,522,3012
+chatgpt,1,663,4213
+openwebtext,0,470,2826
+gpt-3.5,1,703,4059
+answers,0,1350,7740
+openwebtext,0,969,6269
+opinion statements,0,406,2187
+openwebtext,0,1266,7508
+gpt2,1,537,3297
+answers,0,930,5586
+chatgpt,1,391,2461
+openwebtext,0,689,4337
+opinion statements,0,469,2595
+news articles,0,914,5260
+webtext,0,407,2278
+scientific research,0,319,2065
+openwebtext,0,891,5388
+flan_t5,1,439,2368
+openwebtext,0,622,3538
+openwebtext,0,786,4571
+davinci,1,912,6281
+gpt-4,1,359,2098
+opinion statements,0,717,4194
+opinion statements,0,819,4874
+gpt-3.5,1,906,4988
+opinion statements,0,429,2448
+gpt-4,1,469,3002
+gpt-3.5,1,702,4188
+gpt-3,1,422,2536
+webtext,0,666,4277
+gpt-4,1,364,2072
+webtext,0,396,2131
+chatgpt,1,507,3233
+davinci,1,702,4395
+chatgpt,1,439,2743
+news articles,0,1002,5565
+openwebtext,0,973,6136
+scientific research,0,302,2037
+openwebtext,0,998,5750
+opinion statements,0,438,2494
+openwebtext,0,499,3053
+gpt-4,1,384,2415
+openwebtext,0,622,3661
+gpt-4,1,370,2171
+opinion statements,0,485,2683
+news articles,0,848,4791
+gpt-3.5,1,669,4048
+flan_t5,1,607,3449
+answers,0,805,4356
+gpt-3,1,399,2592
+opinion statements,0,598,3195
+openwebtext,0,1126,6869
+news articles,0,1076,6489
+gpt-3.5,1,681,3742
+openwebtext,0,569,3392
+chatgpt,1,380,2434
+gpt-3.5,1,621,4011
+answers,0,1199,6822
+gpt-4,1,425,2854
+gpt2,1,791,4793
+answers,0,859,4638
+flan_t5,1,514,2800
+chatgpt,1,423,2556
+gpt-3.5,1,455,2917
+opt-iml,1,475,2965
+gpt2,1,467,2950
+gpt-4,1,395,2745
+gpt-3,1,429,2365
+openwebtext,0,569,3519
+opinion statements,0,632,3665
+chatgpt,1,371,2146
+opinion statements,0,541,2980
+chatgpt,1,522,3124
+gpt-4,1,382,2194
+webtext,0,775,4626
+openwebtext,0,1310,7313
+openwebtext,0,399,2364
+opinion statements,0,502,2945
+chatgpt,1,544,3174
+gpt-3.5,1,844,5237
+openwebtext,0,1032,6117
+gpt-3.5,1,559,3625
+opinion statements,0,423,2394
+chatgpt,1,397,2623
+answers,0,1211,7521
+gpt-4,1,528,3564
+scientific research,0,304,2108
+gpt-3.5,1,536,3079
+openwebtext,0,1290,8189
+chatgpt,1,533,2994
+chatgpt,1,314,2006
+blog,0,416,2380
+chatgpt,1,465,2865
+answers,0,1015,5889
+opinion statements,0,607,3428
+openwebtext,0,588,3667
+opt-iml,1,559,2782
+openwebtext,0,720,4450
+opinion statements,0,481,2657
+blog,0,640,3543
+openwebtext,0,1401,8556
+opt-iml,1,491,2920
+gpt-3,1,372,2395
+openwebtext,0,1370,7547
+chatgpt,1,756,4429
+opinion statements,0,883,4975
+opt-iml,1,657,4406
+opinion statements,0,571,3220
+chatgpt,1,462,2982
+gpt-4,1,349,2121
+openwebtext,0,405,1570
+gpt-3.5,1,980,6704
+openwebtext,0,411,2406
+gpt-4,1,417,2457
+openwebtext,0,482,2697
+chatgpt,1,454,3111
+openwebtext,0,573,3690
+opt-iml,1,807,4720
+opt-iml,1,724,4608
+chatgpt,1,299,1718
+openwebtext,0,442,2399
+opinion statements,0,587,3198
+openwebtext,0,831,5256
+openwebtext,0,861,4832
+davinci,1,852,5502
+opt-iml,1,670,4137
+openwebtext,0,411,2387
+news articles,0,852,4592
+chatgpt,1,495,3112
+davinci,1,769,5085
+flan_t5,1,438,2996
+news articles,0,852,4920
+flan_t5,1,411,2548
+blog,0,847,5310
+opt-iml,1,875,5645
+opinion statements,0,575,3435
+chatgpt,1,456,2886
+chatgpt,1,465,2977
+gpt-3.5,1,458,2430
+chatgpt,1,464,3204
+chatgpt,1,1039,6831
+openwebtext,0,812,4915
+chatgpt,1,579,3486
+openwebtext,0,371,2377
+chatgpt,1,311,1926
+chatgpt,1,439,2581
+flan_t5,1,882,5496
+opinion statements,0,522,2891
+webtext,0,389,2176
+opinion statements,0,692,4067
+gpt-4,1,500,3205
+gpt-3,1,419,1929
+webtext,0,802,4092
+blog,0,658,3325
+gpt-4,1,392,2287
+opinion statements,0,1096,6495
+opinion statements,0,519,2688
+chatgpt,1,490,3096
+news articles,0,1301,7313
+flan_t5,1,703,4056
+chatgpt,1,573,3145
+opinion statements,0,456,2652
+answers,0,1403,7688
+chatgpt,1,293,2005
+openwebtext,0,677,3978
+chatgpt,1,381,2283
+opinion statements,0,491,2692
+davinci,1,502,2727
+flan_t5,1,890,4907
+openwebtext,0,676,4037
+opinion statements,0,552,3196
+gpt-3,1,383,2086
+flan_t5,1,451,2773
+davinci,1,950,6270
+openwebtext,0,654,4162
+openwebtext,0,416,2494
+opinion statements,0,1360,7615
+openwebtext,0,406,2342
+opinion statements,0,681,3733
+chatgpt,1,446,3053
+gpt2,1,643,3776
+openwebtext,0,685,4272
+gpt-4,1,394,2423
+openwebtext,0,1045,5803
+openwebtext,0,457,2860
+openwebtext,0,700,3999
+davinci,1,901,5566
+opt-iml,1,840,4987
+scientific research,0,358,2051
+openwebtext,0,442,2559
+gpt-4,1,379,2314
+gpt-3.5,1,547,3236
+chatgpt,1,703,4539
+chatgpt,1,435,2697
+davinci,1,573,3447
+opinion statements,0,415,2345
+openwebtext,0,471,2850
+gpt-4,1,270,1379
+opinion statements,0,447,2489
+openwebtext,0,723,4390
+openwebtext,0,594,3700
+chatgpt,1,459,3062
+gpt2,1,633,3629
+openwebtext,0,975,5746
+webtext,0,764,4742
+opinion statements,0,429,2570
+gpt-3.5,1,929,5557
+scientific research,0,612,2637
+gpt-4,1,425,2474
+chatgpt,1,486,3212
+openwebtext,0,702,4217
+openwebtext,0,1112,6080
+gpt-4,1,356,2007
+answers,0,1150,6864
+answers,0,855,4798
+flan_t5,1,872,5975
+webtext,0,402,2423
+davinci,1,846,5775
+davinci,1,617,3834
+chatgpt,1,413,2457
+opt-iml,1,887,5657
+openwebtext,0,776,4416
+chatgpt,1,623,4039
+gpt-4,1,681,4038
+scientific research,0,341,2382
+davinci,1,869,5795
+gpt-4,1,393,2437
+flan_t5,1,509,2840
+opinion statements,0,787,4312
+openwebtext,0,528,3175
+chatgpt,1,443,2499
+davinci,1,481,2830
+chatgpt,1,391,2380
+chatgpt,1,379,2434
+openwebtext,0,1278,7434
+davinci,1,676,4319
+gpt-4,1,405,2238
+openwebtext,0,434,2471
+answers,0,959,5175
+chatgpt,1,409,2544
+chatgpt,1,378,2167
+gpt2,1,422,3023
+openwebtext,0,1307,7319
+openwebtext,0,419,2440
+news articles,0,810,4529
+webtext,0,512,3121
+openwebtext,0,1038,5883
+openwebtext,0,704,4552
+news articles,0,859,4896
+answers,0,904,5058
+webtext,0,723,4231
+blog,0,857,4671
+opinion statements,0,936,5479
+scientific research,0,399,2434
+flan_t5,1,766,4684
+answers,0,1015,5521
+openwebtext,0,484,2757
+chatgpt,1,545,3258
+opinion statements,0,440,2547
+opinion statements,0,460,2625
+chatgpt,1,446,2756
+chatgpt,1,488,3039
+opt-iml,1,526,3414
+gpt-3,1,413,2489
+gpt-4,1,416,2507
+flan_t5,1,530,2941
+gpt-3,1,390,2220
+gpt-3,1,392,2046
+chatgpt,1,460,2908
+openwebtext,0,539,3219
+davinci,1,597,3953
+flan_t5,1,613,3788
+gpt-3.5,1,960,6755
+webtext,0,843,4731
+openwebtext,0,895,5812
+davinci,1,757,4282
+openwebtext,0,717,4427
+opinion statements,0,481,2509
+openwebtext,0,897,4794
+gpt-4,1,438,2739
+openwebtext,0,556,3318
+chatgpt,1,406,2402
+gpt-4,1,391,2559
+openwebtext,0,1216,7054
+openwebtext,0,1408,8564
+opinion statements,0,570,3045
+openwebtext,0,818,5191
+gpt2,1,451,2454
+answers,0,1032,5357
+openwebtext,0,1162,6619
+opinion statements,0,463,2674
+answers,0,1400,7565
+davinci,1,502,3158
+chatgpt,1,639,3930
+chatgpt,1,415,2734
+openwebtext,0,575,3496
+davinci,1,481,3371
+openwebtext,0,433,2533
+gpt-4,1,297,1871
+gpt-4,1,355,2139
+opinion statements,0,411,2344
+answers,0,1127,6394
+gpt-4,1,350,2044
+scientific research,0,305,1975
+opinion statements,0,1172,7057
+chatgpt,1,508,3147
+chatgpt,1,472,2797
+chatgpt,1,395,2504
+gpt-4,1,337,2087
+gpt-4,1,396,2293
+opinion statements,0,471,2749
+gpt-3,1,394,2520
+gpt-3.5,1,464,3040
+gpt2,1,496,2798
+chatgpt,1,438,2508
+chatgpt,1,323,1941
+opinion statements,0,410,2302
+chatgpt,1,494,3041
+news articles,0,861,4893
+chatgpt,1,372,2277
+gpt2,1,824,5105
+gpt-4,1,342,2086
+openwebtext,0,573,3483
+openwebtext,0,779,4462
+gpt-3.5,1,453,2820
+openwebtext,0,1307,7695
+answers,0,1332,7446
+opt-iml,1,533,3329
+answers,0,984,5840
+gpt-4,1,529,3347
+opt-iml,1,519,3093
+chatgpt,1,433,2548
+openwebtext,0,483,2891
+opinion statements,0,438,2690
+answers,0,1192,6810
+opt-iml,1,401,2395
+chatgpt,1,376,2254
+opinion statements,0,691,4049
+openwebtext,0,809,4987
+opinion statements,0,596,3479
+gpt-4,1,371,2218
+gpt2,1,771,4504
+opt-iml,1,567,3489
+gpt-4,1,404,2419
+gpt-4,1,382,2364
+chatgpt,1,521,3101
+openwebtext,0,617,3795
+opt-iml,1,643,3962
+gpt2,1,437,3036
+gpt-3.5,1,450,2745
+opt-iml,1,436,2849
+openwebtext,0,616,3732
+davinci,1,773,4541
+opinion statements,0,691,4109
+chatgpt,1,610,4342
+news articles,0,1224,7624
+webtext,0,419,2648
+chatgpt,1,376,2355
+webtext,0,811,4551
+opinion statements,0,422,2267
+openwebtext,0,418,2593
+answers,0,986,5776
+news articles,0,1074,5649
+chatgpt,1,484,2987
+davinci,1,622,3856
+openwebtext,0,1028,6000
+opinion statements,0,712,4005
+webtext,0,760,4343
+opinion statements,0,569,3161
+gpt-3,1,403,2258
+opinion statements,0,424,2190
+opinion statements,0,772,4262
+gpt-4,1,461,2511
+chatgpt,1,563,3440
+gpt-3.5,1,483,2994
+chatgpt,1,731,4157
+opinion statements,0,520,2931
+chatgpt,1,397,2407
+gpt-4,1,413,2436
+gpt-4,1,418,2596
+openwebtext,0,388,2222
+openwebtext,0,1036,6396
+blog,0,541,3130
+chatgpt,1,494,2879
+opinion statements,0,456,2503
+gpt-4,1,319,2153
+chatgpt,1,439,2695
+openwebtext,0,535,2943
+chatgpt,1,571,3590
+chatgpt,1,583,3551
+gpt2,1,825,4656
+gpt-4,1,465,2820
+chatgpt,1,400,2528
+davinci,1,914,5998
+chatgpt,1,406,2431
+opt-iml,1,686,4054
+chatgpt,1,345,1912
+gpt-4,1,353,2242
+opinion statements,0,745,4120
+openwebtext,0,483,2784
+davinci,1,468,2648
+chatgpt,1,377,2233
+gpt-3,1,396,2452
+opinion statements,0,553,2993
+gpt-4,1,382,2239
+gpt-4,1,443,2550
+blog,0,532,2755
+scientific research,0,322,2306
+gpt-3.5,1,540,2965
+chatgpt,1,519,2963
+opinion statements,0,683,3668
+answers,0,833,4873
+opt-iml,1,695,4290
+scientific research,0,473,3211
+scientific research,0,457,3179
+opinion statements,0,1241,6728
+openwebtext,0,874,5340
+openwebtext,0,524,3247
+gpt-4,1,459,3074
+davinci,1,452,2715
+opinion statements,0,553,3115
+answers,0,1302,7304
+openwebtext,0,1411,8600
+gpt-4,1,277,1730
+blog,0,386,1994
+chatgpt,1,384,2398
+flan_t5,1,834,4582
+opinion statements,0,525,2986
+answers,0,1001,5569
+opinion statements,0,1178,6732
+answers,0,840,5166
+opinion statements,0,537,2926
+gpt-4,1,471,2657
+chatgpt,1,389,2452
+opinion statements,0,425,2457
+gpt2,1,753,4332
+gpt2,1,744,4117
+chatgpt,1,389,2226
+news articles,0,1115,6398
+openwebtext,0,1046,6418
+davinci,1,599,3461
+openwebtext,0,623,3710
+openwebtext,0,949,5777
+answers,0,1214,7382
+chatgpt,1,326,1901
+opt-iml,1,457,2480
+webtext,0,391,2312
+openwebtext,0,1054,6173
+gpt-3.5,1,647,3969
+gpt-4,1,541,3466
+davinci,1,896,5998
+openwebtext,0,394,2561
+gpt-3.5,1,476,3038
+openwebtext,0,990,6013
+scientific research,0,344,1940
+gpt-4,1,363,2107
+openwebtext,0,580,3446
+webtext,0,801,4785
+gpt2,1,843,4393
+gpt-3.5,1,499,3000
+openwebtext,0,688,3940
+gpt-3,1,389,1946
+opinion statements,0,1126,6643
+chatgpt,1,567,3272
+opinion statements,0,434,2520
+opinion statements,0,816,4549
+chatgpt,1,547,3321
+openwebtext,0,973,5841
+openwebtext,0,949,5429
+gpt-4,1,444,2993
+opt-iml,1,432,2489
+opinion statements,0,799,4726
+davinci,1,874,4870
+gpt-3.5,1,464,2664
+openwebtext,0,610,3765
+gpt2,1,725,4247
+openwebtext,0,1329,7799
+openwebtext,0,762,4392
+chatgpt,1,372,2399
+chatgpt,1,548,3579
+openwebtext,0,1255,6372
+gpt2,1,781,4341
+openwebtext,0,626,3785
+opinion statements,0,680,3731
+answers,0,874,4944
+opinion statements,0,616,3637
+opinion statements,0,448,2447
+davinci,1,665,4405
+gpt-4,1,364,2208
+flan_t5,1,889,5036
+opinion statements,0,441,2427
+chatgpt,1,658,3951
+chatgpt,1,397,2567
+scientific research,0,324,2091
+openwebtext,0,616,3655
+opinion statements,0,571,3240
+blog,0,740,4090
+opinion statements,0,760,4486
+openwebtext,0,617,3741
+gpt-4,1,346,2231
+opinion statements,0,436,2485
+openwebtext,0,868,4899
+chatgpt,1,838,5067
+gpt-4,1,303,1793
+openwebtext,0,1226,7512
+opt-iml,1,404,2340
+chatgpt,1,412,2617
+opinion statements,0,471,2655
+webtext,0,387,2272
+chatgpt,1,383,2182
+opt-iml,1,717,4918
+chatgpt,1,469,2665
+openwebtext,0,900,5345
+opinion statements,0,613,3659
+chatgpt,1,436,2586
+opinion statements,0,477,2981
+chatgpt,1,394,2279
+blog,0,605,3479
+answers,0,888,5097
+openwebtext,0,430,2547
+gpt-3,1,381,2368
+answers,0,1435,8053
+opt-iml,1,581,3702
+chatgpt,1,542,3375
+chatgpt,1,421,2663
+chatgpt,1,371,2315
+openwebtext,0,542,3271
+opinion statements,0,671,3934
+opt-iml,1,801,6235
+gpt-4,1,357,2093
+gpt-3.5,1,472,3037
+chatgpt,1,406,2396
+answers,0,1339,7367
+chatgpt,1,566,3492
+flan_t5,1,425,2314
+gpt-4,1,406,2381
+scientific research,0,349,2160
+gpt2,1,853,5349
+gpt-4,1,425,2727
+gpt-3,1,433,2480
+flan_t5,1,505,2982
+webtext,0,715,4365
+openwebtext,0,436,2584
+news articles,0,806,4401
+openwebtext,0,1047,6440
+gpt-4,1,370,2203
+davinci,1,432,2632
+news articles,0,894,5043
+answers,0,980,5639
+openwebtext,0,371,2119
+chatgpt,1,436,2900
+chatgpt,1,384,2448
+davinci,1,418,2536
+openwebtext,0,1229,7208
+openwebtext,0,424,2661
+opinion statements,0,605,3469
+openwebtext,0,505,3064
+openwebtext,0,487,2790
+opinion statements,0,627,3537
+gpt2,1,585,3898
+openwebtext,0,468,2835
+gpt-4,1,658,4084
+openwebtext,0,586,3793
+webtext,0,733,4462
+opinion statements,0,892,5014
+gpt-3,1,397,2203
+opinion statements,0,978,5745
+openwebtext,0,421,2544
+opt-iml,1,491,2901
+gpt-4,1,478,2884
+chatgpt,1,453,2705
+opt-iml,1,540,3095
+davinci,1,665,4113
+openwebtext,0,430,2782
+answers,0,937,5323
+davinci,1,432,2558
+news articles,0,875,4992
+webtext,0,756,4235
+answers,0,816,4728
+openwebtext,0,398,3058
+opinion statements,0,652,3632
+flan_t5,1,454,2754
+opinion statements,0,551,3131
+opt-iml,1,551,3454
+answers,0,854,4711
+davinci,1,896,5925
+gpt-3.5,1,427,2399
+gpt-4,1,348,2089
+flan_t5,1,762,4779
+gpt-3,1,380,2088
+openwebtext,0,1173,6254
+opinion statements,0,471,2748
+openwebtext,0,813,4576
+news articles,0,1037,5968
+flan_t5,1,893,5498
+gpt2,1,808,4827
+openwebtext,0,565,3383
+opinion statements,0,505,2935
+news articles,0,965,5412
+gpt-3.5,1,445,2815
+openwebtext,0,1029,5774
+davinci,1,540,3732
+gpt-3.5,1,492,2990
+gpt-3,1,393,1908
+openwebtext,0,673,4004
+openwebtext,0,916,5927
+answers,0,845,4727
+opinion statements,0,434,2571
+gpt2,1,835,4658
+opt-iml,1,857,5117
+opinion statements,0,415,2607
+opinion statements,0,434,2463
+gpt-3,1,379,2252
+opinion statements,0,596,3440
+gpt-3.5,1,485,2930
+opinion statements,0,405,2129
+answers,0,1239,7055
+opinion statements,0,625,3454
+scientific research,0,386,2754
+news articles,0,826,4830
+davinci,1,407,2575
+gpt-3,1,440,2384
+openwebtext,0,376,2139
+gpt2,1,766,4577
+gpt-4,1,486,3028
+davinci,1,977,7037
+answers,0,828,4591
+openwebtext,0,525,3258
+opt-iml,1,614,3601
+openwebtext,0,1475,8549
+answers,0,1008,5458
+openwebtext,0,659,4029
+gpt-4,1,519,3151
+opinion statements,0,498,2680
+gpt-3,1,371,2286
+opinion statements,0,425,2351
+opinion statements,0,806,4953
+news articles,0,1257,7236
+gpt-3,1,396,2304
+openwebtext,0,485,2990
+openwebtext,0,924,5427
+gpt2,1,475,2849
+gpt2,1,847,4807
+webtext,0,794,4474
+chatgpt,1,401,2341
+answers,0,1115,6503
+answers,0,1190,6893
+opinion statements,0,492,2732
+flan_t5,1,874,5326
+chatgpt,1,403,2511
+openwebtext,0,505,2903
+openwebtext,0,418,2459
+openwebtext,0,382,2216
+openwebtext,0,501,3309
+davinci,1,586,3679
+gpt2,1,701,4156
+webtext,0,826,4737
+davinci,1,931,6052
+chatgpt,1,314,1889
+openwebtext,0,679,4279
+openwebtext,0,1244,7143
+gpt2,1,807,4387
+answers,0,1056,6255
+davinci,1,870,5492
+chatgpt,1,381,2414
+chatgpt,1,474,2971
+openwebtext,0,1340,8920
+opinion statements,0,680,3667
+opinion statements,0,505,2762
+gpt-3.5,1,408,2299
+gpt-3.5,1,764,5023
+answers,0,1164,6669
+chatgpt,1,385,2389
+gpt-4,1,426,2860
+scientific research,0,424,2789
+opinion statements,0,1156,6403
+opinion statements,0,531,3003
+opinion statements,0,533,3078
+openwebtext,0,641,3729
+chatgpt,1,463,2579
+chatgpt,1,509,2885
+gpt2,1,442,2556
+davinci,1,830,6311
+webtext,0,698,4365
+answers,0,896,5250
+opt-iml,1,447,2659
+davinci,1,502,2945
+chatgpt,1,415,2492
+opinion statements,0,413,2210
+opinion statements,0,582,3142
+news articles,0,1214,6792
+webtext,0,812,5023
+gpt2,1,778,4395
+opinion statements,0,556,3133
+openwebtext,0,803,4831
+opinion statements,0,486,2886
+webtext,0,547,3500
+gpt2,1,753,4390
+gpt-4,1,541,3354
+openwebtext,0,1453,9550
+openwebtext,0,715,3937
+gpt2,1,416,2454
+webtext,0,844,5049
+chatgpt,1,410,2612
+blog,0,870,4491
+chatgpt,1,395,2382
+scientific research,0,340,2216
+blog,0,724,3706
+answers,0,1275,7581
+openwebtext,0,614,3556
+answers,0,845,4871
+flan_t5,1,904,6003
+opinion statements,0,515,2991
+openwebtext,0,703,4287
+gpt2,1,482,2528
+davinci,1,924,5914
+opinion statements,0,479,2614
+opinion statements,0,427,2510
+gpt-4,1,460,2755
+gpt-4,1,458,2927
+opinion statements,0,776,4690
+chatgpt,1,403,2543
+opinion statements,0,654,3658
+opinion statements,0,817,4775
+gpt-3.5,1,462,3000
+chatgpt,1,405,2474
+openwebtext,0,399,2219
+webtext,0,767,5002
+answers,0,828,4741
+opinion statements,0,408,2379
+openwebtext,0,553,3649
+webtext,0,667,3826
+chatgpt,1,644,4200
+webtext,0,677,4138
+chatgpt,1,495,3162
+openwebtext,0,1240,7207
+gpt-4,1,423,2522
+opt-iml,1,853,5107
+openwebtext,0,902,5010
+gpt2,1,812,4777
+gpt2,1,752,4534
+openwebtext,0,476,2743
+davinci,1,877,6042
+openwebtext,0,375,2163
+gpt-3,1,453,2419
+flan_t5,1,405,2293
+openwebtext,0,519,3128
+opt-iml,1,749,5068
+opinion statements,0,543,3022
+gpt-3,1,384,2205
+openwebtext,0,590,3508
+gpt-4,1,400,2262
+gpt-4,1,359,2242
+chatgpt,1,553,3512
+gpt-3.5,1,853,5583
+gpt-3,1,376,1873
+webtext,0,766,4525
+gpt-4,1,385,2323
+openwebtext,0,533,3084
+gpt-4,1,391,2328
+openwebtext,0,1332,7843
+gpt-3,1,406,2231
+gpt2,1,686,4029
+opt-iml,1,618,3442
+opt-iml,1,659,3921
+opinion statements,0,430,2564
+openwebtext,0,1128,7211
+opt-iml,1,735,4256
+gpt-3.5,1,820,5337
+davinci,1,763,4827
+openwebtext,0,505,3130
+opinion statements,0,619,3505
+openwebtext,0,883,5555
+gpt-4,1,330,1910
+gpt-3.5,1,507,3104
+gpt2,1,797,4847
+chatgpt,1,462,2792
+openwebtext,0,918,5282
+news articles,0,815,4653
+gpt-4,1,430,2632
+gpt-4,1,421,2754
+openwebtext,0,382,2211
+chatgpt,1,595,3490
+openwebtext,0,818,5184
+openwebtext,0,1043,6518
+flan_t5,1,838,5309
+gpt-4,1,422,2821
+davinci,1,757,4800
+openwebtext,0,800,5000
+answers,0,1025,5784
+gpt-4,1,438,2734
+gpt-3,1,403,2141
+openwebtext,0,865,5429
+opinion statements,0,586,3067
+gpt-3.5,1,925,6076
+openwebtext,0,778,4182
+openwebtext,0,449,3243
+gpt-4,1,354,2212
+chatgpt,1,392,2400
+chatgpt,1,353,2338
+openwebtext,0,406,2402
+scientific research,0,302,2003
+gpt-3.5,1,637,4164
+openwebtext,0,1113,6209
+gpt2,1,534,2935
+gpt-3,1,376,2192
+opinion statements,0,483,2956
+gpt-4,1,420,2685
+chatgpt,1,486,3156
+chatgpt,1,621,3728
+openwebtext,0,634,4491
+openwebtext,0,430,2766
+chatgpt,1,581,3546
+davinci,1,509,3254
+opinion statements,0,612,3769
+openwebtext,0,506,3088
+news articles,0,814,4677
+chatgpt,1,441,2492
+chatgpt,1,571,3467
+flan_t5,1,426,2641
+webtext,0,756,4271
+opinion statements,0,558,3305
+openwebtext,0,535,3244
+chatgpt,1,388,2373
+gpt2,1,816,4812
+gpt-4,1,369,2297
+flan_t5,1,886,5433
+scientific research,0,341,2140
+scientific research,0,351,2314
+davinci,1,437,2488
+opinion statements,0,663,3869
+davinci,1,409,2563
+answers,0,1108,6635
+gpt-3.5,1,898,6505
+davinci,1,766,4647
+chatgpt,1,508,3205
+openwebtext,0,1006,6824
+gpt2,1,427,2551
+openwebtext,0,1120,7086
+opinion statements,0,512,3063
+chatgpt,1,455,2548
+opinion statements,0,516,2816
+gpt-3.5,1,960,6564
+gpt-3.5,1,518,3052
+opinion statements,0,651,3479
+davinci,1,944,6552
+news articles,0,860,5176
+gpt-4,1,474,3073
+openwebtext,0,1262,7495
+openwebtext,0,664,3980
+chatgpt,1,423,2635
+openwebtext,0,650,3805
+opinion statements,0,484,2806
+answers,0,1013,5938
+opinion statements,0,768,4139
+news articles,0,845,4852
+openwebtext,0,928,5525
+gpt-3,1,408,2332
+gpt-4,1,501,3051
+blog,0,599,3527
+davinci,1,554,3429
+davinci,1,406,2609
+opt-iml,1,401,2287
+opt-iml,1,935,7443
+chatgpt,1,521,3367
+davinci,1,808,5576
+opinion statements,0,591,3430
+answers,0,938,5456
+openwebtext,0,418,2502
+chatgpt,1,499,3181
+webtext,0,788,4549
+answers,0,853,4618
+chatgpt,1,585,3446
+gpt-3.5,1,532,3147
+flan_t5,1,490,3024
+davinci,1,426,2429
+chatgpt,1,375,2432
+chatgpt,1,423,2734
+news articles,0,918,5076
+webtext,0,762,4223
+gpt-3,1,412,2729
+chatgpt,1,414,2475
+chatgpt,1,394,2265
+gpt-3.5,1,401,2260
+openwebtext,0,564,3223
+chatgpt,1,317,1926
+blog,0,541,2828
+gpt-4,1,372,2444
+chatgpt,1,415,2446
+davinci,1,419,2426
+gpt-3,1,379,2285
+chatgpt,1,460,2829
+opinion statements,0,450,2401
+gpt-3.5,1,440,2785
+openwebtext,0,677,4182
+openwebtext,0,831,5045
+opinion statements,0,1114,6249
+chatgpt,1,301,1926
+opinion statements,0,715,3930
+opinion statements,0,888,5060
+opinion statements,0,475,2470
+news articles,0,1121,6305
+gpt-4,1,414,2513
+opinion statements,0,567,3217
+news articles,0,1021,5752
+opinion statements,0,542,3177
+opinion statements,0,590,3759
+chatgpt,1,588,3505
+gpt2,1,720,4631
+openwebtext,0,1097,6274
+openwebtext,0,763,4666
+chatgpt,1,453,2986
+opinion statements,0,421,2462
+opt-iml,1,623,4085
+openwebtext,0,1159,6998
+davinci,1,870,5626
+chatgpt,1,631,3602
+gpt-3,1,451,2263
+chatgpt,1,338,2041
+opinion statements,0,502,2769
+openwebtext,0,473,3041
+blog,0,393,2039
+opinion statements,0,476,2683
+flan_t5,1,667,4052
+gpt-4,1,401,2411
+openwebtext,0,622,3804
+openwebtext,0,915,5541
+blog,0,824,4017
+chatgpt,1,524,3096
+gpt2,1,793,4874
+opt-iml,1,720,4499
+chatgpt,1,453,3047
+flan_t5,1,647,3805
+opinion statements,0,500,2918
+chatgpt,1,381,2413
+openwebtext,0,1330,9146
+gpt-4,1,434,2891
+flan_t5,1,570,3389
+chatgpt,1,506,3249
+scientific research,0,324,1916
+davinci,1,515,2821
+opinion statements,0,417,2632
+opt-iml,1,832,5128
+webtext,0,646,3824
+chatgpt,1,435,2412
+gpt-4,1,403,2317
+answers,0,872,5116
+chatgpt,1,606,3516
+opt-iml,1,883,4734
+blog,0,604,2827
+chatgpt,1,707,4473
+opt-iml,1,451,2665
+blog,0,811,4107
+flan_t5,1,413,2855
+openwebtext,0,1122,6295
+opinion statements,0,588,3154
+blog,0,1353,6888
+openwebtext,0,588,3429
+opinion statements,0,823,4812
+opinion statements,0,461,2478
+news articles,0,903,5641
+chatgpt,1,458,2839
+opinion statements,0,1143,6227
+openwebtext,0,926,5831
+openwebtext,0,403,2368
+chatgpt,1,385,2307
+opt-iml,1,429,2796
+flan_t5,1,844,5032
+chatgpt,1,431,2725
+opt-iml,1,872,5407
+answers,0,1231,6769
+chatgpt,1,458,2967
+gpt-3.5,1,477,2741
+chatgpt,1,295,1894
+chatgpt,1,437,2626
+chatgpt,1,393,2309
+opt-iml,1,792,5103
+gpt2,1,831,4457
+openwebtext,0,1136,7013
+chatgpt,1,372,2147
+opinion statements,0,446,2448
+opinion statements,0,1246,7456
+gpt2,1,843,4881
+gpt-4,1,378,2262
+chatgpt,1,382,2180
+gpt-4,1,396,2427
+chatgpt,1,438,2758
+opinion statements,0,524,3128
+opinion statements,0,405,2269
+gpt-4,1,419,2271
+gpt2,1,816,4467
+chatgpt,1,597,3992
+opinion statements,0,607,3458
+webtext,0,815,4630
+gpt2,1,525,2909
+opinion statements,0,564,3535
+gpt-4,1,318,1837
+openwebtext,0,379,2242
+opt-iml,1,861,5121
+gpt2,1,706,4540
+gpt-4,1,393,2268
+gpt-4,1,410,2525
+scientific research,0,313,1950
+blog,0,894,5502
+openwebtext,0,709,4636
+blog,0,397,2098
+scientific research,0,314,2148
+openwebtext,0,582,3549
+davinci,1,411,2722
+news articles,0,817,4801
+opinion statements,0,647,3551
+davinci,1,416,2432
+gpt-4,1,342,2014
+gpt-4,1,494,2893
+chatgpt,1,508,2828
+gpt2,1,759,4397
+blog,0,745,3858
+davinci,1,450,2600
+openwebtext,0,1006,5864
+scientific research,0,311,1888
+chatgpt,1,433,2799
+answers,0,1189,6940
+opinion statements,0,430,2380
+davinci,1,792,4589
+scientific research,0,320,2091
+gpt-3.5,1,490,2968
+flan_t5,1,498,2731
+gpt-4,1,420,2537
+flan_t5,1,542,3021
+opinion statements,0,523,3128
+openwebtext,0,702,4197
+gpt-4,1,347,2010
+webtext,0,832,4953
+openwebtext,0,598,3788
+news articles,0,1419,7988
+chatgpt,1,396,2695
+flan_t5,1,403,2396
+scientific research,0,335,1687
+openwebtext,0,1107,6644
+openwebtext,0,412,2425
+openwebtext,0,435,2602
+chatgpt,1,456,2919
+chatgpt,1,530,3296
+openwebtext,0,427,2626
+gpt-4,1,1244,8045
+gpt-4,1,426,2587
+chatgpt,1,355,2223
+chatgpt,1,484,3183
+gpt-3,1,397,2550
+scientific research,0,321,2201
+openwebtext,0,901,5506
+gpt2,1,806,5066
+answers,0,1172,6353
+answers,0,1313,7478
+opt-iml,1,544,3408
+gpt-3.5,1,667,3963
+openwebtext,0,762,4810
+webtext,0,787,4814
+openwebtext,0,444,2815
+openwebtext,0,482,2909
+davinci,1,881,4991
+gpt2,1,493,2891
+answers,0,900,5038
+gpt-4,1,363,2131
+webtext,0,559,3395
+opinion statements,0,515,2824
+opinion statements,0,409,2421
+answers,0,1155,6828
+chatgpt,1,532,3356
+gpt-4,1,457,2973
+news articles,0,1454,8079
+gpt-3,1,388,2352
+openwebtext,0,1090,7049
+davinci,1,908,6066
+news articles,0,1167,6752
+gpt-4,1,400,2390
+scientific research,0,380,2630
+gpt-3.5,1,458,2825
+opinion statements,0,888,5055
+chatgpt,1,308,2041
+news articles,0,1000,6230
+opt-iml,1,425,2224
+opinion statements,0,424,2305
+opinion statements,0,738,4484
+webtext,0,514,3021
+opt-iml,1,439,2801
+openwebtext,0,795,4780
+gpt-4,1,305,1713
+openwebtext,0,1037,6440
+gpt-4,1,369,2103
+openwebtext,0,454,2878
+answers,0,824,4831
+opt-iml,1,870,5044
+openwebtext,0,1126,6531
+chatgpt,1,402,2527
+opinion statements,0,414,2307
+blog,0,861,4304
+openwebtext,0,1239,7337
+gpt-4,1,388,2493
+openwebtext,0,589,3422
+blog,0,520,3058
+gpt-3.5,1,895,5876
+answers,0,938,5380
+flan_t5,1,539,2832
+chatgpt,1,464,2827
+scientific research,0,327,1946
+chatgpt,1,428,2684
+opinion statements,0,419,2197
+davinci,1,729,4203
+webtext,0,842,4909
+opinion statements,0,724,4088
+chatgpt,1,521,3479
+flan_t5,1,846,5413
+gpt-3,1,404,2448
+gpt-3,1,402,1800
+opinion statements,0,542,3070
+opt-iml,1,667,3782
+webtext,0,804,5243
+openwebtext,0,448,2933
+openwebtext,0,438,2374
+opinion statements,0,506,2992
+webtext,0,744,4436
+openwebtext,0,1180,7023
+chatgpt,1,407,2551
+openwebtext,0,869,5447
+openwebtext,0,748,4402
+opinion statements,0,499,2822
+opt-iml,1,707,4435
+blog,0,551,3251
+answers,0,1213,6975
+davinci,1,774,4051
+opinion statements,0,456,2655
+davinci,1,864,5122
+chatgpt,1,668,4025
+flan_t5,1,921,5915
+opt-iml,1,943,7147
+openwebtext,0,638,3737
+openwebtext,0,1179,6622
+webtext,0,816,4506
+openwebtext,0,1002,6102
+openwebtext,0,914,5543
+gpt-4,1,378,2361
+chatgpt,1,394,2226
+openwebtext,0,406,2394
+gpt-3,1,374,2017
+chatgpt,1,498,3219
+gpt-4,1,485,2943
+gpt2,1,885,5016
+flan_t5,1,431,2423
+chatgpt,1,354,2133
+openwebtext,0,563,3304
+chatgpt,1,372,2459
+chatgpt,1,412,2495
+opinion statements,0,822,4760
+chatgpt,1,576,3805
+opinion statements,0,544,2876
+davinci,1,442,2653
+opinion statements,0,712,4256
+opt-iml,1,897,5504
+openwebtext,0,1241,7133
+chatgpt,1,381,2129
+answers,0,1091,5932
+openwebtext,0,380,2300
+openwebtext,0,965,5223
+davinci,1,842,4967
+gpt2,1,772,4260
+gpt-3.5,1,441,2861
+chatgpt,1,341,2051
+gpt-3.5,1,663,4324
+webtext,0,416,2529
+openwebtext,0,712,4129
+flan_t5,1,868,4851
+answers,0,915,5100
+gpt2,1,724,4072
+opt-iml,1,897,5755
+gpt2,1,535,2882
+openwebtext,0,1469,7986
+chatgpt,1,424,2754
+openwebtext,0,609,3589
+openwebtext,0,1169,6918
+chatgpt,1,400,2496
+chatgpt,1,457,3052
+gpt-3.5,1,653,3986
+opt-iml,1,613,3868
+gpt2,1,809,4864
+openwebtext,0,584,3483
+opinion statements,0,402,2184
+webtext,0,718,4259
+answers,0,1118,6927
+scientific research,0,315,1589
+gpt-4,1,503,2807
+gpt-3,1,423,2039
+scientific research,0,308,2076
+news articles,0,813,4744
+opinion statements,0,545,2970
+webtext,0,376,2187
+opinion statements,0,535,3195
+opinion statements,0,871,4754
+chatgpt,1,301,1805
+opinion statements,0,633,3809
+news articles,0,1435,8245
+webtext,0,756,4578
+blog,0,441,2290
+answers,0,810,4624
+chatgpt,1,372,2305
+chatgpt,1,701,4407
+opinion statements,0,488,2499
+openwebtext,0,422,2466
+gpt-4,1,350,2050
+flan_t5,1,404,2189
+openwebtext,0,741,4110
+openwebtext,0,1100,6345
+chatgpt,1,391,2364
+openwebtext,0,371,2363
+davinci,1,427,2518
+chatgpt,1,464,2984
+gpt-3.5,1,779,4472
+opinion statements,0,710,3993
+opinion statements,0,593,3248
+gpt-4,1,374,2233
+flan_t5,1,853,5501
+gpt-3.5,1,642,3829
+gpt-4,1,452,2683
+chatgpt,1,504,3038
+davinci,1,402,2506
+chatgpt,1,400,2660
+opinion statements,0,779,4394
+flan_t5,1,899,5744
+davinci,1,950,6611
+answers,0,1012,6076
+gpt-3,1,410,2476
+davinci,1,642,4274
+opinion statements,0,689,3848
+chatgpt,1,471,2859
+opinion statements,0,406,2125
+opinion statements,0,1031,5626
+gpt-4,1,417,2494
+openwebtext,0,514,2902
+opt-iml,1,462,2692
+openwebtext,0,411,2373
+openwebtext,0,488,2997
+blog,0,975,5282
+news articles,0,1351,7934
+chatgpt,1,437,2540
+opt-iml,1,495,2371
+chatgpt,1,519,3308
+answers,0,847,4678
+opinion statements,0,797,4731
+openwebtext,0,393,2286
+opinion statements,0,492,2705
+opinion statements,0,646,3569
+gpt-4,1,380,2335
+openwebtext,0,703,3861
+gpt-4,1,339,1986
+chatgpt,1,432,2712
+gpt-4,1,344,2172
+openwebtext,0,1165,7151
+davinci,1,890,6034
+chatgpt,1,742,4984
+gpt-3,1,408,2474
+opinion statements,0,433,2447
+opinion statements,0,467,2691
+chatgpt,1,420,2718
+opinion statements,0,502,2815
+opinion statements,0,568,3527
+opinion statements,0,942,5536
+gpt-3.5,1,523,3351
+chatgpt,1,480,3043
+opt-iml,1,488,2918
+webtext,0,482,2879
+opinion statements,0,409,2407
+opt-iml,1,771,4232
+openwebtext,0,821,4663
+chatgpt,1,392,2455
+chatgpt,1,552,3640
+answers,0,1236,7058
+opinion statements,0,406,2311
+opt-iml,1,556,3506
+opinion statements,0,475,2611
+chatgpt,1,890,6225
+opinion statements,0,1020,5659
+gpt-4,1,330,2087
+opinion statements,0,557,3577
+scientific research,0,318,2148
+flan_t5,1,887,5491
+flan_t5,1,868,5379
+davinci,1,580,3406
+davinci,1,790,4570
+chatgpt,1,583,3730
+openwebtext,0,957,5911
+opinion statements,0,434,2506
+gpt-3,1,402,2090
+chatgpt,1,396,2383
+gpt-3,1,423,2576
+openwebtext,0,822,5112
+gpt-3,1,411,2174
+news articles,0,937,5469
+opinion statements,0,551,3254
+gpt-4,1,520,3270
+opinion statements,0,905,4814
+gpt-4,1,442,2830
+gpt-4,1,354,2125
+gpt-3.5,1,453,2658
+gpt-3.5,1,919,5762
+gpt-3.5,1,764,4143
+gpt2,1,759,4303
+chatgpt,1,407,2625
+flan_t5,1,410,2328
+opt-iml,1,838,5293
+gpt2,1,821,5221
+opinion statements,0,1272,7564
+gpt-4,1,321,2065
+news articles,0,1114,6478
+news articles,0,1059,6000
+chatgpt,1,631,4198
+chatgpt,1,529,3104
+gpt-4,1,448,2783
+answers,0,1017,5682
+flan_t5,1,423,2515
+opinion statements,0,1032,5539
+openwebtext,0,758,4212
+gpt-4,1,399,2235
+gpt-3.5,1,863,5112
+openwebtext,0,587,3390
+answers,0,1015,5822
+openwebtext,0,1229,7086
+opt-iml,1,851,5364
+openwebtext,0,850,5264
+openwebtext,0,589,3692
+flan_t5,1,546,3368
+openwebtext,0,919,5432
+davinci,1,905,5750
+flan_t5,1,919,5932
+openwebtext,0,1044,5892
+webtext,0,740,4383
+opinion statements,0,553,3166
+webtext,0,870,4764
+openwebtext,0,769,4531
+openwebtext,0,924,5048
+openwebtext,0,798,4913
+opinion statements,0,414,2289
+gpt-4,1,615,3942
+openwebtext,0,1500,8690
+gpt2,1,800,4569
+chatgpt,1,506,3498
+gpt2,1,634,3394
+gpt-3.5,1,453,2700
+opinion statements,0,401,2344
+gpt-3.5,1,549,3486
+webtext,0,526,3135
+davinci,1,696,3955
+answers,0,879,4885
+chatgpt,1,548,3555
+chatgpt,1,645,4004
+chatgpt,1,407,2491
+chatgpt,1,411,2449
+gpt-4,1,382,2407
+gpt2,1,834,4557
+davinci,1,498,2978
+chatgpt,1,464,2816
+chatgpt,1,505,2987
+openwebtext,0,510,2862
+openwebtext,0,1435,8291
+chatgpt,1,427,2888
+gpt-3.5,1,818,5363
+gpt-4,1,432,2830
+gpt-3.5,1,503,2766
+gpt-4,1,512,3292
+openwebtext,0,982,5528
+opinion statements,0,471,2648
+davinci,1,1016,5595
+gpt-4,1,455,2905
+opinion statements,0,407,2251
+chatgpt,1,399,2389
+answers,0,866,4616
+openwebtext,0,638,3616
+opinion statements,0,449,2379
+gpt-3.5,1,416,2346
+openwebtext,0,481,3119
+chatgpt,1,407,2503
+opinion statements,0,529,2968
+flan_t5,1,715,4059
+opinion statements,0,432,2706
+opinion statements,0,1123,6566
+flan_t5,1,457,2671
+opinion statements,0,402,2260
+scientific research,0,390,2634
+opt-iml,1,761,4580
+opinion statements,0,451,2575
+openwebtext,0,576,3121
+openwebtext,0,781,5052
+gpt-4,1,395,2566
+opinion statements,0,653,3723
+opinion statements,0,865,4850
+openwebtext,0,807,4865
+gpt-4,1,380,2267
+opinion statements,0,527,3288
+opt-iml,1,464,2623
+openwebtext,0,1105,6001
+gpt2,1,535,2711
+gpt2,1,556,3403
+openwebtext,0,556,3461
+chatgpt,1,427,2693
+news articles,0,871,5014
+opt-iml,1,519,3145
+webtext,0,696,3805
+gpt-3,1,375,2054
+chatgpt,1,423,2696
+opinion statements,0,515,2855
+opt-iml,1,430,2573
+chatgpt,1,401,2676
+opinion statements,0,746,4260
+opt-iml,1,877,5269
+gpt-4,1,398,2363
+openwebtext,0,421,2334
+news articles,0,1415,8029
+blog,0,378,1982
+chatgpt,1,407,2416
+openwebtext,0,1198,6974
+chatgpt,1,362,2219
+opinion statements,0,507,3079
+gpt-3.5,1,412,2513
+gpt-4,1,408,2309
+news articles,0,900,5283
+openwebtext,0,795,5014
+flan_t5,1,433,2618
+openwebtext,0,827,4973
+opt-iml,1,430,3450
+chatgpt,1,495,3225
+chatgpt,1,495,3077
+davinci,1,443,2616
+openwebtext,0,567,3281
+chatgpt,1,532,3336
+news articles,0,866,5206
+opinion statements,0,553,3180
+gpt-4,1,395,2423
+openwebtext,0,848,4915
+chatgpt,1,517,3399
+openwebtext,0,404,2272
+openwebtext,0,680,4466
+flan_t5,1,892,4932
+gpt2,1,421,3057
+answers,0,801,4497
+openwebtext,0,425,2612
+opinion statements,0,854,4738
+opinion statements,0,1003,5658
+opinion statements,0,474,2791
+webtext,0,557,3061
+news articles,0,974,5802
+davinci,1,553,3228
+opinion statements,0,492,2683
+openwebtext,0,440,2923
+openwebtext,0,388,2330
+opinion statements,0,547,2999
+gpt-3,1,410,2535
+gpt-3,1,390,2367
+openwebtext,0,484,2815
+news articles,0,998,5906
+opt-iml,1,438,2696
+openwebtext,0,456,2801
+gpt-3,1,401,2295
+davinci,1,801,4360
+chatgpt,1,405,2642
+opinion statements,0,532,2972
+gpt-4,1,345,2119
+answers,0,804,4476
+opinion statements,0,554,3242
+gpt-3.5,1,971,6217
+opinion statements,0,449,2479
+chatgpt,1,401,2573
+answers,0,1094,6128
+flan_t5,1,874,5368
+gpt-4,1,318,2037
+openwebtext,0,1044,6225
+opinion statements,0,404,2317
+scientific research,0,316,2106
+scientific research,0,346,2212
+gpt-3.5,1,455,2550
+openwebtext,0,470,3051
+openwebtext,0,691,4173
+davinci,1,404,2724
+gpt-4,1,363,2165
+gpt-3.5,1,901,6578
+davinci,1,668,4356
+flan_t5,1,857,5333
+openwebtext,0,629,3939
+openwebtext,0,995,5791
+flan_t5,1,404,2379
+opinion statements,0,874,5127
+openwebtext,0,677,4329
+webtext,0,776,4865
+chatgpt,1,348,2120
+opinion statements,0,569,3356
+flan_t5,1,404,2509
+chatgpt,1,382,2524
+gpt-4,1,369,2145
+flan_t5,1,480,3309
+blog,0,423,2107
+answers,0,1254,7223
+openwebtext,0,843,5024
+openwebtext,0,433,2735
+flan_t5,1,904,5652
+chatgpt,1,600,3544
+chatgpt,1,543,3673
+answers,0,897,5221
+openwebtext,0,883,5011
+chatgpt,1,414,2573
+flan_t5,1,779,4583
+opt-iml,1,430,2414
+gpt-3.5,1,531,3382
+openwebtext,0,757,4587
+chatgpt,1,394,2429
+openwebtext,0,1113,6408
+opinion statements,0,578,3150
+answers,0,927,5001
+openwebtext,0,540,2981
+davinci,1,415,2452
+answers,0,925,5265
+webtext,0,785,4569
+davinci,1,834,5322
+opinion statements,0,900,5359
+opinion statements,0,412,2340
+gpt-3.5,1,803,5704
+flan_t5,1,888,4994
+opinion statements,0,498,2883
+davinci,1,507,3003
+opinion statements,0,674,3745
+davinci,1,861,5570
+openwebtext,0,719,3887
+gpt2,1,422,2697
+opinion statements,0,588,3721
+blog,0,441,2460
+openwebtext,0,687,3762
+openwebtext,0,513,2804
+blog,0,1088,6036
+chatgpt,1,372,2194
+gpt-3,1,419,2578
+openwebtext,0,734,4398
+chatgpt,1,380,2686
+gpt-4,1,413,2668
+davinci,1,431,2593
+scientific research,0,424,2812
+blog,0,575,3037
+chatgpt,1,387,2531
+opinion statements,0,514,2675
+chatgpt,1,545,3207
+gpt-3,1,393,2222
+chatgpt,1,423,2587
+gpt2,1,609,3653
+openwebtext,0,1171,7140
+gpt-4,1,296,1921
+blog,0,466,2595
+gpt2,1,705,4288
+openwebtext,0,1019,5968
+opinion statements,0,403,2468
+scientific research,0,388,2327
+chatgpt,1,573,3623
+gpt-3,1,464,2290
+openwebtext,0,589,3442
+gpt-3,1,375,2132
+gpt2,1,818,4757
+opinion statements,0,465,2631
+openwebtext,0,1187,6643
+chatgpt,1,673,3882
+opt-iml,1,498,2822
+opinion statements,0,891,5106
+gpt-4,1,407,2390
+opt-iml,1,483,2703
+chatgpt,1,425,2789
+davinci,1,804,5793
+opinion statements,0,453,2652
+openwebtext,0,1094,6685
+gpt-4,1,462,3141
+davinci,1,402,2589
+opinion statements,0,628,3496
+openwebtext,0,528,3101
+opinion statements,0,745,3973
+answers,0,905,5337
+openwebtext,0,544,4116
+scientific research,0,338,2098
+opt-iml,1,530,3055
+opinion statements,0,999,5629
+openwebtext,0,456,2573
+gpt-4,1,360,2139
+gpt-3,1,371,2091
+answers,0,915,5130
+answers,0,912,4993
+opinion statements,0,540,3018
+opinion statements,0,584,3456
+opinion statements,0,562,3186
+davinci,1,889,6089
+chatgpt,1,332,2131
+openwebtext,0,428,2682
+chatgpt,1,425,2704
+blog,0,1241,6763
+answers,0,1022,5848
+opt-iml,1,657,4249
+gpt-3,1,384,2092
+davinci,1,418,2876
+chatgpt,1,446,2740
+flan_t5,1,419,2567
+openwebtext,0,385,2241
+news articles,0,1127,6328
+gpt-4,1,411,2438
+chatgpt,1,479,2790
+flan_t5,1,443,2114
+openwebtext,0,537,3219
+gpt2,1,509,2836
+webtext,0,791,4290
+gpt-3.5,1,587,3223
+gpt-3,1,412,2492
+openwebtext,0,1065,6538
+flan_t5,1,903,5559
+news articles,0,1137,6469
+davinci,1,402,2273
+chatgpt,1,567,3126
+opinion statements,0,582,3253
+opinion statements,0,594,3197
+gpt-3,1,392,2360
+gpt-3,1,419,2641
+gpt-3.5,1,553,3594
+opt-iml,1,652,3742
+openwebtext,0,486,2884
+chatgpt,1,485,3068
+news articles,0,1154,6426
+openwebtext,0,751,4864
+gpt-4,1,464,2946
+gpt-3.5,1,439,2622
+openwebtext,0,468,3040
+openwebtext,0,404,2347
+chatgpt,1,753,4230
+chatgpt,1,375,2367
+webtext,0,477,2843
+scientific research,0,412,2599
+openwebtext,0,562,3399
+flan_t5,1,604,3595
+opinion statements,0,737,4110
+gpt-3,1,371,2059
+opinion statements,0,773,4436
+gpt2,1,784,4778
+flan_t5,1,667,4329
+gpt-4,1,324,1776
+davinci,1,467,3125
+answers,0,930,4948
+chatgpt,1,514,3139
+opinion statements,0,492,2888
+opinion statements,0,416,2297
+openwebtext,0,919,5151
+flan_t5,1,404,2175
+openwebtext,0,661,3720
+openwebtext,0,1010,6267
+gpt-3,1,404,2501
+chatgpt,1,481,2936
+opinion statements,0,461,2700
+opt-iml,1,517,3414
+openwebtext,0,802,4903
+openwebtext,0,446,2601
+openwebtext,0,666,3974
+gpt-4,1,292,1721
+gpt-3,1,382,2411
+davinci,1,845,5979
+chatgpt,1,468,2749
+chatgpt,1,399,2581
+gpt-4,1,410,2658
+opinion statements,0,662,3689
+gpt-3.5,1,437,2814
+davinci,1,641,4332
+opinion statements,0,441,2631
+webtext,0,766,4604
+chatgpt,1,456,2927
+answers,0,1300,7397
+openwebtext,0,1486,9323
+gpt-3.5,1,550,3410
+flan_t5,1,906,5497
+davinci,1,737,3910
+opinion statements,0,540,3141
+answers,0,1059,6081
+openwebtext,0,473,2857
+gpt-4,1,429,2567
+gpt2,1,805,4951
+chatgpt,1,732,4500
+gpt2,1,788,4905
+openwebtext,0,930,5933
+gpt-3.5,1,825,5165
+gpt2,1,839,5210
+gpt-3,1,387,1976
+answers,0,902,5263
+news articles,0,915,5365
+gpt-3,1,383,2322
+gpt-4,1,422,2649
+chatgpt,1,419,2725
+davinci,1,512,2754
+openwebtext,0,927,5885
+gpt-4,1,436,2502
+opt-iml,1,763,4846
+openwebtext,0,753,4133
+gpt-3.5,1,518,2982
+gpt-3.5,1,939,6519
+davinci,1,965,5488
+opt-iml,1,446,2467
+gpt-3,1,405,2052
+chatgpt,1,307,2016
+news articles,0,806,4805
+openwebtext,0,866,5847
+chatgpt,1,385,2385
+flan_t5,1,912,5191
+gpt-3,1,412,2424
+chatgpt,1,540,3520
+openwebtext,0,614,3792
+gpt-4,1,522,3099
+opinion statements,0,436,2399
+gpt-3.5,1,895,5551
+opinion statements,0,501,2822
+flan_t5,1,420,2085
+chatgpt,1,473,3011
+flan_t5,1,479,2925
+blog,0,685,3620
+opinion statements,0,447,2485
+flan_t5,1,450,2513
+gpt-3.5,1,517,3191
+blog,0,426,2250
+opinion statements,0,407,2288
+gpt-3.5,1,928,6350
+opinion statements,0,745,4259
+scientific research,0,311,2105
+gpt-3.5,1,693,4287
+gpt2,1,763,4289
+openwebtext,0,829,4451
+chatgpt,1,599,3908
+openwebtext,0,514,2920
+gpt-4,1,387,2465
+opinion statements,0,473,2785
+answers,0,1119,6751
+chatgpt,1,515,3278
+chatgpt,1,438,2781
+opinion statements,0,579,3374
+opt-iml,1,462,3800
+opinion statements,0,494,2743
+opinion statements,0,473,2713
+gpt2,1,772,4672
+openwebtext,0,431,2520
+gpt-3.5,1,835,4828
+gpt-4,1,441,2722
+flan_t5,1,525,3218
+webtext,0,688,4344
+openwebtext,0,580,3811
+opinion statements,0,628,3490
+gpt-3,1,381,2209
+chatgpt,1,496,2820
+opt-iml,1,886,5013
+opt-iml,1,461,2092
+gpt-3,1,406,2563
+opinion statements,0,520,3035
+news articles,0,1078,6347
+gpt-3.5,1,898,5536
+webtext,0,797,4555
+opt-iml,1,473,2674
+openwebtext,0,411,2347
+opt-iml,1,881,4849
+opinion statements,0,418,2270
+webtext,0,474,2917
+openwebtext,0,487,2821
+opinion statements,0,1411,7809
+webtext,0,426,2379
+davinci,1,947,6845
+gpt2,1,434,2667
+openwebtext,0,1178,6713
+davinci,1,637,3554
+flan_t5,1,894,5050
+openwebtext,0,1233,7005
+answers,0,1030,5916
+gpt-4,1,403,2553
+davinci,1,503,3284
+gpt-4,1,532,3267
+opinion statements,0,762,4580
+opt-iml,1,542,3138
+davinci,1,437,2839
+chatgpt,1,445,2719
+chatgpt,1,555,3457
+chatgpt,1,382,2649
+openwebtext,0,961,5556
+gpt-4,1,432,2706
+flan_t5,1,905,5494
+chatgpt,1,379,2348
+chatgpt,1,407,2787
+flan_t5,1,905,5510
+gpt-4,1,445,2881
+news articles,0,1066,6484
+chatgpt,1,620,4264
+davinci,1,404,2313
+openwebtext,0,433,2615
+scientific research,0,360,2333
+openwebtext,0,528,3260
+scientific research,0,322,2089
+opt-iml,1,468,2734
+opt-iml,1,872,5264
+gpt2,1,483,3043
+opinion statements,0,413,2362
+flan_t5,1,621,3495
+news articles,0,1167,6390
+opinion statements,0,467,2429
+openwebtext,0,434,2650
+davinci,1,516,3457
+blog,0,670,3348
+chatgpt,1,713,4411
+news articles,0,1090,6081
+webtext,0,402,2502
+opt-iml,1,836,6187
+gpt-4,1,424,2790
+opt-iml,1,861,5522
+opinion statements,0,877,5345
+chatgpt,1,413,2510
+openwebtext,0,460,2858
+gpt2,1,822,4666
+chatgpt,1,427,2741
+openwebtext,0,1114,7166
+answers,0,926,5560
+gpt-4,1,443,2654
+opinion statements,0,523,2941
+openwebtext,0,446,2692
+openwebtext,0,969,5705
+openwebtext,0,392,2439
+gpt-3.5,1,670,3984
+flan_t5,1,739,4311
+chatgpt,1,469,3030
+flan_t5,1,529,2184
+openwebtext,0,1006,5644
+opt-iml,1,406,2106
+gpt-4,1,437,2755
+openwebtext,0,924,5931
+chatgpt,1,449,2928
+davinci,1,813,4824
+flan_t5,1,758,4843
+openwebtext,0,823,4819
+opinion statements,0,453,2651
+gpt-3,1,398,2262
+opinion statements,0,707,3841
+opt-iml,1,515,2785
+opinion statements,0,676,3692
+gpt2,1,517,2777
+opinion statements,0,654,3733
+opinion statements,0,410,2318
+chatgpt,1,390,2249
+openwebtext,0,1027,6432
+gpt-4,1,480,2785
+gpt-3.5,1,510,2925
+openwebtext,0,529,2907
+opinion statements,0,719,4069
+davinci,1,602,3839
+openwebtext,0,901,5141
+chatgpt,1,428,2706
+blog,0,382,1981
+openwebtext,0,626,4251
+opinion statements,0,432,2583
+webtext,0,753,4554
+blog,0,683,3574
+opinion statements,0,656,3843
+openwebtext,0,935,5402
+openwebtext,0,812,4723
+gpt-3,1,431,2385
+gpt-4,1,352,2076
+opinion statements,0,443,2574
+gpt-3,1,402,2327
+opinion statements,0,425,2486
+chatgpt,1,613,4000
+chatgpt,1,590,3856
+opinion statements,0,781,4321
+answers,0,940,5441
+openwebtext,0,420,2360
+chatgpt,1,386,2161
+opinion statements,0,1087,6850
+opt-iml,1,404,2171
+gpt-4,1,384,2527
+answers,0,1418,7956
+opt-iml,1,813,4871
+openwebtext,0,447,2608
+chatgpt,1,498,3166
+chatgpt,1,644,3926
+gpt-4,1,409,2637
+chatgpt,1,380,2636
+davinci,1,616,3520
+chatgpt,1,496,3284
+opinion statements,0,613,3322
+webtext,0,800,4897
+opinion statements,0,570,3271
+chatgpt,1,567,3198
+gpt-3.5,1,744,4400
+opinion statements,0,827,4573
+chatgpt,1,428,2729
+opinion statements,0,404,2457
+gpt2,1,764,4099
+webtext,0,834,5439
+opinion statements,0,428,2434
+openwebtext,0,598,3456
+openwebtext,0,1030,6265
+opt-iml,1,409,2445
+flan_t5,1,859,4858
+davinci,1,892,5500
+chatgpt,1,420,2400
+openwebtext,0,525,2973
+gpt-4,1,378,2294
+flan_t5,1,420,2535
+news articles,0,1221,7357
+news articles,0,1229,6405
+gpt-4,1,442,2782
+openwebtext,0,996,5862
+openwebtext,0,724,4446
+gpt-3.5,1,916,5523
+flan_t5,1,802,5460
+flan_t5,1,912,5508
+gpt-4,1,375,2245
+opinion statements,0,475,2835
+gpt-3,1,394,2133
+opinion statements,0,764,4568
+chatgpt,1,389,2597
+chatgpt,1,431,2414
+flan_t5,1,605,3862
+opinion statements,0,429,2477
+openwebtext,0,682,4293
+webtext,0,845,5274
+flan_t5,1,856,4760
+gpt-4,1,589,3862
+flan_t5,1,694,3909
+opinion statements,0,404,2190
+chatgpt,1,462,3171
+chatgpt,1,427,2446
+gpt-4,1,331,1829
+news articles,0,1073,5964
+openwebtext,0,440,2700
+openwebtext,0,397,2430
+openwebtext,0,594,3620
+davinci,1,614,3918
+openwebtext,0,865,4723
+gpt-4,1,410,2474
+openwebtext,0,1064,6312
+flan_t5,1,673,4137
+webtext,0,428,2768
+gpt-4,1,409,2218
+openwebtext,0,520,3087
+gpt-3,1,382,2224
+flan_t5,1,870,5388
+gpt2,1,423,2562
+webtext,0,801,4812
+gpt2,1,736,4330
+gpt2,1,711,3946
+openwebtext,0,1268,8175
+openwebtext,0,878,5269
+openwebtext,0,534,2975
+gpt-3,1,411,2183
+opinion statements,0,583,3478
+answers,0,1217,7837
+openwebtext,0,1205,6850
+opinion statements,0,540,3207
+opinion statements,0,497,2599
+gpt-3.5,1,635,4135
+blog,0,557,2924
+blog,0,547,2976
+openwebtext,0,1472,9493
+opinion statements,0,511,2994
+davinci,1,635,4089
+openwebtext,0,638,3863
+gpt-3.5,1,875,5582
+blog,0,435,2162
+gpt-4,1,390,2397
+openwebtext,0,614,3510
+opt-iml,1,853,4723
+gpt-4,1,394,2520
+opinion statements,0,411,2313
+gpt-4,1,430,2529
+opt-iml,1,884,5166
+openwebtext,0,830,4983
+opt-iml,1,785,4646
+gpt2,1,596,3831
+gpt-3.5,1,893,5314
+scientific research,0,466,3120
+news articles,0,1043,6236
+davinci,1,576,3523
+chatgpt,1,397,2202
+openwebtext,0,838,4869
+opinion statements,0,741,4116
+gpt-4,1,448,2588
+gpt-4,1,383,2536
+openwebtext,0,649,4267
+chatgpt,1,488,3088
+answers,0,821,4604
+chatgpt,1,384,2370
+opinion statements,0,444,2579
+opinion statements,0,506,2724
+openwebtext,0,409,2359
+gpt-3.5,1,441,2598
+gpt-4,1,391,2301
+gpt2,1,527,3308
+gpt-3.5,1,534,3234
+opinion statements,0,461,2462
+answers,0,817,4690
+answers,0,879,4812
+gpt-3.5,1,492,3337
+opinion statements,0,530,2968
+openwebtext,0,821,5092
+flan_t5,1,441,2676
+scientific research,0,384,2267
+opinion statements,0,630,3571
+opinion statements,0,1149,6558
+chatgpt,1,583,3727
+gpt-4,1,404,2304
+webtext,0,768,4221
+davinci,1,456,2850
+gpt-4,1,346,1980
+gpt2,1,852,4957
+chatgpt,1,439,2855
+chatgpt,1,553,3638
+news articles,0,1263,7072
+openwebtext,0,1003,5653
+openwebtext,0,385,2353
+openwebtext,0,787,4431
+opt-iml,1,912,5160
+openwebtext,0,432,2612
+gpt-4,1,388,2294
+openwebtext,0,519,3106
+chatgpt,1,465,2847
+gpt-4,1,399,2602
+opinion statements,0,504,2820
+gpt2,1,399,2196
+openwebtext,0,519,3268
+opinion statements,0,654,3825
+answers,0,842,4898
+opinion statements,0,718,3981
+gpt-3.5,1,598,2995
+gpt-3.5,1,577,3162
+gpt2,1,740,4485
+openwebtext,0,643,3899
+news articles,0,853,4581
+openwebtext,0,989,6094
+gpt-4,1,552,3764
+opt-iml,1,876,5146
+openwebtext,0,691,3635
+gpt-4,1,506,3282
+opt-iml,1,812,4773
+opinion statements,0,433,2440
+chatgpt,1,472,3049
+openwebtext,0,499,2854
+webtext,0,392,2545
+gpt-4,1,338,2124
+flan_t5,1,436,2541
+chatgpt,1,402,2388
+gpt-4,1,501,3226
+news articles,0,849,4903
+openwebtext,0,565,3401
+opinion statements,0,785,4591
+openwebtext,0,525,2927
+gpt-3.5,1,460,2656
+opinion statements,0,683,3950
+openwebtext,0,954,5886
+webtext,0,802,4760
+gpt-4,1,363,2246
+openwebtext,0,718,3916
+gpt-4,1,380,2288
+opt-iml,1,540,3329
+scientific research,0,333,2363
+flan_t5,1,685,3768
+opinion statements,0,481,2693
+openwebtext,0,830,5032
+gpt2,1,803,5240
+gpt-3.5,1,936,6563
+openwebtext,0,394,2469
+flan_t5,1,818,5055
+openwebtext,0,848,5014
+opinion statements,0,481,2670
+webtext,0,586,3527
+chatgpt,1,517,3359
+opinion statements,0,511,2743
+openwebtext,0,722,3943
+gpt-3.5,1,505,2979
+opinion statements,0,825,4668
+gpt-3.5,1,462,2977
+davinci,1,789,4477
+openwebtext,0,416,2563
+gpt-4,1,391,2340
+openwebtext,0,1114,6840
+answers,0,1493,8125
+openwebtext,0,585,3635
+gpt-4,1,504,2733
+opinion statements,0,445,2419
+news articles,0,887,4993
+davinci,1,460,2398
+openwebtext,0,646,4770
+chatgpt,1,486,3068
+answers,0,1112,6010
+chatgpt,1,474,2888
+openwebtext,0,398,2441
+blog,0,835,4782
+flan_t5,1,891,5278
+gpt-4,1,363,2123
+webtext,0,842,5211
+answers,0,1182,6366
+openwebtext,0,1008,6798
+opinion statements,0,675,3906
+openwebtext,0,574,3435
+opinion statements,0,523,3031
+chatgpt,1,603,3590
+gpt-3,1,413,2349
+opinion statements,0,688,3873
+answers,0,1437,7865
+chatgpt,1,624,3773
+openwebtext,0,694,4213
+webtext,0,379,2405
+gpt-3.5,1,536,3509
+openwebtext,0,417,2476
+webtext,0,579,3387
+chatgpt,1,344,2116
+news articles,0,1035,6214
+openwebtext,0,490,2938
+openwebtext,0,660,4047
+openwebtext,0,547,3555
+chatgpt,1,495,3382
+gpt-3.5,1,738,5067
+opt-iml,1,883,5145
+davinci,1,515,2793
+opinion statements,0,409,2563
+chatgpt,1,554,3556
+scientific research,0,326,1923
+flan_t5,1,742,4540
+gpt-4,1,381,2425
+gpt-4,1,378,2379
+chatgpt,1,403,2806
+chatgpt,1,302,1824
+opinion statements,0,421,2661
+opinion statements,0,408,2299
+flan_t5,1,721,4295
+openwebtext,0,571,3540
+openwebtext,0,814,4591
+news articles,0,1023,6033
+opt-iml,1,405,2424
+gpt-4,1,394,2467
+chatgpt,1,406,2488
+opt-iml,1,537,3191
+webtext,0,390,2502
+answers,0,807,4418
+gpt-4,1,424,2414
+webtext,0,720,4069
+flan_t5,1,572,3247
+webtext,0,654,4045
+chatgpt,1,611,3841
+answers,0,1309,7406
+davinci,1,612,4046
+blog,0,506,2656
+webtext,0,764,4675
+chatgpt,1,423,2662
+opinion statements,0,635,3434
+gpt-4,1,363,2061
+chatgpt,1,425,2644
+news articles,0,895,4915
+openwebtext,0,1035,6266
+chatgpt,1,431,2723
+answers,0,904,5266
+chatgpt,1,424,2579
+openwebtext,0,460,2763
+opt-iml,1,620,3679
+chatgpt,1,442,2735
+opinion statements,0,404,2322
+gpt2,1,606,2941
+openwebtext,0,887,5254
+news articles,0,911,5175
+chatgpt,1,376,2290
+gpt-3,1,420,2359
+gpt-4,1,503,3213
+gpt-3.5,1,522,3148
+gpt-3,1,422,2221
+gpt-4,1,384,2245
+opinion statements,0,568,3468
+opinion statements,0,480,2667
+opinion statements,0,459,2628
+openwebtext,0,1036,6517
+gpt2,1,754,4339
+opinion statements,0,416,2231
+opinion statements,0,668,3606
+opinion statements,0,659,3723
+openwebtext,0,733,4385
+flan_t5,1,876,4949
+gpt2,1,709,4230
+openwebtext,0,756,5200
+answers,0,810,4475
+scientific research,0,376,2483
+flan_t5,1,543,3228
+webtext,0,442,2677
+openwebtext,0,459,2820
+flan_t5,1,454,2870
+davinci,1,671,4268
+gpt-3.5,1,779,5280
+answers,0,821,4407
+chatgpt,1,435,2688
+gpt-4,1,416,2384
+openwebtext,0,1458,9289
+gpt2,1,646,3778
+gpt-3,1,413,2452
+opt-iml,1,514,3089
+chatgpt,1,621,4230
+flan_t5,1,832,5499
+gpt2,1,780,4713
+openwebtext,0,865,5380
+openwebtext,0,1187,7163
+chatgpt,1,377,2317
+gpt-4,1,342,2097
+flan_t5,1,485,2995
+opinion statements,0,1123,7137
+gpt-3,1,383,2181
+chatgpt,1,510,3067
+gpt2,1,401,2507
+chatgpt,1,462,2679
+gpt2,1,450,2825
+chatgpt,1,396,2746
+openwebtext,0,1328,7368
+chatgpt,1,601,3969
+answers,0,1243,6959
+gpt-3,1,388,2273
+gpt2,1,847,5303
+answers,0,1050,6454
+webtext,0,635,3763
+answers,0,952,5610
+openwebtext,0,457,2639
+chatgpt,1,450,2646
+openwebtext,0,1255,7273
+gpt2,1,834,4643
+answers,0,935,5425
+scientific research,0,413,2643
+opinion statements,0,517,2916
+opinion statements,0,717,4232
+opinion statements,0,514,3097
+chatgpt,1,411,2560
+webtext,0,413,2555
+openwebtext,0,1278,7934
+webtext,0,749,4735
+answers,0,853,4484
+gpt-4,1,546,3204
+flan_t5,1,424,2315
+opinion statements,0,716,4094
+gpt-4,1,390,2469
+flan_t5,1,886,4864
+opinion statements,0,422,2290
+flan_t5,1,445,2818
+gpt-4,1,380,2362
+gpt-3,1,384,2273
+openwebtext,0,966,5383
+answers,0,1261,7181
+chatgpt,1,623,4030
+chatgpt,1,746,4783
+openwebtext,0,569,3307
+gpt-3,1,376,2044
+gpt-3.5,1,878,5194
+gpt2,1,535,3325
+davinci,1,519,3161
+gpt2,1,545,3037
+openwebtext,0,544,3221
+opinion statements,0,410,2326
+chatgpt,1,408,2307
+opt-iml,1,554,3531
+openwebtext,0,424,2629
+gpt-4,1,403,2462
+flan_t5,1,469,2996
+gpt-4,1,408,2465
+openwebtext,0,508,3172
+davinci,1,864,5151
+opinion statements,0,807,5008
+gpt-3.5,1,479,2463
+gpt-3.5,1,446,2724
+gpt-3,1,379,2120
+webtext,0,528,3335
+chatgpt,1,446,2771
+flan_t5,1,630,4046
+flan_t5,1,909,5743
+chatgpt,1,417,2417
+openwebtext,0,492,3137
+gpt-4,1,334,1956
+opt-iml,1,754,4552
+gpt2,1,440,2485
+openwebtext,0,392,2238
+opt-iml,1,519,3283
+chatgpt,1,493,3115
+openwebtext,0,676,4295
+davinci,1,901,5305
+davinci,1,953,7099
+gpt-4,1,395,2238
+webtext,0,676,3973
+gpt-3.5,1,458,2720
+openwebtext,0,533,3395
+gpt-4,1,414,2738
+opinion statements,0,515,2872
+chatgpt,1,391,2417
+webtext,0,763,4569
+chatgpt,1,478,3025
+answers,0,1135,6261
+gpt-4,1,336,1925
+opinion statements,0,432,2789
+webtext,0,725,4633
+blog,0,930,5483
+opinion statements,0,630,3502
+gpt2,1,838,4617
+gpt-3,1,467,2577
+openwebtext,0,980,5950
+answers,0,937,5439
+chatgpt,1,539,3497
+davinci,1,454,2803
+opinion statements,0,504,2883
+chatgpt,1,703,4093
+opinion statements,0,1263,7162
+openwebtext,0,582,3552
+flan_t5,1,542,3239
+gpt-3.5,1,471,2500
+webtext,0,374,2132
+openwebtext,0,607,3466
+openwebtext,0,1434,8948
+chatgpt,1,372,2469
+gpt2,1,828,4437
+openwebtext,0,1322,8044
+chatgpt,1,388,2251
+flan_t5,1,460,3461
+gpt-3.5,1,404,2325
+news articles,0,1025,5735
+openwebtext,0,479,2889
+gpt-4,1,382,2591
+gpt2,1,633,3523
+flan_t5,1,872,5141
+gpt-3.5,1,976,6708
+chatgpt,1,418,2649
+opinion statements,0,536,2944
+openwebtext,0,1284,7115
+chatgpt,1,428,2691
+blog,0,404,1996
+gpt-4,1,266,1590
+news articles,0,805,4626
+gpt2,1,680,3764
+chatgpt,1,809,5175
+openwebtext,0,952,5600
+answers,0,961,5352
+opinion statements,0,610,3452
+openwebtext,0,779,4613
+chatgpt,1,415,2503
+flan_t5,1,722,4717
+opt-iml,1,462,2082
+webtext,0,561,3289
+gpt-3.5,1,953,6090
+gpt-4,1,388,2477
+opt-iml,1,543,3356
+news articles,0,897,5282
+davinci,1,921,6244
+openwebtext,0,405,2434
+chatgpt,1,443,2667
+davinci,1,495,3063
+answers,0,1202,6777
+openwebtext,0,495,3168
+chatgpt,1,361,2325
+blog,0,569,3060
+gpt2,1,573,3440
+blog,0,379,2010
+opt-iml,1,533,3214
+gpt2,1,802,4616
+davinci,1,681,4598
+opt-iml,1,887,5162
+opinion statements,0,669,3948
+webtext,0,500,2706
+opt-iml,1,672,3848
+chatgpt,1,449,2674
+openwebtext,0,585,3880
+opinion statements,0,526,3253
+chatgpt,1,478,3202
+chatgpt,1,406,2559
+gpt-4,1,431,2786
+gpt-3.5,1,727,4106
+chatgpt,1,557,3609
+openwebtext,0,683,3767
+gpt2,1,827,4835
+opinion statements,0,550,3075
+opinion statements,0,1309,7264
+opinion statements,0,644,3715
+gpt2,1,695,2835
+gpt-3,1,389,2452
+davinci,1,537,3259
+gpt2,1,408,2448
+opinion statements,0,720,4013
+openwebtext,0,371,2051
+gpt2,1,840,5154
+gpt-4,1,375,2678
+opinion statements,0,425,2407
+gpt-3,1,446,2405
+answers,0,1075,5846
+flan_t5,1,843,5010
+chatgpt,1,390,2352
+openwebtext,0,665,3717
+gpt2,1,451,2537
+flan_t5,1,806,5224
+gpt-3.5,1,461,2874
+opinion statements,0,508,2979
+gpt2,1,865,4513
+chatgpt,1,608,3540
+answers,0,818,4433
+openwebtext,0,792,4818
+opinion statements,0,570,3159
+chatgpt,1,316,1995
+openwebtext,0,723,4612
+gpt2,1,727,4130
+chatgpt,1,425,2496
+davinci,1,405,2253
+gpt-4,1,409,2576
+gpt-4,1,330,1824
+answers,0,1150,6330
+openwebtext,0,445,2588
+chatgpt,1,453,2679
+gpt2,1,741,4199
+gpt-4,1,509,3035
+openwebtext,0,775,4374
+openwebtext,0,1405,8309
+gpt2,1,596,3621
+gpt-4,1,787,4762
+openwebtext,0,539,3120
+openwebtext,0,839,4979
+openwebtext,0,1159,7341
+news articles,0,857,5210
+gpt-3.5,1,479,3093
+chatgpt,1,506,2948
+openwebtext,0,467,3029
+chatgpt,1,430,2562
+webtext,0,786,4727
+davinci,1,656,3983
+blog,0,1213,6913
+openwebtext,0,455,2722
+openwebtext,0,537,3383
+chatgpt,1,410,2643
+davinci,1,844,4802
+gpt-3,1,395,2654
+answers,0,1376,7944
+flan_t5,1,879,5077
+davinci,1,812,4950
+chatgpt,1,751,4283
+davinci,1,507,2737
+chatgpt,1,423,2648
+answers,0,1436,8132
+opt-iml,1,563,3693
+chatgpt,1,442,2679
+davinci,1,664,4147
+chatgpt,1,384,2213
+chatgpt,1,419,2525
+davinci,1,771,5303
+openwebtext,0,397,2449
+davinci,1,974,6388
+news articles,0,871,4906
+openwebtext,0,1016,6348
+gpt-3.5,1,792,5538
+gpt-3.5,1,483,2735
+opinion statements,0,976,5266
+openwebtext,0,397,2430
+openwebtext,0,446,2742
+openwebtext,0,1231,7399
+gpt-3,1,386,2290
+chatgpt,1,458,2848
+chatgpt,1,446,2775
+chatgpt,1,382,2403
+openwebtext,0,806,4545
+openwebtext,0,778,4749
+davinci,1,752,4835
+opinion statements,0,912,5565
+gpt-4,1,440,2911
+blog,0,443,2398
+opinion statements,0,489,2711
+answers,0,1235,7158
+gpt2,1,739,3987
+openwebtext,0,1131,6082
+gpt-3.5,1,830,5419
+opt-iml,1,412,2471
+openwebtext,0,951,5162
+gpt2,1,388,2392
+chatgpt,1,425,2829
+gpt-3,1,408,2317
+davinci,1,589,3492
+webtext,0,803,4804
+blog,0,404,1996
+opinion statements,0,659,3935
+chatgpt,1,551,3077
+flan_t5,1,799,4647
+scientific research,0,337,2089
+gpt-3,1,405,2436
+openwebtext,0,1444,7973
+chatgpt,1,552,3306
+opinion statements,0,735,4361
+gpt-4,1,355,2133
+chatgpt,1,423,2375
+openwebtext,0,1072,6476
+gpt-3,1,376,2118
+opinion statements,0,563,3328
+gpt-4,1,445,2597
+news articles,0,849,4912
+openwebtext,0,787,4690
+opt-iml,1,825,5046
+chatgpt,1,456,2833
+gpt-3.5,1,945,6246
+answers,0,926,5105
+answers,0,809,4748
+opinion statements,0,509,2774
+davinci,1,946,6714
+chatgpt,1,474,2866
+opinion statements,0,427,2436
+answers,0,864,5102
+gpt-3.5,1,754,5287
+gpt-3,1,413,2329
+openwebtext,0,1035,6127
+opinion statements,0,1043,6212
+opinion statements,0,459,2634
+davinci,1,430,2610
+chatgpt,1,388,2373
+openwebtext,0,1108,6563
+openwebtext,0,430,2706
+gpt-4,1,499,3096
+opinion statements,0,853,5014
+gpt-3,1,406,2023
+openwebtext,0,1114,6977
+gpt2,1,808,4610
+openwebtext,0,879,5360
+openwebtext,0,744,4039
+gpt-3,1,428,2434
+flan_t5,1,594,3669
+chatgpt,1,444,2746
+chatgpt,1,446,2686
+chatgpt,1,439,2732
+openwebtext,0,533,3169
+openwebtext,0,535,3119
+openwebtext,0,529,3217
+openwebtext,0,1201,7422
+opt-iml,1,860,5727
+gpt-4,1,414,2633
+openwebtext,0,382,2468
+news articles,0,1342,7546
+gpt2,1,812,4315
+opinion statements,0,411,2290
+scientific research,0,316,1967
+openwebtext,0,635,3673
+gpt-3.5,1,666,3400
+scientific research,0,347,2412
+opinion statements,0,977,5758
+chatgpt,1,479,3043
+chatgpt,1,574,3299
+davinci,1,692,4989
+news articles,0,975,5333
+opt-iml,1,509,3223
+webtext,0,593,3532
+opt-iml,1,405,1734
+opinion statements,0,623,3434
+opinion statements,0,402,2403
+davinci,1,852,5245
+davinci,1,789,5150
+flan_t5,1,679,4019
+news articles,0,826,4574
+openwebtext,0,1017,6286
+gpt2,1,475,3104
+openwebtext,0,473,2726
+openwebtext,0,686,4206
+openwebtext,0,490,3165
+gpt-4,1,439,2427
+gpt-3.5,1,638,4131
+opinion statements,0,528,2848
+openwebtext,0,493,2992
+answers,0,1094,5983
+scientific research,0,306,1921
+openwebtext,0,425,2835
+chatgpt,1,582,3500
+gpt2,1,677,3853
+opt-iml,1,838,5458
+openwebtext,0,990,5378
+news articles,0,1099,6309
+gpt-3.5,1,619,3296
+news articles,0,826,4707
+opt-iml,1,444,2665
+opinion statements,0,439,2458
+openwebtext,0,398,2487
+gpt-3,1,427,2260
+opinion statements,0,604,3504
+openwebtext,0,573,3309
+gpt-4,1,512,3266
+news articles,0,1083,6449
+openwebtext,0,512,2867
+gpt-3.5,1,690,4255
+chatgpt,1,461,2667
+opt-iml,1,619,3807
+chatgpt,1,428,2683
+gpt-3.5,1,499,2869
+opt-iml,1,589,3298
+gpt-4,1,366,2184
+news articles,0,1159,6875
+answers,0,1284,7592
+gpt-3.5,1,741,4280
+flan_t5,1,686,3939
+openwebtext,0,485,2915
+openwebtext,0,388,2221
+gpt-4,1,304,1762
+opinion statements,0,539,3098
+scientific research,0,357,2291
+openwebtext,0,444,2693
+opt-iml,1,594,3394
+chatgpt,1,407,2324
+chatgpt,1,726,4673
+opinion statements,0,484,2746
+gpt-3.5,1,725,4403
+flan_t5,1,420,2631
+opt-iml,1,467,2624
+gpt-3,1,402,2309
+davinci,1,481,3048
+chatgpt,1,384,2320
+gpt-3.5,1,970,6290
+gpt-4,1,372,2321
+gpt2,1,797,4726
+opinion statements,0,436,2388
+chatgpt,1,408,2548
+openwebtext,0,539,3233
+gpt-4,1,299,1693
+chatgpt,1,380,2467
+chatgpt,1,420,2865
+answers,0,1054,5976
+opinion statements,0,597,3403
+opt-iml,1,524,3094
+gpt-4,1,439,2939
+opt-iml,1,406,2139
+gpt-3,1,443,2596
+davinci,1,459,2871
+openwebtext,0,879,5877
+scientific research,0,311,1923
+openwebtext,0,1342,7944
+openwebtext,0,516,3436
+openwebtext,0,951,5399
+gpt-4,1,337,1995
+opinion statements,0,534,2842
+opinion statements,0,477,2624
+openwebtext,0,501,2912
+gpt-3,1,380,2086
+opt-iml,1,887,5079
+answers,0,1468,7961
+chatgpt,1,551,3401
+opinion statements,0,480,2764
+chatgpt,1,381,2345
+flan_t5,1,401,2409
+openwebtext,0,1446,8041
+opt-iml,1,702,4010
+chatgpt,1,438,2894
+opinion statements,0,521,2989
+openwebtext,0,663,4044
+opt-iml,1,424,2063
+opt-iml,1,411,2670
+openwebtext,0,381,2222
+opinion statements,0,875,5023
+openwebtext,0,474,2707
+chatgpt,1,371,2285
+openwebtext,0,787,5233
+gpt2,1,582,3785
+gpt-4,1,608,4307
+gpt-3.5,1,668,3410
+opinion statements,0,859,4475
+gpt-3,1,385,2219
+openwebtext,0,642,3622
+gpt2,1,544,3115
+chatgpt,1,358,2265
+gpt-4,1,395,2643
+opt-iml,1,840,5033
+webtext,0,621,3642
+openwebtext,0,596,3836
+gpt2,1,729,4147
+chatgpt,1,474,2769
+openwebtext,0,381,2871
+gpt-3.5,1,484,2890
+opinion statements,0,911,5293
+gpt2,1,830,4596
+gpt-3,1,396,1943
+gpt-4,1,400,2650
+openwebtext,0,910,5057
+flan_t5,1,769,6205
+openwebtext,0,438,2413
+openwebtext,0,716,4255
+chatgpt,1,690,4140
+chatgpt,1,351,2545
+opinion statements,0,1179,6646
+flan_t5,1,638,4215
+openwebtext,0,1038,6450
+davinci,1,461,2950
+flan_t5,1,578,3548
+gpt-3,1,410,2430
+openwebtext,0,938,5462
+answers,0,836,4868
+openwebtext,0,643,3847
+openwebtext,0,780,4711
+webtext,0,454,2713
+chatgpt,1,457,2911
+gpt2,1,455,2516
+scientific research,0,318,2020
+opt-iml,1,645,3723
+answers,0,939,5525
+openwebtext,0,419,2639
+chatgpt,1,391,2428
+webtext,0,823,4911
+gpt-4,1,384,2607
+openwebtext,0,843,5079
+news articles,0,973,5319
+openwebtext,0,850,5071
+openwebtext,0,661,4069
+answers,0,871,5406
+gpt-4,1,382,2331
+openwebtext,0,393,2310
+opinion statements,0,568,3156
+opinion statements,0,423,2419
+gpt-4,1,412,2268
+gpt-4,1,473,3018
+opinion statements,0,409,2225
+chatgpt,1,475,2852
+openwebtext,0,764,4704
+openwebtext,0,588,3239
+chatgpt,1,496,3121
+opinion statements,0,675,3854
+opt-iml,1,547,3347
+openwebtext,0,623,3786
+opinion statements,0,446,2602
+gpt-3.5,1,416,2369
+news articles,0,874,4686
+webtext,0,477,2918
+openwebtext,0,410,2534
+openwebtext,0,1233,7144
+gpt2,1,800,4175
+opinion statements,0,408,2358
+opinion statements,0,584,3503
+chatgpt,1,623,3815
+gpt2,1,754,4703
+blog,0,381,1962
+openwebtext,0,901,5183
+chatgpt,1,381,2340
+opinion statements,0,442,2435
+davinci,1,433,2811
+answers,0,924,5087
+gpt-3,1,428,2403
+openwebtext,0,1149,7255
+openwebtext,0,796,4585
+blog,0,435,2299
+gpt2,1,827,3904
+scientific research,0,318,1752
+davinci,1,932,6168
+openwebtext,0,744,4283
+opinion statements,0,508,2848
+opt-iml,1,473,2727
+openwebtext,0,779,4447
+flan_t5,1,858,5326
+opt-iml,1,647,3891
+opinion statements,0,493,2740
+gpt-4,1,462,3247
+opinion statements,0,577,3190
+openwebtext,0,561,3216
+flan_t5,1,429,2330
+opinion statements,0,408,2263
+gpt2,1,823,4374
+webtext,0,786,4888
+chatgpt,1,414,2437
+opinion statements,0,877,4867
+chatgpt,1,520,3212
+openwebtext,0,420,2523
+opinion statements,0,432,2458
+blog,0,1142,6770
+answers,0,1279,7173
+gpt-4,1,353,2069
+answers,0,1086,6066
+opinion statements,0,599,3567
+opinion statements,0,488,2550
+gpt-3.5,1,663,3952
+webtext,0,774,4456
+scientific research,0,430,2647
+gpt-4,1,399,2415
+flan_t5,1,643,3649
+opt-iml,1,643,4110
+openwebtext,0,471,2658
+davinci,1,454,2805
+gpt-4,1,387,2161
+gpt-4,1,398,2339
+gpt-3,1,375,2297
+openwebtext,0,768,4743
+gpt-4,1,452,2752
+opt-iml,1,852,4819
+openwebtext,0,824,4502
+opinion statements,0,563,3431
+gpt-4,1,448,2675
+openwebtext,0,410,2460
+openwebtext,0,371,2209
+opinion statements,0,532,3209
+flan_t5,1,411,2255
+gpt2,1,860,4625
+openwebtext,0,465,2807
+openwebtext,0,646,3765
+gpt-4,1,336,1973
+opt-iml,1,422,2784
+openwebtext,0,699,4266
+opinion statements,0,421,2412
+davinci,1,631,3783
+davinci,1,450,2830
+opinion statements,0,415,2182
+webtext,0,885,4893
+opinion statements,0,489,2815
+gpt-4,1,455,2736
+gpt-4,1,480,2814
+openwebtext,0,1026,6396
+answers,0,1368,7903
+openwebtext,0,521,2955
+blog,0,441,2308
+news articles,0,1088,6084
+news articles,0,847,5053
+blog,0,435,2356
+openwebtext,0,694,4083
+webtext,0,832,5102
+chatgpt,1,380,2187
+webtext,0,787,4272
+answers,0,1372,7997
+openwebtext,0,411,2656
+openwebtext,0,731,4122
+opinion statements,0,644,3567
+openwebtext,0,1071,6246
+opinion statements,0,468,2604
+openwebtext,0,1231,7148
+openwebtext,0,1173,6992
+openwebtext,0,507,3065
+answers,0,938,5217
+opinion statements,0,553,3262
+openwebtext,0,748,4901
+opt-iml,1,796,3968
+gpt-3,1,381,2102
+answers,0,901,5206
+webtext,0,732,4230
+davinci,1,432,2637
+opinion statements,0,450,2519
+openwebtext,0,876,5324
+gpt-4,1,361,2151
+flan_t5,1,664,3982
+answers,0,1066,6363
+gpt-4,1,407,2838
+openwebtext,0,799,4680
+gpt-3,1,415,2513
+answers,0,997,5134
+opt-iml,1,457,2483
+gpt-4,1,447,2593
+opinion statements,0,452,2494
+gpt-3,1,443,2184
+news articles,0,842,4971
+flan_t5,1,816,6903
+gpt-4,1,495,3039
+davinci,1,891,6885
+chatgpt,1,405,2492
+chatgpt,1,476,2867
+flan_t5,1,621,3514
+opinion statements,0,614,3986
+chatgpt,1,371,2144
+opinion statements,0,499,3215
+openwebtext,0,500,2745
+openwebtext,0,947,5371
+gpt2,1,774,3436
+opinion statements,0,453,2749
+gpt-3,1,390,2519
+openwebtext,0,390,2331
+openwebtext,0,486,3072
+news articles,0,839,4957
+opinion statements,0,1299,6838
+openwebtext,0,423,2507
+answers,0,1277,7689
+opinion statements,0,475,2483
+gpt-3,1,415,2598
+opinion statements,0,749,4052
+chatgpt,1,546,3295
+gpt-4,1,440,2693
+opinion statements,0,465,2737
+webtext,0,696,4460
+openwebtext,0,550,3111
+opinion statements,0,538,3020
+gpt2,1,650,4163
+davinci,1,545,3491
+opt-iml,1,873,5070
+openwebtext,0,662,3470
+opt-iml,1,722,4069
+chatgpt,1,500,3277
+news articles,0,870,4818
+answers,0,953,5770
+gpt-4,1,411,2581
+gpt-4,1,449,2817
+openwebtext,0,405,2272
+openwebtext,0,916,5151
+chatgpt,1,481,2745
+chatgpt,1,392,2371
+gpt-3,1,404,2399
+gpt-4,1,476,2629
+gpt2,1,736,4522
+gpt-3,1,422,2334
+gpt-4,1,353,2212
+chatgpt,1,385,2460
+gpt-3,1,421,2395
+gpt-4,1,506,2830
+opinion statements,0,861,4862
+gpt2,1,661,3621
+gpt-3.5,1,912,5200
+openwebtext,0,585,3469
+news articles,0,1151,6570
+gpt-4,1,360,2342
+gpt-4,1,311,1930
+gpt-4,1,373,2156
+answers,0,869,5156
+webtext,0,797,4993
+gpt-3,1,402,2122
+chatgpt,1,496,3220
+scientific research,0,307,2000
+gpt-3,1,379,2326
+openwebtext,0,672,4403
+openwebtext,0,1001,5323
+gpt-4,1,415,2529
+gpt-3.5,1,885,4707
+opt-iml,1,870,5755
+chatgpt,1,321,1920
+gpt-3,1,404,2579
+davinci,1,907,5382
+gpt-3,1,381,2301
+flan_t5,1,693,3797
+openwebtext,0,430,2728
+opinion statements,0,560,3021
+openwebtext,0,470,2763
+webtext,0,722,4134
+openwebtext,0,577,3116
+chatgpt,1,511,3091
+opinion statements,0,421,2362
+davinci,1,478,2744
+chatgpt,1,775,4658
+gpt-4,1,331,1954
+openwebtext,0,550,3291
+gpt-4,1,337,1904
+opinion statements,0,530,3101
+opinion statements,0,609,3426
+answers,0,935,5662
+chatgpt,1,554,3403
+openwebtext,0,378,2155
+openwebtext,0,552,3544
+opt-iml,1,693,3592
+opinion statements,0,636,3520
+webtext,0,821,5278
+gpt-3.5,1,713,4319
+openwebtext,0,409,2416
+blog,0,397,2273
+openwebtext,0,397,2327
+gpt-3.5,1,612,3663
+opinion statements,0,906,5563
+opinion statements,0,586,3198
+gpt2,1,852,4807
+davinci,1,484,2883
+chatgpt,1,421,2678
+opinion statements,0,964,6300
+openwebtext,0,1231,7189
+flan_t5,1,559,3566
+scientific research,0,328,1491
+chatgpt,1,547,3263
+gpt-4,1,414,2568
+chatgpt,1,411,2439
+gpt-3,1,407,2229
+gpt-3,1,423,2117
+flan_t5,1,502,3232
+news articles,0,884,4704
+chatgpt,1,494,3014
+gpt-3.5,1,913,5903
+davinci,1,821,5146
+flan_t5,1,477,2726
+opinion statements,0,612,3336
+chatgpt,1,332,2048
+openwebtext,0,906,4678
+davinci,1,793,5305
+blog,0,672,3470
+webtext,0,559,3173
+openwebtext,0,431,2741
+scientific research,0,321,2096
+news articles,0,851,4946
+flan_t5,1,496,2760
+openwebtext,0,956,5658
+blog,0,658,3570
+answers,0,1272,7107
+opt-iml,1,442,2832
+chatgpt,1,636,4088
+opinion statements,0,471,2639
+chatgpt,1,410,2601
+openwebtext,0,440,2732
+davinci,1,408,2196
+openwebtext,0,1191,7293
+opinion statements,0,686,4127
+chatgpt,1,339,1964
+gpt-4,1,393,2250
+gpt-3.5,1,443,2679
+openwebtext,0,809,4521
+chatgpt,1,398,2462
+opt-iml,1,791,4779
+flan_t5,1,900,5142
+openwebtext,0,1004,6139
+opt-iml,1,579,3158
+davinci,1,542,3255
+openwebtext,0,371,2224
+flan_t5,1,654,4093
+davinci,1,791,4613
+news articles,0,1030,5820
+opt-iml,1,504,2888
+opinion statements,0,417,2254
+openwebtext,0,447,2716
+flan_t5,1,841,4698
+scientific research,0,479,2780
+gpt-4,1,360,1979
+openwebtext,0,1190,7371
+scientific research,0,346,2007
+webtext,0,436,2921
+webtext,0,703,4739
+scientific research,0,475,3116
+gpt-3.5,1,784,4472
+news articles,0,1129,6642
+news articles,0,997,6384
+opinion statements,0,601,3512
+openwebtext,0,409,2261
+chatgpt,1,450,2666
+gpt2,1,836,5314
+openwebtext,0,452,2655
+opt-iml,1,601,3335
+gpt-4,1,457,2656
+answers,0,988,5416
+chatgpt,1,403,2553
+opinion statements,0,508,2983
+openwebtext,0,677,4397
+opinion statements,0,419,2537
+opinion statements,0,903,5311
+opt-iml,1,887,7426
+opinion statements,0,512,2711
+davinci,1,425,2593
+chatgpt,1,371,2242
+answers,0,1173,6630
+opinion statements,0,540,3011
+opinion statements,0,401,2328
+chatgpt,1,392,2436
+webtext,0,485,3071
+gpt2,1,753,4583
+chatgpt,1,414,2491
+openwebtext,0,699,4300
+chatgpt,1,775,5103
+news articles,0,1225,6343
+openwebtext,0,550,3194
+flan_t5,1,654,4002
+opt-iml,1,682,4499
+openwebtext,0,603,3574
+gpt-4,1,413,2217
+answers,0,1102,6356
+openwebtext,0,608,3974
+chatgpt,1,696,4217
+gpt-4,1,329,1858
+chatgpt,1,482,2834
+gpt-4,1,380,2541
+chatgpt,1,436,2800
+answers,0,1087,6075
+openwebtext,0,1416,8486
+opt-iml,1,423,2490
+scientific research,0,315,2338
+openwebtext,0,1100,6678
+openwebtext,0,1287,7753
+gpt-3,1,378,2191
+opinion statements,0,411,2277
+openwebtext,0,542,3144
+chatgpt,1,691,4538
+gpt-4,1,352,2195
+webtext,0,809,5063
+chatgpt,1,428,2592
+news articles,0,914,5311
+scientific research,0,312,2083
+opinion statements,0,1033,6206
+answers,0,884,4859
+davinci,1,749,4788
+answers,0,1231,6847
+opinion statements,0,463,2570
+gpt-3,1,373,1986
+chatgpt,1,378,2536
+answers,0,824,4739
+opt-iml,1,843,5013
+chatgpt,1,440,2739
+chatgpt,1,402,2555
+openwebtext,0,561,3691
+chatgpt,1,500,3060
+chatgpt,1,388,2479
+openwebtext,0,398,2539
+chatgpt,1,491,3160
+answers,0,1229,6376
+gpt-4,1,393,2508
+davinci,1,904,6241
+opinion statements,0,530,2753
+blog,0,376,2052
+opinion statements,0,860,5027
+opinion statements,0,744,4196
+gpt-4,1,371,2185
+davinci,1,954,6253
+openwebtext,0,513,3150
+davinci,1,799,5943
+openwebtext,0,531,2864
+opt-iml,1,501,3343
+gpt-3.5,1,459,2844
+opinion statements,0,465,2800
+opt-iml,1,462,2842
+openwebtext,0,601,3867
+chatgpt,1,421,2490
+gpt2,1,544,3316
+chatgpt,1,395,2559
+gpt-4,1,345,2185
+opinion statements,0,616,3029
+scientific research,0,305,1978
+answers,0,1233,6732
+answers,0,1085,6242
+chatgpt,1,556,3555
+chatgpt,1,410,2528
+opt-iml,1,463,2340
+gpt-3,1,379,2113
+chatgpt,1,456,2582
+openwebtext,0,420,2446
+chatgpt,1,394,2289
+openwebtext,0,400,2796
+openwebtext,0,653,3768
+openwebtext,0,554,3375
+davinci,1,610,3901
+opinion statements,0,433,2393
+chatgpt,1,464,3021
+opinion statements,0,532,3209
+flan_t5,1,873,4584
+gpt-3,1,386,2129
+chatgpt,1,564,3609
+chatgpt,1,353,2187
+webtext,0,664,4062
+answers,0,935,5290
+gpt-3.5,1,911,6473
+openwebtext,0,682,3787
+chatgpt,1,547,3441
+gpt-3.5,1,574,3459
+flan_t5,1,829,4713
+answers,0,1041,5979
+gpt-3.5,1,457,2696
+webtext,0,486,2909
+answers,0,1139,6551
+gpt-4,1,296,1812
+openwebtext,0,395,2449
+opinion statements,0,1171,6277
+chatgpt,1,390,2425
+davinci,1,944,6221
+gpt2,1,432,2742
+chatgpt,1,348,1946
+scientific research,0,429,2962
+blog,0,421,2509
+opinion statements,0,521,2959
+opinion statements,0,529,3051
+opinion statements,0,680,3865
+gpt-4,1,562,3645
+chatgpt,1,631,4056
+openwebtext,0,976,6345
+chatgpt,1,477,2488
+openwebtext,0,1474,8695
+gpt-4,1,339,2129
+gpt-4,1,354,2229
+chatgpt,1,332,2065
+scientific research,0,336,2084
+openwebtext,0,766,4550
+gpt-4,1,391,2398
+gpt2,1,822,4108
+flan_t5,1,677,4328
+opinion statements,0,738,4152
+gpt-3.5,1,712,4237
+flan_t5,1,891,5408
+davinci,1,465,2658
+news articles,0,1013,5449
+openwebtext,0,627,3437
+gpt-4,1,352,2124
+blog,0,867,5061
+gpt-3.5,1,453,2654
+opinion statements,0,480,2744
+openwebtext,0,1370,8209
+openwebtext,0,1324,7638
+chatgpt,1,416,2632
+chatgpt,1,448,2646
+openwebtext,0,492,2857
+openwebtext,0,665,4175
+opinion statements,0,923,5103
+chatgpt,1,475,3017
+opinion statements,0,558,3243
+opinion statements,0,598,3465
+chatgpt,1,398,2485
+chatgpt,1,433,2500
+openwebtext,0,410,2365
+flan_t5,1,401,2492
+opinion statements,0,629,3819
+chatgpt,1,409,2780
+flan_t5,1,443,2282
+chatgpt,1,571,3424
+answers,0,1046,5725
+opinion statements,0,651,3819
+gpt-3.5,1,522,3332
+opinion statements,0,821,4307
+scientific research,0,306,2206
+openwebtext,0,433,2576
+chatgpt,1,424,2784
+opinion statements,0,408,2156
+openwebtext,0,1005,6031
+answers,0,1407,8141
+opinion statements,0,563,3094
+chatgpt,1,434,2518
+davinci,1,597,4039
+gpt-3.5,1,672,4313
+gpt-3,1,382,3133
+webtext,0,499,3080
+answers,0,919,5004
+openwebtext,0,784,4547
+opinion statements,0,430,2348
+flan_t5,1,529,2201
+scientific research,0,355,2012
+webtext,0,774,4676
+webtext,0,500,2969
+gpt2,1,374,2064
+openwebtext,0,633,3735
+chatgpt,1,373,2389
+webtext,0,738,4455
+gpt-3.5,1,980,6580
+openwebtext,0,1063,5664
+news articles,0,1150,6574
+webtext,0,816,4866
+openwebtext,0,1036,6219
+openwebtext,0,1398,8374
+flan_t5,1,850,5060
+flan_t5,1,516,2933
+answers,0,1034,5828
+openwebtext,0,1268,7102
+opt-iml,1,479,2553
+flan_t5,1,786,4894
+opinion statements,0,809,4764
+opinion statements,0,575,3351
+davinci,1,593,3328
+scientific research,0,404,2665
+openwebtext,0,388,2438
+gpt-4,1,358,2112
+webtext,0,399,2671
+openwebtext,0,670,4220
+gpt-3.5,1,693,4360
+opinion statements,0,794,4206
+answers,0,1199,7002
+opt-iml,1,477,2705
+opinion statements,0,405,2269
+chatgpt,1,403,2414
+opt-iml,1,601,3540
+gpt-4,1,393,2616
+answers,0,1065,6341
+gpt-4,1,443,2529
+news articles,0,962,5562
+opinion statements,0,645,3723
+gpt-4,1,413,2501
+opinion statements,0,485,2777
+openwebtext,0,487,2883
+webtext,0,666,3557
+davinci,1,926,5871
+opinion statements,0,571,3056
+gpt-4,1,429,2458
+gpt2,1,612,3514
+gpt-4,1,384,2337
+davinci,1,887,6460
+openwebtext,0,1133,6990
+openwebtext,0,499,2477
+openwebtext,0,451,2603
+openwebtext,0,1362,7909
+openwebtext,0,726,4036
+answers,0,839,4853
+davinci,1,875,5288
+gpt-3,1,416,2474
+chatgpt,1,371,2336
+chatgpt,1,419,2718
+news articles,0,1198,7407
+gpt-3,1,396,2408
+opinion statements,0,563,3277
+flan_t5,1,768,4615
+chatgpt,1,387,2423
+chatgpt,1,402,2490
+gpt-4,1,464,2819
+gpt2,1,396,2285
+opt-iml,1,435,2790
+davinci,1,694,4769
+opt-iml,1,855,5016
+chatgpt,1,377,2408
+opinion statements,0,589,3382
+opinion statements,0,688,3847
+chatgpt,1,390,2574
+opinion statements,0,425,2519
+opinion statements,0,1314,7517
+webtext,0,743,4257
+openwebtext,0,499,3011
+answers,0,831,4599
+openwebtext,0,476,2854
+opinion statements,0,757,4567
+gpt-3.5,1,538,3541
+opinion statements,0,807,4564
+openwebtext,0,1018,5773
+gpt2,1,875,4386
+chatgpt,1,397,2415
+openwebtext,0,943,5956
+opinion statements,0,1182,7145
+scientific research,0,324,1906
+openwebtext,0,589,4101
+webtext,0,523,3223
+chatgpt,1,522,3224
+answers,0,813,4493
+blog,0,989,4926
+openwebtext,0,1334,8164
+chatgpt,1,473,2734
+opinion statements,0,405,2229
+gpt-4,1,394,2464
+davinci,1,478,3149
+gpt-3.5,1,872,5347
+chatgpt,1,484,3049
+openwebtext,0,460,2857
+news articles,0,1159,6730
+chatgpt,1,371,2290
+openwebtext,0,374,2192
+opinion statements,0,550,3048
+gpt-4,1,414,2719
+chatgpt,1,409,2696
+openwebtext,0,567,3247
+gpt-4,1,691,4235
+opinion statements,0,680,3952
+openwebtext,0,473,2965
+openwebtext,0,639,3798
+answers,0,1172,6481
+news articles,0,802,4823
+news articles,0,837,4852
+flan_t5,1,578,3488
+chatgpt,1,518,3305
+chatgpt,1,491,2995
+chatgpt,1,525,3244
+opinion statements,0,606,3425
+opt-iml,1,558,3478
+chatgpt,1,320,1913
+openwebtext,0,1295,7414
+openwebtext,0,561,3652
+flan_t5,1,621,3588
+blog,0,399,2123
+openwebtext,0,451,2610
+flan_t5,1,895,5412
+scientific research,0,306,2066
+chatgpt,1,578,3797
+gpt2,1,804,4407
+openwebtext,0,780,5053
+openwebtext,0,582,3299
+openwebtext,0,690,4155
+news articles,0,1109,5929
+blog,0,1056,4959
+flan_t5,1,880,5337
+openwebtext,0,947,6171
+gpt-3.5,1,704,4546
+openwebtext,0,476,2794
+openwebtext,0,436,2556
+gpt2,1,811,4873
+chatgpt,1,389,2497
+scientific research,0,391,2245
+opinion statements,0,481,2790
+opinion statements,0,618,3532
+openwebtext,0,522,2876
+news articles,0,989,5315
+openwebtext,0,724,4501
+gpt-3,1,376,2226
+opinion statements,0,478,2700
+openwebtext,0,1112,7139
+openwebtext,0,652,3757
+chatgpt,1,401,2509
+opinion statements,0,1075,6088
+scientific research,0,310,1921
+opinion statements,0,426,2701
+opinion statements,0,617,3548
+answers,0,831,4677
+chatgpt,1,574,3378
+openwebtext,0,740,4679
+blog,0,396,2080
+answers,0,843,4627
+opinion statements,0,683,3715
+flan_t5,1,429,2690
+gpt-4,1,413,2608
+gpt2,1,605,3651
+gpt-3.5,1,404,2314
+chatgpt,1,477,3045
+flan_t5,1,717,4444
+answers,0,910,5110
+opinion statements,0,418,2295
+openwebtext,0,618,3876
+openwebtext,0,674,4183
+opinion statements,0,549,3024
+davinci,1,415,2389
+scientific research,0,333,2065
+opinion statements,0,610,3480
+openwebtext,0,953,5620
+answers,0,1044,6290
+davinci,1,481,3058
+flan_t5,1,909,5567
+webtext,0,388,2225
+scientific research,0,305,1832
+gpt-4,1,549,3519
+flan_t5,1,523,2880
+openwebtext,0,562,3496
+opt-iml,1,413,2572
+openwebtext,0,609,4045
+webtext,0,829,4689
+gpt-4,1,448,2776
+gpt-4,1,491,2813
+opinion statements,0,629,3464
+answers,0,1420,8442
+webtext,0,784,5068
+opt-iml,1,917,5637
+chatgpt,1,541,3215
+opinion statements,0,480,2732
+gpt2,1,792,4306
+davinci,1,919,6609
+answers,0,1370,8116
+openwebtext,0,813,5862
+davinci,1,860,5219
+openwebtext,0,499,3179
+scientific research,0,323,2173
+gpt-4,1,488,3077
+flan_t5,1,647,3902
+gpt-3.5,1,415,2472
+webtext,0,588,3518
+flan_t5,1,427,2662
+gpt-3.5,1,863,5387
+opt-iml,1,891,5790
+news articles,0,921,5261
+gpt2,1,810,4399
+webtext,0,764,4554
+gpt-4,1,363,1979
+news articles,0,1489,8167
+gpt-4,1,325,1960
+news articles,0,819,4916
+gpt-4,1,371,2393
+chatgpt,1,595,3715
+gpt-3,1,404,2103
+opinion statements,0,859,4783
+answers,0,1308,7088
+chatgpt,1,385,2402
+chatgpt,1,442,2645
+chatgpt,1,438,2768
+gpt-4,1,341,1897
+answers,0,974,5914
+opt-iml,1,421,2658
+openwebtext,0,845,5005
+webtext,0,508,3153
+openwebtext,0,702,4459
+gpt-4,1,422,2611
+openwebtext,0,720,4312
+chatgpt,1,789,4538
+gpt-4,1,430,2579
+openwebtext,0,865,5125
+gpt2,1,554,2343
+chatgpt,1,516,3196
+chatgpt,1,405,2311
+openwebtext,0,1193,7271
+gpt-3,1,449,2255
+gpt-4,1,472,2686
+chatgpt,1,637,3949
+opinion statements,0,942,5562
+chatgpt,1,385,2519
+chatgpt,1,497,3285
+gpt-4,1,413,2507
+gpt-4,1,441,2759
+flan_t5,1,459,2948
+opinion statements,0,522,3061
+gpt-4,1,478,3097
+answers,0,833,4818
+opinion statements,0,609,3430
+opinion statements,0,415,2207
+chatgpt,1,330,2157
+gpt2,1,844,5014
+openwebtext,0,402,2521
+opinion statements,0,537,2968
+opinion statements,0,403,2367
+gpt-4,1,422,2354
+opinion statements,0,483,2549
+opinion statements,0,1052,5546
+openwebtext,0,414,2489
+gpt-3,1,390,2451
+webtext,0,809,4487
+gpt-3.5,1,427,2400
+news articles,0,836,4642
+gpt2,1,768,4645
+openwebtext,0,1201,7858
+opt-iml,1,426,2540
+flan_t5,1,853,5361
+gpt2,1,413,2514
+answers,0,1321,7774
+openwebtext,0,788,4709
+openwebtext,0,711,4442
+gpt-4,1,706,4791
+opinion statements,0,855,4657
+webtext,0,728,4396
+opinion statements,0,404,2339
+webtext,0,786,4513
+gpt-4,1,476,2855
+gpt-4,1,371,2270
+chatgpt,1,495,2989
+opinion statements,0,457,2624
+news articles,0,1095,6275
+davinci,1,617,4364
+opinion statements,0,406,2366
+opinion statements,0,1004,5623
+opinion statements,0,480,2700
+gpt-3,1,390,2436
+gpt-3.5,1,733,4161
+openwebtext,0,1423,8898
+chatgpt,1,415,2467
+gpt-4,1,650,4392
+flan_t5,1,804,4823
+openwebtext,0,561,3024
+news articles,0,942,5126
+chatgpt,1,479,2986
+opinion statements,0,463,2644
+gpt-4,1,336,1852
+answers,0,1345,7681
+gpt-4,1,356,2124
+gpt-3.5,1,653,3999
+openwebtext,0,696,3986
+gpt-4,1,418,2607
+openwebtext,0,1011,6367
+opinion statements,0,738,3799
+scientific research,0,330,1906
+gpt-4,1,370,2222
+gpt-3,1,377,2060
+opinion statements,0,451,2618
+gpt-3.5,1,666,3955
+davinci,1,469,2848
+davinci,1,857,5881
+opinion statements,0,429,2278
+opinion statements,0,480,2691
+webtext,0,618,4555
+blog,0,656,3564
+opinion statements,0,760,4553
+answers,0,853,5018
+chatgpt,1,510,3213
+gpt-4,1,607,3626
+openwebtext,0,1416,8342
+opinion statements,0,735,4479
+openwebtext,0,992,6176
+flan_t5,1,460,2754
+gpt-3,1,413,2078
+chatgpt,1,471,2970
+openwebtext,0,672,4009
+gpt-4,1,335,1956
+blog,0,767,3760
+chatgpt,1,458,2984
+chatgpt,1,632,3942
+chatgpt,1,382,2300
+webtext,0,676,4005
+chatgpt,1,482,2897
+openwebtext,0,446,2479
+flan_t5,1,538,3201
+opt-iml,1,424,2558
+opinion statements,0,505,2941
+opinion statements,0,612,3228
+answers,0,1006,5779
+chatgpt,1,392,2379
+openwebtext,0,969,5935
+gpt-4,1,346,2104
+gpt-3,1,372,2112
+blog,0,547,2806
+openwebtext,0,562,3276
+openwebtext,0,547,3173
+blog,0,542,2932
+chatgpt,1,449,2784
+openwebtext,0,869,5363
+opt-iml,1,765,4973
+opinion statements,0,417,2254
+chatgpt,1,468,2789
+flan_t5,1,833,4734
+chatgpt,1,384,2495
+openwebtext,0,774,4857
+opt-iml,1,429,2284
+chatgpt,1,669,3912
+openwebtext,0,776,4355
+openwebtext,0,714,4013
+openwebtext,0,409,2499
+gpt-4,1,424,2598
+opt-iml,1,425,2809
+opt-iml,1,906,6869
+chatgpt,1,446,2703
+gpt-4,1,446,2636
+opt-iml,1,461,2743
+opinion statements,0,416,2312
+gpt2,1,611,3556
+chatgpt,1,377,2415
+gpt-3.5,1,743,4212
+chatgpt,1,891,5167
+chatgpt,1,386,2341
+chatgpt,1,392,2240
+openwebtext,0,462,2879
+gpt-3.5,1,494,3087
+davinci,1,522,3096
+chatgpt,1,385,2336
+news articles,0,1211,6699
+chatgpt,1,412,2637
+openwebtext,0,544,3443
+gpt-4,1,497,3139
+openwebtext,0,521,3204
+answers,0,1012,5479
+chatgpt,1,414,2616
+answers,0,1379,8055
+chatgpt,1,520,3163
+opt-iml,1,811,5451
+chatgpt,1,461,2723
+answers,0,845,4627
+chatgpt,1,490,3023
+gpt-4,1,531,3588
+webtext,0,486,2880
+opinion statements,0,645,3760
+gpt-4,1,403,2321
+davinci,1,508,3039
+webtext,0,830,4759
+davinci,1,898,5367
+gpt2,1,560,3627
+openwebtext,0,958,5915
+openwebtext,0,786,4468
+gpt2,1,774,4941
+gpt-4,1,465,2715
+opinion statements,0,402,2265
+chatgpt,1,395,2502
+openwebtext,0,921,5068
+opinion statements,0,525,3060
+chatgpt,1,412,2562
+openwebtext,0,680,4718
+scientific research,0,337,2131
+opinion statements,0,485,2734
+opinion statements,0,598,3356
+opinion statements,0,467,2678
+gpt-3.5,1,441,2677
+openwebtext,0,629,3728
+opinion statements,0,586,3187
+chatgpt,1,500,3269
+gpt-4,1,402,2349
+davinci,1,417,2600
+openwebtext,0,841,4622
+gpt2,1,838,5089
+opinion statements,0,528,2954
+scientific research,0,336,2160
+opinion statements,0,1148,6789
+opinion statements,0,441,2548
+openwebtext,0,654,3799
+opinion statements,0,543,2993
+openwebtext,0,528,3441
+opt-iml,1,531,3129
+opinion statements,0,976,5274
+news articles,0,879,4786
+chatgpt,1,456,3034
+chatgpt,1,337,2147
+flan_t5,1,533,3196
+openwebtext,0,419,2551
+gpt-3.5,1,402,2219
+opinion statements,0,794,4630
+news articles,0,1350,7890
+flan_t5,1,899,4849
+scientific research,0,309,1938
+opinion statements,0,438,2444
+gpt-3.5,1,583,3605
+gpt-3,1,396,2361
+openwebtext,0,1306,7525
+chatgpt,1,468,2933
+opinion statements,0,438,2591
+openwebtext,0,504,2906
+answers,0,1116,6299
+gpt-3.5,1,859,4816
+gpt-3,1,390,2156
+gpt-3,1,421,2283
+opinion statements,0,523,2919
+chatgpt,1,634,3990
+openwebtext,0,713,4194
+openwebtext,0,426,2758
+gpt2,1,850,4705
+openwebtext,0,818,4827
+openwebtext,0,976,5410
+davinci,1,766,4503
+opinion statements,0,446,2491
+flan_t5,1,604,3753
+openwebtext,0,509,2863
+news articles,0,1185,6789
+openwebtext,0,1196,7112
+gpt-4,1,475,3072
+gpt2,1,687,4007
+opinion statements,0,480,2750
+openwebtext,0,442,2625
+chatgpt,1,372,2410
+openwebtext,0,415,2452
+openwebtext,0,589,3549
+flan_t5,1,415,2613
+chatgpt,1,514,3196
+openwebtext,0,1166,6060
+news articles,0,1445,8293
+chatgpt,1,507,3073
+openwebtext,0,433,2523
+gpt-4,1,416,2300
+chatgpt,1,602,3444
+chatgpt,1,517,2888
+gpt-4,1,446,2780
+opinion statements,0,671,3847
+chatgpt,1,440,2668
+opinion statements,0,451,2587
+webtext,0,679,3852
+openwebtext,0,696,4145
+opinion statements,0,685,4135
+chatgpt,1,446,2813
+opinion statements,0,1095,6004
+scientific research,0,331,2266
+openwebtext,0,380,2353
+openwebtext,0,401,2422
+openwebtext,0,1325,7908
+opinion statements,0,403,2397
+flan_t5,1,480,2719
+chatgpt,1,597,3669
+openwebtext,0,418,2628
+opt-iml,1,412,2450
+openwebtext,0,515,3149
+gpt-3.5,1,480,2763
+openwebtext,0,891,5046
+chatgpt,1,392,2367
+openwebtext,0,536,3289
+openwebtext,0,437,2879
+gpt-3,1,390,2406
+gpt-4,1,433,2473
+gpt-4,1,563,3416
+opinion statements,0,464,2579
+flan_t5,1,536,3193
+openwebtext,0,476,2760
+flan_t5,1,681,4334
+news articles,0,870,5071
+gpt-3,1,374,2249
+answers,0,1004,5599
+opinion statements,0,583,3212
+webtext,0,810,4650
+davinci,1,639,4671
+chatgpt,1,456,2903
+opinion statements,0,499,2934
+opinion statements,0,406,2296
+gpt-3.5,1,526,3146
+gpt-3.5,1,517,3111
+opinion statements,0,462,2396
+davinci,1,920,6063
+flan_t5,1,794,4728
+opinion statements,0,423,2593
+gpt2,1,838,4388
+scientific research,0,316,2013
+gpt-3,1,403,1885
+chatgpt,1,424,2599
+openwebtext,0,752,4626
+openwebtext,0,482,2797
+davinci,1,474,3043
+scientific research,0,367,2142
+davinci,1,835,4340
+openwebtext,0,565,3195
+chatgpt,1,422,2543
+gpt-4,1,396,2629
+answers,0,827,4770
+chatgpt,1,378,2248
+opinion statements,0,559,3015
+openwebtext,0,474,2865
+opinion statements,0,499,2890
+webtext,0,645,4503
+chatgpt,1,719,4352
+gpt-4,1,583,3353
+gpt-3.5,1,436,2760
+scientific research,0,364,1905
+openwebtext,0,414,2480
+chatgpt,1,401,2398
+answers,0,1170,6373
+chatgpt,1,444,2878
+gpt-3.5,1,673,4326
+chatgpt,1,374,2298
+answers,0,909,5147
+openwebtext,0,877,5542
+gpt-3.5,1,599,3893
+gpt-3,1,391,2160
+davinci,1,676,4478
+opinion statements,0,454,2494
+blog,0,588,2974
+gpt-3.5,1,935,5819
+openwebtext,0,545,2882
+chatgpt,1,385,2142
+chatgpt,1,439,2818
+openwebtext,0,495,2778
+gpt2,1,814,4261
+opt-iml,1,493,2148
+openwebtext,0,392,2031
+gpt-4,1,495,3067
+openwebtext,0,561,3246
+answers,0,1100,6165
+flan_t5,1,899,5003
+openwebtext,0,648,4065
+openwebtext,0,968,6254
+openwebtext,0,417,2415
+gpt-4,1,401,2534
+openwebtext,0,527,3366
+chatgpt,1,372,2325
+openwebtext,0,509,3022
+gpt2,1,809,4858
+openwebtext,0,561,3132
+davinci,1,819,5579
+opt-iml,1,846,5772
+openwebtext,0,872,5175
+openwebtext,0,565,3439
+webtext,0,684,4183
+gpt-3,1,394,2071
+opinion statements,0,519,2876
+news articles,0,1018,5813
+openwebtext,0,1075,6168
+opinion statements,0,504,3027
+openwebtext,0,800,5000
+webtext,0,484,2739
+opinion statements,0,518,2923
+gpt-4,1,374,2191
+gpt-4,1,425,2453
+opinion statements,0,492,2554
+gpt-3.5,1,911,6349
+openwebtext,0,436,2833
+chatgpt,1,507,3325
+opinion statements,0,453,2617
+news articles,0,1411,7911
+openwebtext,0,448,2799
+news articles,0,912,5356
+openwebtext,0,789,5000
+openwebtext,0,749,4443
+blog,0,500,2766
+gpt-4,1,447,2486
+answers,0,954,5677
+scientific research,0,331,2240
+opinion statements,0,479,2784
+gpt-4,1,379,2278
+opinion statements,0,460,2403
+davinci,1,604,3984
+opinion statements,0,524,3242
+gpt-3.5,1,467,2916
+gpt2,1,870,4540
+opinion statements,0,452,2483
+opinion statements,0,498,3041
+chatgpt,1,536,3462
+openwebtext,0,630,3857
+opt-iml,1,408,2235
+openwebtext,0,873,5606
+openwebtext,0,978,5765
+blog,0,698,3720
+chatgpt,1,396,2471
+opinion statements,0,529,2941
+openwebtext,0,805,5476
+answers,0,910,5330
+chatgpt,1,460,2851
+chatgpt,1,583,3696
+opinion statements,0,470,2540
+openwebtext,0,672,4378
+openwebtext,0,1435,8544
+blog,0,497,2497
+gpt-4,1,468,2743
+chatgpt,1,398,2509
+gpt-3,1,397,2542
+scientific research,0,349,2312
+opinion statements,0,696,3910
+davinci,1,415,2297
+openwebtext,0,848,5467
+openwebtext,0,481,3057
+opt-iml,1,873,4634
+opt-iml,1,432,3018
+scientific research,0,350,2325
+opinion statements,0,1212,6293
+gpt-4,1,412,2378
+opinion statements,0,412,2239
+opinion statements,0,774,4403
+gpt-4,1,386,2418
+webtext,0,841,5127
+scientific research,0,308,1924
+opinion statements,0,783,4366
+news articles,0,1273,7672
+webtext,0,404,3044
+flan_t5,1,601,3294
+gpt-3.5,1,892,4604
+opinion statements,0,402,2149
+gpt2,1,785,4436
+gpt-3.5,1,406,2456
+gpt-3.5,1,885,6034
+openwebtext,0,1350,8148
+gpt-3.5,1,823,4848
+webtext,0,778,4279
+webtext,0,837,5065
+chatgpt,1,481,3127
+gpt-4,1,452,2755
+blog,0,777,4238
+opt-iml,1,531,2474
+opinion statements,0,1123,6111
+davinci,1,922,6040
+opinion statements,0,464,2461
+gpt-4,1,605,3608
+chatgpt,1,434,2676
+opinion statements,0,682,3661
+davinci,1,671,4225
+gpt2,1,523,3213
+chatgpt,1,473,2798
+gpt-4,1,607,4271
+news articles,0,1041,5869
+gpt-4,1,352,2162
+chatgpt,1,468,2628
+chatgpt,1,581,3671
+chatgpt,1,383,2377
+gpt-3,1,391,2227
+blog,0,787,3982
+flan_t5,1,875,5552
+opinion statements,0,414,2432
+blog,0,668,3468
+answers,0,841,4697
+opinion statements,0,530,2837
+chatgpt,1,435,2729
+gpt-3,1,404,2387
+davinci,1,618,4124
+gpt-4,1,483,3033
+openwebtext,0,449,2711
+gpt-4,1,401,2029
+gpt-4,1,373,2858
+gpt-4,1,398,2472
+chatgpt,1,580,3644
+opinion statements,0,685,3855
+chatgpt,1,371,2174
+gpt-4,1,364,2168
+chatgpt,1,398,2525
+opinion statements,0,693,4036
+davinci,1,639,3777
+answers,0,888,5178
+opt-iml,1,916,5588
+openwebtext,0,1320,8183
+gpt-4,1,407,2380
+opinion statements,0,486,2685
+opinion statements,0,593,3351
+openwebtext,0,403,2738
+answers,0,1091,6089
+scientific research,0,432,2954
+gpt-3.5,1,590,3776
+gpt-4,1,478,3023
+opt-iml,1,888,4867
+opt-iml,1,698,3908
+gpt-3,1,399,2343
+opinion statements,0,737,4176
+gpt-4,1,470,3216
+gpt-4,1,497,2989
+gpt-3,1,409,2513
+opt-iml,1,501,3214
+openwebtext,0,411,2341
+gpt2,1,607,3451
+gpt-4,1,536,3010
+chatgpt,1,403,2547
+openwebtext,0,1322,8006
+flan_t5,1,773,4654
+opt-iml,1,499,3235
+opinion statements,0,1014,5625
+opinion statements,0,690,3719
+flan_t5,1,505,3002
+chatgpt,1,522,3110
+opinion statements,0,402,2387
+openwebtext,0,1083,6710
+openwebtext,0,876,5566
+gpt-4,1,413,2645
+chatgpt,1,545,3494
+scientific research,0,369,2761
+answers,0,967,6187
+gpt-3,1,384,2164
+gpt-4,1,318,1772
+openwebtext,0,478,2915
+opt-iml,1,670,4205
+gpt2,1,657,4289
+gpt-4,1,474,2679
+davinci,1,849,5491
+chatgpt,1,481,3053
+news articles,0,1335,7673
+openwebtext,0,495,2831
+gpt2,1,767,4406
+openwebtext,0,517,3138
+opt-iml,1,487,2797
+openwebtext,0,624,3849
+openwebtext,0,410,2316
+gpt2,1,669,3494
+webtext,0,790,4804
+flan_t5,1,585,3425
+opinion statements,0,423,2345
+news articles,0,1363,7950
+flan_t5,1,888,5033
+openwebtext,0,1014,6353
+gpt-4,1,320,1985
+opt-iml,1,889,5273
+opt-iml,1,904,5491
+gpt2,1,797,4571
+openwebtext,0,614,3565
+openwebtext,0,821,4636
+gpt-4,1,476,2984
+davinci,1,469,2683
+openwebtext,0,1280,7859
+davinci,1,851,6102
+openwebtext,0,1008,5552
+openwebtext,0,491,3093
+openwebtext,0,936,5633
+chatgpt,1,404,2556
+answers,0,1131,6241
+opinion statements,0,435,2464
+flan_t5,1,555,3083
+chatgpt,1,418,2442
+opinion statements,0,561,3209
+openwebtext,0,601,3543
+gpt2,1,824,4782
+opinion statements,0,424,2595
+openwebtext,0,823,5008
+news articles,0,1149,6572
+webtext,0,776,5269
+chatgpt,1,383,2405
+gpt2,1,439,2608
+opinion statements,0,1147,6631
+openwebtext,0,601,3687
+opinion statements,0,996,5716
+opinion statements,0,702,3939
+gpt-4,1,447,2694
+opinion statements,0,430,2398
+openwebtext,0,805,5008
+opinion statements,0,780,4700
+opinion statements,0,867,4641
+opinion statements,0,527,3066
+answers,0,1160,6224
+chatgpt,1,432,2768
+opinion statements,0,787,4532
+gpt-3,1,399,2443
+openwebtext,0,832,4842
+openwebtext,0,434,2527
+openwebtext,0,688,4349
+chatgpt,1,566,3239
+chatgpt,1,307,1931
+davinci,1,710,2533
+openwebtext,0,1221,7346
+gpt-4,1,415,2613
+gpt2,1,752,4458
+flan_t5,1,434,2366
+flan_t5,1,545,3241
+chatgpt,1,378,2116
+opt-iml,1,861,5662
+opinion statements,0,524,3003
+chatgpt,1,483,2908
+gpt-3.5,1,536,3556
+answers,0,1434,7927
+scientific research,0,329,1964
+chatgpt,1,497,2906
+gpt-4,1,371,2176
+openwebtext,0,757,5047
+openwebtext,0,508,3229
+opinion statements,0,905,5750
+gpt-4,1,428,2797
+gpt-4,1,377,2381
+scientific research,0,324,2145
+blog,0,577,3175
+gpt-4,1,437,2681
+gpt-3.5,1,412,2429
+gpt-3,1,382,2157
+gpt-4,1,442,2571
+openwebtext,0,1225,7122
+answers,0,830,4416
+flan_t5,1,407,2359
+answers,0,1489,8583
+answers,0,1370,7941
+opinion statements,0,1167,6352
+chatgpt,1,460,2890
+chatgpt,1,403,2487
+gpt-4,1,385,2312
+flan_t5,1,915,5336
+openwebtext,0,730,4297
+chatgpt,1,415,2447
+gpt-3.5,1,603,4178
+answers,0,1269,7003
+gpt-3,1,449,2255
+chatgpt,1,422,2431
+openwebtext,0,1487,8823
+gpt-3.5,1,672,4080
+openwebtext,0,382,2366
+opinion statements,0,477,2777
+gpt-4,1,447,2668
+openwebtext,0,1154,7448
+webtext,0,737,4201
+gpt-3,1,374,2077
+opinion statements,0,475,2674
+openwebtext,0,621,3497
+gpt-3,1,405,2521
+gpt-3,1,421,1975
+opinion statements,0,483,2825
+chatgpt,1,565,3059
+openwebtext,0,936,5412
+chatgpt,1,428,2566
+gpt2,1,721,4049
+gpt-3,1,406,2418
+scientific research,0,319,1904
+gpt-4,1,426,2710
+chatgpt,1,462,2974
+openwebtext,0,768,4474
+gpt-3,1,400,2269
+openwebtext,0,775,4765
+opinion statements,0,634,3784
+gpt2,1,813,4737
+gpt-3.5,1,460,2625
+openwebtext,0,689,4300
+openwebtext,0,482,3104
+gpt-4,1,553,3392
+gpt-3.5,1,844,5157
+flan_t5,1,858,4693
+gpt2,1,561,3296
+openwebtext,0,769,4417
+opt-iml,1,586,3877
+webtext,0,663,4335
+gpt-3,1,384,2023
+openwebtext,0,795,4780
+chatgpt,1,458,2728
+openwebtext,0,1019,5665
+openwebtext,0,1044,6381
+gpt-4,1,472,2875
+gpt-3.5,1,906,5541
+answers,0,1087,5887
+answers,0,856,5259
+opinion statements,0,470,2649
+webtext,0,710,4225
+scientific research,0,328,1677
+gpt2,1,823,4975
+opinion statements,0,619,3385
+answers,0,1475,8262
+opt-iml,1,411,2461
+davinci,1,917,6743
+gpt-4,1,320,1983
+davinci,1,489,3781
+answers,0,804,4763
+gpt-4,1,370,2137
+chatgpt,1,540,3454
+chatgpt,1,450,2872
+answers,0,1000,5613
+davinci,1,621,3929
+flan_t5,1,846,4911
+davinci,1,625,3256
+davinci,1,550,3594
+openwebtext,0,876,4797
+gpt-3,1,379,2388
+answers,0,903,5100
+gpt-4,1,375,2236
+opinion statements,0,516,2887
+flan_t5,1,650,3969
+chatgpt,1,405,2495
+opinion statements,0,543,3171
+openwebtext,0,548,3012
+chatgpt,1,533,3578
+chatgpt,1,416,2556
+gpt2,1,461,2475
+opinion statements,0,467,2520
+gpt-3.5,1,510,3243
+opt-iml,1,817,6248
+gpt-3,1,395,2212
+openwebtext,0,854,5350
+answers,0,1041,6015
+chatgpt,1,480,3174
+news articles,0,874,5159
+gpt-4,1,395,2508
+blog,0,409,2278
+opinion statements,0,447,2362
+chatgpt,1,383,2355
+openwebtext,0,747,4228
+opt-iml,1,877,5487
+openwebtext,0,450,2511
+chatgpt,1,473,3245
+webtext,0,774,4536
+openwebtext,0,1481,8753
+gpt-3,1,381,2424
+flan_t5,1,851,4719
+davinci,1,712,4367
+chatgpt,1,452,2765
+davinci,1,942,6307
+openwebtext,0,1057,6564
+gpt-4,1,410,2776
+chatgpt,1,576,2970
+opinion statements,0,491,2835
+chatgpt,1,490,3142
+news articles,0,803,4515
+flan_t5,1,915,5093
+opt-iml,1,654,3865
+openwebtext,0,1455,8273
+opinion statements,0,458,2484
+chatgpt,1,327,1933
+opinion statements,0,534,2841
+gpt2,1,815,4926
+openwebtext,0,443,2648
+news articles,0,1095,5797
+davinci,1,534,3736
+gpt-4,1,313,1778
+answers,0,805,4431
+chatgpt,1,540,3417
+openwebtext,0,777,5003
+openwebtext,0,759,4825
+opinion statements,0,485,2876
+opinion statements,0,438,2471
+openwebtext,0,742,4502
+opinion statements,0,411,2134
+gpt-4,1,454,2500
+webtext,0,816,4176
+flan_t5,1,852,5144
+openwebtext,0,614,3769
+answers,0,1046,6136
+answers,0,1253,6907
+openwebtext,0,696,4336
+scientific research,0,420,2312
+gpt-3.5,1,723,3839
+openwebtext,0,701,4092
+chatgpt,1,420,2476
+openwebtext,0,789,4180
+opinion statements,0,758,4371
+davinci,1,741,4448
+blog,0,482,2633
+openwebtext,0,662,4174
+chatgpt,1,417,2338
+news articles,0,805,4414
+gpt-4,1,314,1858
+gpt-3,1,403,2337
+gpt2,1,436,2519
+openwebtext,0,719,4861
+answers,0,863,4880
+opinion statements,0,527,3348
+answers,0,851,4672
+chatgpt,1,348,2145
+opinion statements,0,445,2437
+webtext,0,843,5268
+gpt-4,1,318,2131
+opinion statements,0,440,2353
+chatgpt,1,432,2841
+davinci,1,523,3256
+openwebtext,0,806,4917
+openwebtext,0,459,2932
+flan_t5,1,421,2644
+opinion statements,0,875,5070
+flan_t5,1,915,5821
+scientific research,0,335,1879
+gpt-3.5,1,601,4043
+openwebtext,0,451,2878
+openwebtext,0,967,5304
+gpt-3,1,391,2276
+news articles,0,939,5199
+opinion statements,0,683,3879
+webtext,0,749,5031
+gpt2,1,784,4620
+opinion statements,0,412,2149
+webtext,0,709,4036
+gpt-3.5,1,795,4741
+openwebtext,0,1246,7538
+openwebtext,0,1138,6392
+opinion statements,0,556,3032
+chatgpt,1,506,3228
+webtext,0,715,4595
+chatgpt,1,475,3098
+flan_t5,1,885,5426
+answers,0,963,5407
+scientific research,0,439,2779
+openwebtext,0,571,3594
+blog,0,758,4587
+chatgpt,1,688,4210
+davinci,1,699,4156
+blog,0,562,2759
+opinion statements,0,529,2831
+opinion statements,0,770,4403
+flan_t5,1,413,2274
+openwebtext,0,649,4098
+opt-iml,1,858,5285
+openwebtext,0,1023,5604
+chatgpt,1,445,3111
+answers,0,847,4887
+webtext,0,488,2933
+opinion statements,0,475,2667
+scientific research,0,374,2438
+gpt-3,1,402,2108
+opt-iml,1,443,2729
+webtext,0,798,5074
+gpt-3.5,1,819,4758
+answers,0,1055,6555
+chatgpt,1,546,3093
+gpt-4,1,280,1690
+opinion statements,0,474,2858
+answers,0,876,5028
+openwebtext,0,390,2213
+openwebtext,0,937,5062
+chatgpt,1,477,2938
+opt-iml,1,748,4200
+openwebtext,0,640,4107
+opinion statements,0,498,2774
+openwebtext,0,451,2967
+webtext,0,702,4024
+answers,0,822,4893
+opinion statements,0,605,3586
+gpt-3.5,1,777,5175
+flan_t5,1,776,4756
+openwebtext,0,860,4470
+news articles,0,1023,5785
+openwebtext,0,497,3022
+chatgpt,1,371,2446
+scientific research,0,365,2494
+openwebtext,0,397,2471
+openwebtext,0,393,2573
+opt-iml,1,837,6391
+openwebtext,0,666,3883
+openwebtext,0,573,3249
+opinion statements,0,403,2151
+opinion statements,0,514,2886
+webtext,0,404,2486
+opinion statements,0,697,3872
+opt-iml,1,456,2764
+gpt-3.5,1,902,4813
+opinion statements,0,464,2576
+chatgpt,1,377,2429
+davinci,1,430,2590
+opinion statements,0,405,2508
+webtext,0,696,3731
+openwebtext,0,441,2650
+openwebtext,0,992,5663
+flan_t5,1,858,5219
+gpt-3.5,1,489,3063
+gpt-4,1,363,2255
+answers,0,868,5007
+davinci,1,705,3823
+openwebtext,0,1432,7914
+opinion statements,0,1485,8995
+gpt-3.5,1,463,2912
+gpt-4,1,426,2706
+chatgpt,1,437,2780
+opinion statements,0,553,3141
+chatgpt,1,442,2775
+gpt-4,1,435,2578
+chatgpt,1,416,2693
+openwebtext,0,411,2344
+answers,0,915,5244
+opinion statements,0,461,2619
+opinion statements,0,427,2348
+opt-iml,1,481,3035
+chatgpt,1,334,2028
+gpt2,1,689,4056
+gpt-4,1,431,2933
+gpt2,1,911,5048
+flan_t5,1,462,2852
+opinion statements,0,461,2699
+chatgpt,1,381,2546
+chatgpt,1,371,2275
+webtext,0,522,3565
+openwebtext,0,740,4272
+gpt-3.5,1,753,4090
+opinion statements,0,405,2248
+openwebtext,0,644,4370
+gpt-4,1,345,1971
+chatgpt,1,452,2639
+flan_t5,1,715,4088
+gpt-3,1,377,2238
+openwebtext,0,686,3866
+chatgpt,1,385,2452
+flan_t5,1,865,4597
+news articles,0,1161,6666
+opinion statements,0,421,2181
+opinion statements,0,891,5286
+chatgpt,1,423,2656
+webtext,0,683,4344
+gpt-3,1,401,2217
+opt-iml,1,841,5490
+openwebtext,0,935,5837
+flan_t5,1,426,2362
+gpt-4,1,422,2482
+openwebtext,0,568,3483
+webtext,0,429,2775
+answers,0,1089,6377
+opinion statements,0,583,3100
+openwebtext,0,491,2674
+opinion statements,0,663,3532
+davinci,1,608,3488
+opt-iml,1,554,3253
+flan_t5,1,861,4936
+gpt-4,1,438,2643
+gpt-4,1,309,1871
+webtext,0,870,4817
+opt-iml,1,432,2227
+gpt2,1,768,4526
+openwebtext,0,945,5748
+opinion statements,0,696,3843
+openwebtext,0,478,2719
+openwebtext,0,394,2435
+opinion statements,0,1171,6277
+gpt2,1,754,4472
+openwebtext,0,482,2983
+opinion statements,0,451,2593
+answers,0,1123,6238
+openwebtext,0,856,4788
+gpt-3.5,1,879,5554
+news articles,0,1230,7276
+opinion statements,0,1496,8685
+openwebtext,0,725,4356
+davinci,1,567,3642
+chatgpt,1,521,3417
+opt-iml,1,466,2844
+opt-iml,1,424,2723
+openwebtext,0,724,4719
+chatgpt,1,410,2540
+opinion statements,0,585,3216
+gpt-3.5,1,647,4458
+opinion statements,0,541,2919
+opinion statements,0,508,2896
+chatgpt,1,426,2715
+gpt-4,1,373,2209
+gpt-3,1,390,1957
+answers,0,1000,5674
+scientific research,0,411,2640
+gpt-4,1,347,2244
+gpt-4,1,420,2647
+chatgpt,1,520,3188
+webtext,0,789,4835
+gpt-4,1,382,2285
+openwebtext,0,632,3876
+davinci,1,907,6524
+scientific research,0,369,2515
+opinion statements,0,461,2695
+davinci,1,635,4033
+gpt-3.5,1,792,5732
+opinion statements,0,430,2604
+openwebtext,0,439,2681
+news articles,0,1305,7111
+opt-iml,1,758,4424
+answers,0,1236,6893
+openwebtext,0,387,2534
+scientific research,0,309,1953
+openwebtext,0,388,2306
+gpt-4,1,400,2602
+openwebtext,0,404,2390
+answers,0,878,4796
+openwebtext,0,647,3509
+answers,0,1429,8136
+opinion statements,0,515,2918
+davinci,1,554,3244
+openwebtext,0,733,4320
+webtext,0,767,4794
+gpt2,1,837,4485
+openwebtext,0,412,2273
+gpt-4,1,476,2844
+chatgpt,1,401,2756
+chatgpt,1,490,2965
+flan_t5,1,881,5494
+openwebtext,0,564,3144
+opinion statements,0,618,3436
+answers,0,970,5263
+openwebtext,0,829,4794
+opt-iml,1,650,3979
+webtext,0,790,4950
+openwebtext,0,645,4084
+openwebtext,0,476,2835
+answers,0,1081,6018
+openwebtext,0,1404,8040
+chatgpt,1,406,2629
+chatgpt,1,393,2605
+opinion statements,0,776,4466
+gpt-4,1,383,2613
+chatgpt,1,475,3042
+gpt-3,1,403,2190
+openwebtext,0,461,2744
+blog,0,605,3428
+answers,0,927,5119
+opinion statements,0,453,2558
+gpt-4,1,518,3159
+openwebtext,0,471,2743
+opinion statements,0,1073,5978
+davinci,1,792,5097
+gpt-4,1,403,2376
+openwebtext,0,1024,6324
+opinion statements,0,462,2542
+davinci,1,554,3444
+gpt2,1,862,4428
+openwebtext,0,734,4413
+opinion statements,0,431,2410
+gpt-3,1,395,2384
+gpt-4,1,499,2973
+opinion statements,0,605,3386
+opinion statements,0,447,2528
+davinci,1,463,2514
+opinion statements,0,586,3302
+opinion statements,0,710,3943
+gpt-4,1,438,2479
+chatgpt,1,415,2534
+flan_t5,1,403,2258
+chatgpt,1,418,2676
+openwebtext,0,527,3299
+webtext,0,654,4231
+chatgpt,1,464,3044
+openwebtext,0,722,4067
+davinci,1,757,3993
+news articles,0,843,4628
+opinion statements,0,796,4632
+openwebtext,0,577,3429
+chatgpt,1,308,1806
+webtext,0,703,4258
+chatgpt,1,393,2382
+gpt-3.5,1,432,2768
+chatgpt,1,647,4064
+openwebtext,0,1059,6486
+gpt-4,1,395,2496
+gpt2,1,813,4297
+openwebtext,0,634,3701
+openwebtext,0,653,3725
+chatgpt,1,409,2693
+opinion statements,0,734,4312
+openwebtext,0,641,3684
+gpt2,1,762,4285
+gpt-4,1,372,2157
+openwebtext,0,513,2962
+chatgpt,1,641,4078
+davinci,1,580,3669
+gpt-4,1,351,2148
+opt-iml,1,838,5495
+opinion statements,0,513,2816
+chatgpt,1,473,3067
+openwebtext,0,535,3246
+webtext,0,550,3420
+openwebtext,0,902,5574
+gpt-4,1,519,3562
+davinci,1,515,3590
+chatgpt,1,410,2473
+gpt-3,1,371,2273
+gpt-3.5,1,699,4234
+openwebtext,0,695,4190
+opinion statements,0,428,2341
+davinci,1,488,3267
+openwebtext,0,1405,8680
+answers,0,1080,6392
+news articles,0,959,5166
+opinion statements,0,423,2326
+answers,0,1006,5546
+chatgpt,1,375,2137
+chatgpt,1,407,2540
+gpt-4,1,320,1790
+blog,0,699,4223
+gpt2,1,757,4300
+gpt-3.5,1,837,5791
+davinci,1,441,2615
+gpt-4,1,382,2341
+openwebtext,0,1369,7774
+gpt-4,1,409,2684
+gpt-4,1,365,2005
+opinion statements,0,495,2772
+openwebtext,0,407,2519
+opinion statements,0,405,2425
+flan_t5,1,524,3132
+chatgpt,1,486,3138
+opinion statements,0,491,2866
+answers,0,1332,7332
+davinci,1,778,5424
+openwebtext,0,1452,8211
+opt-iml,1,529,2539
+opinion statements,0,474,2705
+answers,0,802,4367
+blog,0,555,2991
+chatgpt,1,624,4098
+opinion statements,0,640,3503
+openwebtext,0,747,4478
+chatgpt,1,478,3075
+opinion statements,0,467,2637
+news articles,0,1045,6137
+scientific research,0,405,2689
+opt-iml,1,812,4675
+gpt-4,1,373,2370
+answers,0,917,5606
+blog,0,506,2950
+openwebtext,0,681,4179
+chatgpt,1,405,2431
+flan_t5,1,420,2349
+gpt2,1,812,4781
+gpt-3,1,412,2424
+chatgpt,1,457,2501
+chatgpt,1,486,3012
+blog,0,510,2849
+davinci,1,438,2564
+davinci,1,450,2926
+gpt-3,1,375,2292
+flan_t5,1,423,2470
+gpt-4,1,439,2662
+opinion statements,0,406,2336
+opt-iml,1,451,2686
+chatgpt,1,489,2927
+chatgpt,1,532,3668
+opt-iml,1,408,2418
+davinci,1,428,2715
+news articles,0,905,5126
+gpt-3,1,449,2528
+openwebtext,0,903,4933
+davinci,1,932,5971
+gpt-4,1,365,2037
+opt-iml,1,473,2814
+gpt2,1,577,2826
+chatgpt,1,442,2502
+news articles,0,822,4677
+opt-iml,1,883,5986
+opinion statements,0,407,2470
+opt-iml,1,810,4420
+gpt-4,1,501,3236
+openwebtext,0,650,3607
+opt-iml,1,813,5101
+opinion statements,0,583,3393
+opinion statements,0,603,3640
+opinion statements,0,417,2356
+openwebtext,0,1115,6307
+opt-iml,1,807,4676
+gpt-3.5,1,929,5630
+answers,0,948,6073
+flan_t5,1,852,4883
+gpt-4,1,400,2525
+opinion statements,0,437,2473
+openwebtext,0,503,3032
+chatgpt,1,433,2474
+opt-iml,1,426,2763
+webtext,0,707,4616
+opinion statements,0,1021,5524
+davinci,1,692,4145
+chatgpt,1,677,4099
+opinion statements,0,1358,7255
+chatgpt,1,387,2286
+openwebtext,0,631,3485
+flan_t5,1,778,4292
+openwebtext,0,1380,8415
+davinci,1,589,3320
+scientific research,0,371,2194
+opinion statements,0,561,3362
+chatgpt,1,446,2771
+opinion statements,0,570,3213
+chatgpt,1,399,2192
+opinion statements,0,1019,5423
+opt-iml,1,427,2523
+openwebtext,0,589,3579
+opt-iml,1,595,3877
+gpt-3,1,382,2153
+opinion statements,0,417,2388
+opinion statements,0,407,2264
+openwebtext,0,505,2817
+opinion statements,0,416,2267
+davinci,1,871,5102
+answers,0,1116,6421
+opinion statements,0,573,3091
+opinion statements,0,444,2548
+opinion statements,0,437,2314
+opinion statements,0,650,3653
+openwebtext,0,714,4603
+flan_t5,1,411,2477
+openwebtext,0,440,2650
+opt-iml,1,448,2356
+opinion statements,0,535,3212
+flan_t5,1,700,4348
+openwebtext,0,858,5319
+chatgpt,1,407,2538
+gpt-3.5,1,900,5104
+chatgpt,1,600,3721
+chatgpt,1,510,3072
+openwebtext,0,1481,8674
+opinion statements,0,451,2813
+chatgpt,1,397,2645
+opt-iml,1,521,3134
+opinion statements,0,591,3428
+openwebtext,0,1253,7298
+openwebtext,0,617,3648
+webtext,0,769,4403
+gpt2,1,826,4669
+davinci,1,405,2688
+opinion statements,0,580,3495
+openwebtext,0,506,2852
+opinion statements,0,404,2276
+answers,0,878,4971
+gpt-3.5,1,928,6095
+gpt-4,1,516,3111
+gpt-4,1,435,2458
+gpt-4,1,569,4048
+openwebtext,0,907,5674
+chatgpt,1,601,3381
+chatgpt,1,398,2365
+chatgpt,1,375,2329
+answers,0,875,4916
+gpt-3.5,1,615,4058
+opinion statements,0,479,2784
+chatgpt,1,507,3179
+opinion statements,0,453,2537
+chatgpt,1,429,2736
+flan_t5,1,743,4350
+chatgpt,1,471,2967
+opt-iml,1,403,2506
+flan_t5,1,623,3771
+openwebtext,0,628,3785
+chatgpt,1,405,2425
+opinion statements,0,431,2446
+gpt-4,1,461,2751
+davinci,1,598,3734
+answers,0,1375,7798
+gpt2,1,517,3155
+opt-iml,1,847,5234
+opinion statements,0,982,5632
+chatgpt,1,455,2971
+gpt-4,1,430,2485
+openwebtext,0,430,2488
+davinci,1,875,6181
+gpt-4,1,420,2419
+opinion statements,0,460,2631
+chatgpt,1,471,2982
+chatgpt,1,339,2077
+gpt-4,1,574,3808
+opt-iml,1,592,3562
+gpt-3,1,392,2120
+gpt2,1,725,5054
+openwebtext,0,1245,7786
+opinion statements,0,597,3523
+chatgpt,1,336,2059
+gpt-3.5,1,919,6629
+chatgpt,1,465,2935
+gpt-3.5,1,764,4866
+scientific research,0,328,2221
+davinci,1,890,5905
+opinion statements,0,972,5792
+webtext,0,768,4382
+openwebtext,0,390,2328
+answers,0,1429,8050
+opinion statements,0,433,2397
+chatgpt,1,674,4466
+opinion statements,0,659,3588
+opinion statements,0,777,4704
+chatgpt,1,523,3198
+gpt-3,1,390,2611
+gpt-4,1,376,2355
+opinion statements,0,884,5531
+openwebtext,0,721,4053
+davinci,1,590,4071
+opinion statements,0,479,2546
+flan_t5,1,769,4605
+openwebtext,0,749,4526
+answers,0,955,5292
+opinion statements,0,414,2356
+chatgpt,1,398,2301
+answers,0,922,4981
+opinion statements,0,576,3071
+flan_t5,1,508,2782
+chatgpt,1,419,2680
+opinion statements,0,1019,5561
+gpt-3,1,401,2180
+answers,0,861,5049
+flan_t5,1,594,3530
+flan_t5,1,465,2746
+openwebtext,0,640,4059
+answers,0,815,4704
+gpt-3,1,426,2137
+openwebtext,0,661,4285
+scientific research,0,307,1924
+chatgpt,1,457,2833
+webtext,0,620,3768
+openwebtext,0,377,2494
+openwebtext,0,716,4223
+opinion statements,0,405,2488
+chatgpt,1,623,4237
+openwebtext,0,766,4640
+news articles,0,942,5511
+gpt2,1,663,3944
+openwebtext,0,643,4929
+opt-iml,1,410,2732
+webtext,0,572,3627
+openwebtext,0,619,3915
+openwebtext,0,588,4438
+gpt-4,1,327,1870
+gpt2,1,836,5292
+gpt-3,1,389,2413
+openwebtext,0,722,4060
+answers,0,1411,8203
+openwebtext,0,892,5126
+gpt-4,1,460,2986
+openwebtext,0,696,4081
+chatgpt,1,404,2598
+chatgpt,1,436,2436
+webtext,0,420,2761
+openwebtext,0,1022,6123
+opinion statements,0,756,4333
+openwebtext,0,392,2714
+chatgpt,1,479,2924
+davinci,1,923,6022
+scientific research,0,309,1784
+flan_t5,1,718,4703
+davinci,1,475,2768
+openwebtext,0,711,4395
+opt-iml,1,465,2783
+davinci,1,731,5002
+opinion statements,0,595,3465
+news articles,0,1360,7961
+gpt-4,1,385,2094
+gpt-4,1,488,3297
+blog,0,551,2854
+chatgpt,1,473,3062
+gpt-3.5,1,569,3432
+opinion statements,0,482,3181
+chatgpt,1,315,2108
+gpt-3,1,410,2569
+webtext,0,741,4576
+chatgpt,1,426,2701
+gpt-4,1,382,2321
+answers,0,1206,6326
+chatgpt,1,359,2143
+webtext,0,585,3290
+openwebtext,0,466,2756
+gpt-4,1,417,2455
+openwebtext,0,1316,7132
+openwebtext,0,1191,7108
+opt-iml,1,851,5160
+answers,0,1313,7341
+openwebtext,0,673,3944
+gpt2,1,748,4146
+opinion statements,0,459,2652
+opinion statements,0,558,3241
+openwebtext,0,950,5561
+gpt2,1,659,3496
+opinion statements,0,576,3522
+opinion statements,0,688,3836
+gpt-4,1,442,2830
+blog,0,621,3165
+gpt-4,1,412,2391
+opinion statements,0,714,3701
+openwebtext,0,868,6477
+opinion statements,0,609,3165
+openwebtext,0,523,2958
+gpt-4,1,515,2890
+gpt-3.5,1,875,5763
+opt-iml,1,873,4917
+chatgpt,1,519,3306
+gpt-3,1,386,2313
+opinion statements,0,413,2480
+opt-iml,1,672,3914
+opinion statements,0,584,3320
+gpt2,1,572,3258
+openwebtext,0,937,5478
+gpt-4,1,361,2180
+chatgpt,1,454,2809
+gpt-4,1,394,2442
+flan_t5,1,736,4749
+chatgpt,1,399,2437
+webtext,0,766,4579
+gpt-4,1,382,2061
+gpt-4,1,445,2926
+davinci,1,411,2630
+openwebtext,0,1482,9108
+flan_t5,1,477,2735
+opinion statements,0,1222,7423
+gpt-4,1,385,2266
+flan_t5,1,559,3389
+opinion statements,0,744,4011
+gpt-4,1,399,2201
+gpt-3.5,1,409,2510
+gpt-4,1,335,1929
+chatgpt,1,529,3066
+gpt-4,1,460,2841
+answers,0,1134,5701
+chatgpt,1,504,3054
+openwebtext,0,728,4261
+gpt-4,1,373,2179
+chatgpt,1,409,2655
+webtext,0,806,4589
+gpt-3.5,1,686,4690
+answers,0,1003,5683
+davinci,1,924,6646
+gpt-3,1,427,2368
+answers,0,846,4966
+chatgpt,1,416,2638
+opt-iml,1,475,2766
+gpt-3.5,1,753,5108
+opinion statements,0,415,2423
+chatgpt,1,486,3010
+chatgpt,1,310,1827
+opinion statements,0,490,2981
+answers,0,1015,5593
+gpt2,1,809,4686
+answers,0,969,5627
+gpt-4,1,434,2449
+chatgpt,1,394,2476
+news articles,0,880,4992
+answers,0,1028,5826
+openwebtext,0,445,2564
+openwebtext,0,526,3111
+opt-iml,1,639,4056
+gpt2,1,458,2507
+opinion statements,0,416,2145
+opinion statements,0,438,2348
+openwebtext,0,993,5689
+news articles,0,1399,7863
+opt-iml,1,752,4319
+gpt-4,1,363,2124
+opinion statements,0,502,2751
+opinion statements,0,541,3028
+opinion statements,0,410,2421
+gpt-3.5,1,728,4024
+davinci,1,547,3596
+flan_t5,1,494,2866
+openwebtext,0,467,2763
+gpt-3,1,407,2424
+flan_t5,1,660,4052
+chatgpt,1,606,3934
+chatgpt,1,682,4369
+gpt-3.5,1,438,2615
+opinion statements,0,590,3017
+openwebtext,0,1089,6709
+chatgpt,1,480,2967
+openwebtext,0,1074,6978
+opinion statements,0,570,3283
+openwebtext,0,429,2449
+chatgpt,1,1067,6772
+gpt2,1,374,2135
+gpt-4,1,411,2340
+chatgpt,1,394,2408
+news articles,0,1476,8533
+opinion statements,0,431,2458
+davinci,1,496,3388
+webtext,0,850,5001
+openwebtext,0,435,2701
+chatgpt,1,666,4070
+opt-iml,1,870,5360
+gpt-4,1,389,2541
+openwebtext,0,727,3973
+flan_t5,1,456,2673
+gpt-3,1,400,2116
+gpt-3.5,1,509,3007
+openwebtext,0,1064,6739
+chatgpt,1,447,2812
+openwebtext,0,1413,8690
+webtext,0,828,4616
+openwebtext,0,525,3289
+openwebtext,0,1034,5939
+openwebtext,0,820,5248
+openwebtext,0,990,6175
+openwebtext,0,462,2623
+chatgpt,1,389,2405
+openwebtext,0,817,5113
+openwebtext,0,1281,7675
+blog,0,850,4700
+openwebtext,0,1223,7307
+openwebtext,0,388,2214
+flan_t5,1,883,4716
+davinci,1,614,3796
+gpt2,1,390,2439
+blog,0,396,2224
+gpt-3,1,383,2039
+openwebtext,0,962,5875
+davinci,1,450,2767
+gpt-4,1,525,3481
+openwebtext,0,488,3157
+openwebtext,0,492,2928
+gpt-3,1,430,2368
+opinion statements,0,507,2958
+opinion statements,0,537,3122
+opt-iml,1,843,5319
+webtext,0,553,3322
+openwebtext,0,995,6344
+opinion statements,0,780,4407
+chatgpt,1,393,2256
+gpt-3,1,392,2297
+openwebtext,0,426,2551
+openwebtext,0,615,3882
+opt-iml,1,439,2677
+chatgpt,1,556,3753
+opt-iml,1,402,2397
+gpt-4,1,339,1944
+opinion statements,0,501,2636
+gpt-4,1,390,2274
+openwebtext,0,967,5744
+webtext,0,770,4457
+chatgpt,1,422,2476
+gpt2,1,728,4712
+opinion statements,0,805,4710
+gpt-4,1,370,2141
+webtext,0,638,3627
+openwebtext,0,436,2845
+chatgpt,1,366,2196
+chatgpt,1,385,2398
+gpt-4,1,343,1989
+gpt-4,1,364,1993
+gpt-3.5,1,872,5439
+news articles,0,934,5476
+gpt-4,1,444,2841
+opinion statements,0,475,2778
+openwebtext,0,767,4655
+flan_t5,1,891,5261
+opinion statements,0,433,2269
+opt-iml,1,682,3684
+gpt2,1,371,2064
+gpt-3,1,403,2257
+gpt-3.5,1,525,2736
+gpt-4,1,456,2981
+news articles,0,812,4519
+opinion statements,0,432,2422
+flan_t5,1,606,2654
+openwebtext,0,494,2957
+opinion statements,0,510,3168
+chatgpt,1,374,2293
+flan_t5,1,738,4384
+openwebtext,0,552,3583
+openwebtext,0,492,2894
+opinion statements,0,583,3259
+opinion statements,0,632,3648
+chatgpt,1,535,3236
+openwebtext,0,549,3386
+gpt-3,1,424,2339
+webtext,0,483,2993
+chatgpt,1,524,3330
+flan_t5,1,643,3652
+gpt-3.5,1,665,4784
+gpt-4,1,344,2041
+flan_t5,1,610,3843
+chatgpt,1,789,5620
+gpt2,1,836,4772
+chatgpt,1,578,3474
+answers,0,821,4818
+opinion statements,0,1051,5976
+news articles,0,805,4508
+opinion statements,0,872,5490
+chatgpt,1,426,3023
+openwebtext,0,523,3074
+openwebtext,0,420,2527
+openwebtext,0,720,4017
+chatgpt,1,382,2463
+openwebtext,0,600,3450
+chatgpt,1,386,2320
+opinion statements,0,587,3465
+openwebtext,0,806,4672
+openwebtext,0,1280,8457
+gpt2,1,544,3254
+chatgpt,1,549,3258
+openwebtext,0,678,4128
+chatgpt,1,436,3056
+chatgpt,1,322,1889
+gpt-4,1,417,2825
+gpt-4,1,420,3035
+opinion statements,0,424,2371
+davinci,1,834,5059
+scientific research,0,350,2190
+openwebtext,0,1001,5841
+opinion statements,0,445,2461
+opinion statements,0,423,2239
+gpt-4,1,371,2158
+openwebtext,0,831,4602
+gpt-4,1,425,2213
+davinci,1,748,4909
+opt-iml,1,473,2772
+openwebtext,0,424,2407
+davinci,1,587,3363
+openwebtext,0,419,2665
+opinion statements,0,574,3518
+openwebtext,0,539,3150
+chatgpt,1,644,4098
+chatgpt,1,380,2323
+gpt-3,1,388,2262
+chatgpt,1,451,2777
+davinci,1,421,2548
+openwebtext,0,516,3136
+gpt-3,1,404,2256
+news articles,0,1404,8145
+openwebtext,0,389,2142
+gpt-4,1,422,2453
+chatgpt,1,314,1871
+blog,0,1087,5644
+chatgpt,1,377,2161
+gpt-4,1,456,2950
+opinion statements,0,541,2975
+scientific research,0,471,3010
+webtext,0,787,4443
+davinci,1,463,2429
+opinion statements,0,1102,6068
+openwebtext,0,690,4413
+gpt-3.5,1,733,5815
+gpt-3.5,1,650,4471
+opinion statements,0,427,2423
+opt-iml,1,627,3901
+gpt-3,1,372,2178
+opinion statements,0,428,2344
+flan_t5,1,680,4033
+gpt-3,1,406,2335
+webtext,0,529,3132
+opinion statements,0,486,2796
+gpt-3,1,380,1963
+chatgpt,1,679,4423
+gpt-3,1,371,2147
+opinion statements,0,465,2816
+opinion statements,0,414,2359
+webtext,0,598,3439
+gpt-4,1,383,2199
+gpt-3,1,378,2169
+gpt-4,1,438,2544
+davinci,1,840,5236
+flan_t5,1,746,4156
+davinci,1,872,5929
+chatgpt,1,511,2977
+chatgpt,1,462,2915
+opinion statements,0,670,3825
+openwebtext,0,687,4336
+gpt-4,1,433,2465
+opt-iml,1,621,3745
+chatgpt,1,435,2803
+gpt-3,1,374,2271
+openwebtext,0,1063,6165
+chatgpt,1,351,2108
+gpt-3,1,389,2091
+chatgpt,1,381,2464
+answers,0,1026,6004
+opt-iml,1,741,4559
+opinion statements,0,663,3767
+gpt-4,1,487,3259
+davinci,1,924,5974
+opinion statements,0,662,3865
+gpt-4,1,395,2246
+opinion statements,0,485,2698
+chatgpt,1,466,2901
+opinion statements,0,446,2650
+flan_t5,1,511,3204
+news articles,0,1291,7512
+davinci,1,537,3255
+gpt-3.5,1,596,3528
+news articles,0,1197,6436
+answers,0,900,5455
+blog,0,761,3832
+opt-iml,1,821,4638
+opinion statements,0,705,4230
+opinion statements,0,1001,5656
+opt-iml,1,683,4221
+davinci,1,489,3112
+opinion statements,0,403,2273
+opt-iml,1,442,2479
+gpt2,1,441,2351
+flan_t5,1,402,2530
+webtext,0,517,3143
+davinci,1,409,2449
+chatgpt,1,422,2510
+opinion statements,0,792,4532
+gpt-4,1,340,2056
+blog,0,395,2274
+opt-iml,1,655,3592
+opinion statements,0,732,4340
+gpt-4,1,501,3077
+openwebtext,0,756,4930
+openwebtext,0,554,3403
+openwebtext,0,440,2761
+opinion statements,0,463,2632
+openwebtext,0,450,2560
+gpt-4,1,355,2215
+gpt-3,1,392,2158
+davinci,1,445,2831
+webtext,0,760,4985
+gpt2,1,385,2171
+opinion statements,0,432,2300
+openwebtext,0,705,3854
+flan_t5,1,863,5437
+webtext,0,434,2757
+openwebtext,0,639,3953
+davinci,1,465,3117
+openwebtext,0,377,2419
+opinion statements,0,439,2482
+davinci,1,641,4482
+openwebtext,0,1010,6424
+webtext,0,810,4746
+gpt-3,1,386,2171
+answers,0,1147,6631
+opinion statements,0,1366,7350
+flan_t5,1,434,3467
+chatgpt,1,486,3067
+gpt-3,1,409,2499
+gpt-4,1,357,2135
+gpt-4,1,339,2049
+webtext,0,644,3602
+gpt-3.5,1,436,2993
+news articles,0,978,5440
+openwebtext,0,394,2173
+opt-iml,1,432,2003
+gpt-3,1,386,2490
+openwebtext,0,382,2321
+openwebtext,0,678,3728
+gpt2,1,765,4750
+opinion statements,0,535,3011
+answers,0,968,5866
+chatgpt,1,546,3159
+openwebtext,0,389,2379
+openwebtext,0,595,3658
+davinci,1,480,3614
+gpt-3,1,442,2437
+davinci,1,513,3369
+gpt2,1,633,4219
+opinion statements,0,445,2599
+gpt-4,1,451,2892
+answers,0,1429,7633
+gpt2,1,377,2190
+gpt-3.5,1,417,2601
+gpt-4,1,438,2729
+webtext,0,817,4458
+openwebtext,0,673,4220
+opinion statements,0,688,3907
+openwebtext,0,1156,6607
+chatgpt,1,411,2744
+chatgpt,1,452,2761
+gpt-3,1,379,2367
+opinion statements,0,410,2347
+chatgpt,1,404,2415
+opinion statements,0,1106,6436
+blog,0,655,3365
+gpt-4,1,370,2128
+openwebtext,0,625,3754
+opinion statements,0,641,3701
+news articles,0,856,4819
+gpt2,1,794,4390
+openwebtext,0,531,3338
+blog,0,417,2297
+blog,0,413,2481
+chatgpt,1,697,4795
+chatgpt,1,469,2885
+news articles,0,1260,7427
+answers,0,873,4961
+webtext,0,650,3725
+opinion statements,0,407,2221
+openwebtext,0,641,3932
+webtext,0,489,2762
+news articles,0,1311,7121
+gpt-3,1,419,2733
+chatgpt,1,399,2448
+opinion statements,0,859,5006
+answers,0,992,5766
+opinion statements,0,973,5360
+gpt-4,1,428,2578
+flan_t5,1,783,4964
+opinion statements,0,427,2478
+gpt-4,1,348,2090
+openwebtext,0,683,3973
+news articles,0,1274,6916
+openwebtext,0,374,2147
+gpt-3.5,1,445,3221
+openwebtext,0,410,2320
+gpt-3,1,387,2228
+opinion statements,0,1498,8365
+opt-iml,1,886,6135
+opinion statements,0,910,5122
+davinci,1,928,6073
+openwebtext,0,687,3680
+openwebtext,0,762,4760
+gpt-3,1,407,2513
+chatgpt,1,438,2533
+openwebtext,0,880,4954
+opinion statements,0,590,3495
+openwebtext,0,677,3640
+openwebtext,0,1266,7760
+opinion statements,0,623,3715
+opinion statements,0,613,3512
+openwebtext,0,492,3101
+chatgpt,1,682,4071
+gpt-3,1,433,2310
+chatgpt,1,409,2485
+opinion statements,0,560,3131
+news articles,0,844,5136
+opt-iml,1,437,2496
+davinci,1,505,3092
+chatgpt,1,526,3445
+chatgpt,1,488,3146
+openwebtext,0,1181,6568
+openwebtext,0,498,2934
+chatgpt,1,398,2653
+gpt-4,1,439,2446
+chatgpt,1,385,2281
+webtext,0,579,3850
+answers,0,947,5469
+chatgpt,1,510,3102
+opinion statements,0,447,2698
+opinion statements,0,642,3474
+gpt-4,1,353,2113
+opinion statements,0,536,2996
+chatgpt,1,372,2307
+chatgpt,1,469,3087
+davinci,1,466,2557
+gpt-4,1,352,1911
+opinion statements,0,811,4745
+opt-iml,1,438,2527
+webtext,0,716,4377
+openwebtext,0,471,2822
+gpt2,1,617,3630
+answers,0,893,5088
+gpt-3,1,373,2337
+openwebtext,0,464,2706
+gpt-4,1,500,2670
+openwebtext,0,613,3591
+openwebtext,0,678,4182
+openwebtext,0,501,2815
+opinion statements,0,464,2593
+openwebtext,0,722,4123
+gpt-3.5,1,556,3492
+gpt-3.5,1,582,3912
+webtext,0,813,4748
+chatgpt,1,379,2511
+gpt-4,1,353,1976
+opt-iml,1,459,3069
+opt-iml,1,620,3946
+openwebtext,0,506,2927
+blog,0,833,4990
+opinion statements,0,410,2520
+chatgpt,1,434,2572
+opinion statements,0,577,3336
+opinion statements,0,827,4460
+gpt-3,1,397,2256
+openwebtext,0,626,4016
+webtext,0,795,4913
+gpt2,1,855,4909
+chatgpt,1,604,3658
+opinion statements,0,440,2571
+davinci,1,420,2543
+gpt-4,1,479,2908
+openwebtext,0,685,3897
+answers,0,824,4759
+gpt-4,1,419,2451
+gpt-4,1,450,2718
+gpt-3,1,412,2682
+gpt-3.5,1,487,2856
+gpt-4,1,326,1943
+gpt-3.5,1,886,5413
+opt-iml,1,467,2886
+openwebtext,0,841,4985
+chatgpt,1,503,3035
+gpt-3,1,399,2333
+openwebtext,0,621,3825
+gpt-3,1,420,2559
+webtext,0,784,4680
+gpt2,1,390,2472
+chatgpt,1,513,3245
+gpt-3,1,377,2572
+news articles,0,1155,6805
+opt-iml,1,870,5465
+openwebtext,0,529,3079
+opinion statements,0,583,3457
+gpt-3.5,1,683,4246
+davinci,1,469,2607
+flan_t5,1,559,3379
+openwebtext,0,902,5241
+opinion statements,0,792,4833
+davinci,1,526,3540
+openwebtext,0,957,5997
+answers,0,1227,6811
+answers,0,850,4831
+openwebtext,0,950,5629
+opt-iml,1,576,3495
+scientific research,0,406,2545
+openwebtext,0,684,4309
+davinci,1,847,4740
+openwebtext,0,1274,7735
+gpt-4,1,415,2413
+openwebtext,0,921,5494
+webtext,0,506,2823
+openwebtext,0,720,4100
+openwebtext,0,397,2465
+openwebtext,0,496,2886
+chatgpt,1,386,2317
+gpt2,1,829,4861
+openwebtext,0,952,6202
+chatgpt,1,350,2121
+chatgpt,1,357,2122
+news articles,0,1169,6483
+opinion statements,0,879,4907
+opinion statements,0,520,3097
+opt-iml,1,502,2851
+gpt2,1,527,2197
+chatgpt,1,380,2598
+news articles,0,977,5657
+davinci,1,672,4609
+chatgpt,1,735,4510
+opinion statements,0,741,4067
+openwebtext,0,398,2345
+chatgpt,1,427,3026
+openwebtext,0,454,3041
+opinion statements,0,628,3623
+opt-iml,1,429,2411
+opinion statements,0,413,2413
+flan_t5,1,897,5697
+webtext,0,801,4676
+openwebtext,0,1020,6169
+opinion statements,0,765,4469
+answers,0,884,4827
+opinion statements,0,483,2847
+opt-iml,1,403,2370
+flan_t5,1,628,4189
+gpt-3.5,1,887,5196
+davinci,1,623,4310
+webtext,0,536,3341
+openwebtext,0,444,2755
+flan_t5,1,486,2979
+gpt2,1,744,4173
+openwebtext,0,375,2119
+opinion statements,0,729,4229
+opinion statements,0,853,4786
+davinci,1,730,3949
+opinion statements,0,444,2614
+webtext,0,811,4539
+flan_t5,1,465,2899
+gpt-3,1,395,2116
+webtext,0,796,4617
+opinion statements,0,780,4467
+webtext,0,688,4034
+davinci,1,754,4688
+answers,0,1380,7927
+flan_t5,1,831,6749
+chatgpt,1,374,2170
+gpt-3.5,1,521,3240
+opinion statements,0,710,3861
+opinion statements,0,483,2694
+answers,0,1005,5695
+flan_t5,1,473,2028
+openwebtext,0,873,4992
+gpt-3,1,414,2806
+opinion statements,0,494,2942
+opinion statements,0,443,2727
+gpt-3,1,375,2220
+opinion statements,0,754,4093
+blog,0,548,2830
+opinion statements,0,1027,5941
+gpt-4,1,537,3343
+gpt-3,1,374,2168
+gpt-4,1,337,2034
+chatgpt,1,433,2495
+gpt-3,1,419,2353
+gpt2,1,795,4534
+news articles,0,927,5602
+davinci,1,404,2417
+gpt-3,1,433,2663
+davinci,1,956,6334
+gpt-3.5,1,504,3190
+openwebtext,0,1334,8171
+webtext,0,577,3421
+openwebtext,0,427,2772
+chatgpt,1,447,2727
+openwebtext,0,884,5348
+gpt2,1,830,4555
+opinion statements,0,740,4277
+blog,0,515,2750
+chatgpt,1,374,2486
+answers,0,878,4941
+openwebtext,0,1058,6126
+webtext,0,770,4862
+chatgpt,1,612,3799
+opinion statements,0,467,2697
+gpt-4,1,485,3026
+davinci,1,476,3069
+news articles,0,959,5311
+opinion statements,0,414,2296
+answers,0,874,4917
+answers,0,833,4838
+opinion statements,0,786,4312
+opinion statements,0,1105,6348
+webtext,0,521,3052
+answers,0,897,4980
+flan_t5,1,470,3081
+opinion statements,0,519,3075
+openwebtext,0,559,3143
+answers,0,939,5223
+openwebtext,0,539,3405
+openwebtext,0,933,5648
+openwebtext,0,464,2661
+scientific research,0,339,1928
+opinion statements,0,569,3455
+opinion statements,0,714,3969
+opinion statements,0,709,3846
+openwebtext,0,846,4934
+openwebtext,0,869,4935
+davinci,1,756,5103
+openwebtext,0,765,4365
+opinion statements,0,488,2820
+gpt2,1,606,4009
+opinion statements,0,447,2463
+openwebtext,0,1154,6220
+opinion statements,0,479,2669
+openwebtext,0,397,2443
+gpt-4,1,376,2323
+gpt-3.5,1,658,4747
+webtext,0,483,3339
+chatgpt,1,449,2729
+news articles,0,1252,6756
+opinion statements,0,648,3707
+webtext,0,762,4499
+chatgpt,1,498,2942
+openwebtext,0,391,2332
+gpt-3,1,438,2563
+gpt-4,1,636,4403
+opt-iml,1,402,2282
+davinci,1,897,5683
+answers,0,1030,5678
+openwebtext,0,687,4113
+davinci,1,687,4353
+flan_t5,1,439,2905
+opinion statements,0,451,2493
+opinion statements,0,479,2985
+chatgpt,1,632,3592
+gpt-4,1,397,2263
+openwebtext,0,455,2775
+opinion statements,0,431,2520
+openwebtext,0,567,3428
+news articles,0,1067,6214
+flan_t5,1,771,4990
+chatgpt,1,401,2541
+answers,0,1302,7567
+flan_t5,1,872,4771
+openwebtext,0,861,5296
+chatgpt,1,437,2751
+webtext,0,740,4567
+openwebtext,0,770,4267
+openwebtext,0,701,4838
+davinci,1,783,5108
+gpt2,1,518,3000
+gpt-3,1,382,2097
+davinci,1,820,5305
+chatgpt,1,773,4692
+opinion statements,0,544,2996
+gpt-4,1,419,2594
+opinion statements,0,441,2477
+flan_t5,1,484,3304
+chatgpt,1,479,2969
+gpt-3,1,375,2064
+gpt2,1,869,5691
+davinci,1,952,6412
+openwebtext,0,1266,7944
+gpt-3.5,1,467,2883
+opinion statements,0,457,2631
+blog,0,379,2206
+opt-iml,1,651,3769
+opinion statements,0,437,2416
+gpt-3.5,1,664,3952
+gpt-3.5,1,840,5644
+flan_t5,1,432,2687
+opinion statements,0,426,2420
+opt-iml,1,536,3971
+gpt-4,1,445,2907
+openwebtext,0,1369,8316
+news articles,0,1013,5741
+gpt-4,1,504,3404
+chatgpt,1,399,2811
+openwebtext,0,385,2137
+openwebtext,0,754,4838
+chatgpt,1,455,2683
+openwebtext,0,1126,6162
+davinci,1,488,2940
+news articles,0,807,4515
+gpt-4,1,436,2694
+flan_t5,1,484,2683
+openwebtext,0,591,3718
+gpt-3.5,1,762,5236
+gpt2,1,777,4661
+opt-iml,1,406,2051
+opinion statements,0,453,2267
+flan_t5,1,414,2366
+chatgpt,1,491,2953
+chatgpt,1,377,2237
+opt-iml,1,539,2546
+opt-iml,1,902,5414
+flan_t5,1,536,3150
+gpt-3.5,1,416,2757
+chatgpt,1,382,2390
+chatgpt,1,544,3414
+opt-iml,1,431,2349
+flan_t5,1,442,2532
+blog,0,427,2291
+openwebtext,0,713,4275
+gpt-3.5,1,842,5267
+chatgpt,1,313,2180
+opinion statements,0,688,3789
+davinci,1,599,3617
+gpt-4,1,316,1857
+openwebtext,0,617,3559
+chatgpt,1,546,3239
+answers,0,1286,7753
+opinion statements,0,801,4533
+gpt-3,1,420,2419
+openwebtext,0,790,4837
+opinion statements,0,432,2616
+flan_t5,1,423,1986
+flan_t5,1,476,2940
+davinci,1,952,6151
+chatgpt,1,446,2951
+gpt-4,1,721,4712
+flan_t5,1,864,5289
+opinion statements,0,823,4653
+openwebtext,0,394,2329
+opinion statements,0,866,4909
+blog,0,395,2341
+news articles,0,1024,5756
+gpt-3.5,1,451,2768
+gpt2,1,531,3384
+opt-iml,1,708,3982
+chatgpt,1,379,2431
+davinci,1,619,4018
+davinci,1,643,3499
+webtext,0,777,4429
+openwebtext,0,477,2954
+davinci,1,464,3016
+flan_t5,1,532,3137
+gpt-4,1,373,2488
+openwebtext,0,946,5896
+gpt-4,1,359,2068
+openwebtext,0,491,2999
+gpt-4,1,379,2407
+answers,0,1283,6881
+opinion statements,0,462,2551
+opinion statements,0,446,2232
+gpt-3,1,399,2322
+opt-iml,1,854,4667
+opinion statements,0,417,2279
+flan_t5,1,632,3976
+openwebtext,0,408,2489
+davinci,1,403,2619
+blog,0,563,3026
+openwebtext,0,683,4349
+flan_t5,1,906,5247
+chatgpt,1,675,3883
+scientific research,0,344,2333
+answers,0,1045,5987
+news articles,0,805,4922
+openwebtext,0,480,2919
+gpt-3,1,415,2180
+chatgpt,1,400,2578
+openwebtext,0,679,4282
+opinion statements,0,1245,6841
+webtext,0,468,2689
+gpt-3.5,1,924,6025
+davinci,1,898,5578
+opinion statements,0,512,3158
+opinion statements,0,481,2694
+gpt2,1,765,4806
+openwebtext,0,472,3032
+flan_t5,1,579,3494
+opt-iml,1,522,2882
+davinci,1,431,2645
+news articles,0,891,5206
+opinion statements,0,560,3093
+opt-iml,1,912,5341
+chatgpt,1,391,2388
+flan_t5,1,874,5244
+gpt-3,1,418,2299
+opinion statements,0,714,3865
+gpt-3,1,397,2358
+openwebtext,0,906,5213
+chatgpt,1,449,2664
+openwebtext,0,470,3079
+flan_t5,1,556,3695
+answers,0,1245,6588
+chatgpt,1,438,2852
+gpt-3.5,1,585,3621
+gpt2,1,710,3885
+opinion statements,0,852,5144
+openwebtext,0,377,2130
+openwebtext,0,752,4542
+answers,0,853,4626
+opinion statements,0,641,3961
+webtext,0,835,5208
+davinci,1,650,3883
+chatgpt,1,300,1834
+webtext,0,471,2836
+davinci,1,722,5042
+openwebtext,0,603,3783
+blog,0,540,2825
+answers,0,867,4975
+opinion statements,0,972,5411
+chatgpt,1,408,2489
+chatgpt,1,424,2586
+openwebtext,0,450,2758
+webtext,0,732,4668
+blog,0,372,2027
+gpt-4,1,416,2368
+openwebtext,0,1177,6799
+gpt2,1,805,5015
+davinci,1,769,4326
+davinci,1,484,2760
+opt-iml,1,894,5522
+openwebtext,0,842,4508
+gpt-3.5,1,489,2797
+davinci,1,942,6175
+blog,0,635,3726
+opt-iml,1,719,3835
+gpt-3.5,1,454,3029
+opinion statements,0,440,2394
+davinci,1,453,2933
+gpt2,1,414,2739
+flan_t5,1,703,4264
+opinion statements,0,800,4865
+opt-iml,1,487,3034
+opt-iml,1,797,5315
+openwebtext,0,468,2962
+opinion statements,0,1232,6811
+gpt-4,1,390,2203
+openwebtext,0,441,2457
+answers,0,946,5551
+gpt2,1,794,4385
+openwebtext,0,631,3780
+davinci,1,590,3565
+openwebtext,0,867,5371
+gpt-3,1,402,2410
+opt-iml,1,449,2772
+openwebtext,0,896,5501
+davinci,1,419,2135
+openwebtext,0,969,6155
+answers,0,883,4823
+openwebtext,0,754,4285
+gpt2,1,574,3355
+davinci,1,509,3094
+opinion statements,0,401,2282
+gpt-3.5,1,909,5650
+webtext,0,697,4312
+chatgpt,1,458,2910
+answers,0,1175,6520
+openwebtext,0,1269,7744
+gpt-4,1,357,2131
+openwebtext,0,1090,7276
+opinion statements,0,849,4894
+chatgpt,1,549,3366
+opinion statements,0,731,4204
+gpt-4,1,574,3866
+flan_t5,1,624,3765
+opinion statements,0,480,2880
+flan_t5,1,863,6539
+gpt-4,1,382,2507
+gpt-3,1,437,2313
+gpt2,1,850,4612
+opinion statements,0,509,2913
+webtext,0,761,4486
+gpt-3,1,382,2149
+openwebtext,0,1328,8337
+chatgpt,1,426,2609
+gpt-3,1,400,2558
+opinion statements,0,484,2876
+blog,0,574,3170
+gpt-4,1,414,2439
+openwebtext,0,377,2283
+opinion statements,0,860,4806
+blog,0,597,3476
+gpt-4,1,574,3287
+openwebtext,0,1306,7941
+davinci,1,532,3190
+opinion statements,0,699,3857
+gpt-3,1,375,2199
+gpt-3.5,1,562,3683
+gpt2,1,436,2691
+answers,0,1343,7119
+opinion statements,0,511,2807
+blog,0,920,4973
+webtext,0,789,4785
+opinion statements,0,815,4623
+gpt-4,1,471,3095
+gpt-4,1,337,2126
+chatgpt,1,459,2905
+openwebtext,0,548,3357
+openwebtext,0,612,3788
+flan_t5,1,422,2367
+openwebtext,0,882,5599
+gpt-3.5,1,645,4002
+gpt-3,1,392,2453
+chatgpt,1,472,3262
+gpt-3,1,392,2380
+opinion statements,0,724,4051
+chatgpt,1,795,5173
+openwebtext,0,386,2193
+chatgpt,1,383,2257
+news articles,0,1036,5858
+openwebtext,0,448,3009
+opinion statements,0,495,2572
+blog,0,405,2250
+openwebtext,0,645,3665
+opt-iml,1,792,5037
+opinion statements,0,927,5688
+scientific research,0,362,2213
+chatgpt,1,506,3321
+gpt2,1,888,5053
+blog,0,490,2582
+chatgpt,1,418,2484
+chatgpt,1,506,3201
+answers,0,1022,5884
+davinci,1,748,4881
+openwebtext,0,528,3456
+flan_t5,1,541,3204
+flan_t5,1,584,3788
+opt-iml,1,810,4272
+news articles,0,835,4733
+opinion statements,0,765,4450
+news articles,0,1252,7547
+openwebtext,0,469,2970
+scientific research,0,492,3434
+openwebtext,0,995,5963
+flan_t5,1,752,4488
+openwebtext,0,543,3263
+chatgpt,1,423,2502
+chatgpt,1,389,2480
+openwebtext,0,669,4147
+gpt2,1,612,3145
+opinion statements,0,597,3285
+gpt-3.5,1,722,4511
+davinci,1,781,4475
+chatgpt,1,387,2277
+gpt-3,1,379,2429
+davinci,1,505,3383
+opinion statements,0,460,2611
+gpt-3,1,442,2614
+news articles,0,1029,5992
+gpt-4,1,411,2801
+gpt-4,1,389,2347
+openwebtext,0,620,4011
+webtext,0,728,4373
+answers,0,1130,6311
+openwebtext,0,527,3024
+openwebtext,0,572,3500
+opinion statements,0,447,2567
+gpt-3.5,1,533,3774
+openwebtext,0,1285,7337
+gpt2,1,846,4843
+openwebtext,0,425,2563
+opt-iml,1,414,2453
+opinion statements,0,485,2833
+openwebtext,0,426,2842
+flan_t5,1,567,3217
+opinion statements,0,460,2624
+gpt2,1,816,4537
+gpt-4,1,428,2641
+gpt-4,1,840,5269
+openwebtext,0,951,5916
+blog,0,396,2236
+opinion statements,0,834,4669
+openwebtext,0,1429,8534
+news articles,0,824,4753
+openwebtext,0,884,5110
+gpt-4,1,457,3078
+flan_t5,1,532,3049
+answers,0,1189,7039
+gpt-4,1,356,2113
+davinci,1,644,4453
+gpt-4,1,348,2152
+openwebtext,0,815,4570
+gpt-4,1,478,2981
+openwebtext,0,400,2352
+gpt2,1,763,4487
+blog,0,468,2645
+openwebtext,0,928,5676
+gpt2,1,735,4189
+gpt-4,1,438,2736
+gpt-3,1,426,2797
+gpt-4,1,534,2948
+blog,0,411,2190
+gpt-4,1,416,2641
+openwebtext,0,620,3936
+flan_t5,1,849,5228
+gpt-4,1,446,2539
+chatgpt,1,386,2482
+chatgpt,1,466,3002
+flan_t5,1,430,2360
+openwebtext,0,1483,8354
+opinion statements,0,541,2956
+gpt-3.5,1,774,4547
+gpt-3,1,391,1966
+openwebtext,0,545,3389
+chatgpt,1,409,2351
+gpt2,1,773,3929
+davinci,1,453,2936
+answers,0,1406,8189
+opt-iml,1,510,3217
+chatgpt,1,626,3864
+openwebtext,0,490,2841
+answers,0,984,5464
+openwebtext,0,904,5195
+openwebtext,0,763,4537
+gpt-3.5,1,805,4694
+openwebtext,0,1049,6212
+openwebtext,0,892,5299
+chatgpt,1,412,2597
+openwebtext,0,857,5048
+webtext,0,780,4902
+openwebtext,0,455,2682
+davinci,1,574,3415
+openwebtext,0,1400,7740
+flan_t5,1,734,4424
+gpt-4,1,428,2593
+gpt-4,1,437,2673
+gpt2,1,466,2741
+opinion statements,0,607,3461
+openwebtext,0,765,4502
+flan_t5,1,895,5376
+gpt2,1,699,4063
+opinion statements,0,951,5450
+gpt-4,1,405,2515
+gpt-3.5,1,950,6696
+opinion statements,0,524,3238
+answers,0,891,5161
+opinion statements,0,541,3001
+opinion statements,0,981,5621
+webtext,0,497,2779
+openwebtext,0,554,3101
+opinion statements,0,762,4434
+opinion statements,0,724,4157
+answers,0,1115,6024
+chatgpt,1,446,2863
+gpt-4,1,422,2493
+flan_t5,1,865,5314
+openwebtext,0,453,2575
+chatgpt,1,407,2560
+scientific research,0,335,2341
+scientific research,0,364,2411
+openwebtext,0,795,4970
+gpt-4,1,376,2268
+chatgpt,1,389,2379
+gpt-4,1,433,2761
+flan_t5,1,731,4387
+davinci,1,575,3353
+opinion statements,0,665,3913
+chatgpt,1,409,2602
+webtext,0,635,3721
+opinion statements,0,438,2596
+openwebtext,0,527,3147
+chatgpt,1,372,2299
+gpt-4,1,483,2613
+flan_t5,1,401,1700
+openwebtext,0,698,4060
+flan_t5,1,437,2289
+openwebtext,0,1482,8453
+webtext,0,415,2460
+opinion statements,0,469,2702
+opinion statements,0,1329,8005
+openwebtext,0,513,3275
+webtext,0,843,4822
+chatgpt,1,328,1988
+gpt2,1,439,2614
+gpt-3.5,1,990,7009
+blog,0,1256,6556
+opinion statements,0,420,2533
+blog,0,1429,7413
+opt-iml,1,494,2781
+blog,0,511,2608
+opinion statements,0,465,2592
+opt-iml,1,554,3214
+chatgpt,1,396,2520
+gpt-4,1,395,2572
+blog,0,425,2297
+davinci,1,619,4091
+chatgpt,1,482,3175
+chatgpt,1,550,3557
+answers,0,1322,7565
+chatgpt,1,596,3663
+gpt-4,1,627,4135
+gpt-4,1,299,1870
+openwebtext,0,1055,6858
+chatgpt,1,553,3496
+openwebtext,0,1251,7742
+webtext,0,575,3499
+openwebtext,0,1487,8750
+opinion statements,0,402,2337
+chatgpt,1,469,2910
+opt-iml,1,450,2501
+openwebtext,0,405,2510
+opinion statements,0,478,2678
+answers,0,1050,6103
+gpt-4,1,383,2505
+opinion statements,0,524,3331
+opinion statements,0,628,3703
+webtext,0,411,2389
+openwebtext,0,752,4344
+gpt-4,1,375,2190
+chatgpt,1,379,2433
+news articles,0,1336,7471
+openwebtext,0,526,3232
+openwebtext,0,393,2430
+gpt-4,1,332,2076
+opinion statements,0,405,2372
+opinion statements,0,569,3466
+gpt2,1,750,3890
+gpt-3.5,1,478,3042
+answers,0,920,5617
+opinion statements,0,404,2379
+flan_t5,1,471,2863
+flan_t5,1,549,3163
+openwebtext,0,611,3637
+gpt-3,1,402,2357
+chatgpt,1,326,2096
+gpt-4,1,399,2494
+webtext,0,808,4710
+gpt2,1,790,4990
+davinci,1,482,3231
+davinci,1,798,5573
+chatgpt,1,621,3747
+gpt-4,1,440,2672
+openwebtext,0,658,3626
+chatgpt,1,383,2641
+opinion statements,0,914,5126
+opinion statements,0,449,2700
+openwebtext,0,374,2286
+answers,0,1287,7201
+opinion statements,0,815,4563
+news articles,0,840,4929
+openwebtext,0,739,4526
+webtext,0,831,4881
+opinion statements,0,1016,5576
+opinion statements,0,443,2420
+openwebtext,0,1045,5757
+flan_t5,1,414,2136
+scientific research,0,320,2016
+gpt-4,1,394,2349
+opinion statements,0,411,2390
+davinci,1,658,4414
+davinci,1,413,2270
+openwebtext,0,471,2853
+gpt-4,1,435,2858
+gpt-3.5,1,956,6071
+gpt-4,1,413,2408
+gpt-3.5,1,887,5739
+answers,0,801,4281
+opt-iml,1,419,2500
+flan_t5,1,475,2912
+flan_t5,1,793,6016
+opinion statements,0,438,2549
+opt-iml,1,852,5021
+flan_t5,1,853,4786
+webtext,0,658,3747
+answers,0,1286,7934
+chatgpt,1,557,3401
+openwebtext,0,868,5523
+gpt-4,1,406,2560
+davinci,1,497,3336
+davinci,1,491,3107
+chatgpt,1,401,2499
+gpt2,1,568,3274
+opinion statements,0,882,5262
+gpt2,1,410,2290
+webtext,0,383,2292
+openwebtext,0,895,5221
+gpt-4,1,495,3458
+gpt-3,1,373,2125
+gpt-4,1,500,3386
+chatgpt,1,442,2678
+flan_t5,1,473,3322
+opinion statements,0,448,2546
+opinion statements,0,816,4734
+opt-iml,1,422,2433
+openwebtext,0,504,2969
+chatgpt,1,368,2357
+webtext,0,532,3433
+chatgpt,1,429,2689
+gpt-3.5,1,869,5088
+opinion statements,0,513,2796
+news articles,0,824,4495
+gpt2,1,746,4662
+gpt2,1,838,5302
+gpt-3.5,1,433,2476
+chatgpt,1,518,3355
+gpt-3,1,427,2377
+news articles,0,1257,7117
+openwebtext,0,813,5179
+gpt-3.5,1,669,4715
+blog,0,659,3344
+flan_t5,1,421,2617
+scientific research,0,306,2044
+gpt2,1,640,3607
+answers,0,921,5240
+openwebtext,0,943,6068
+openwebtext,0,1144,6887
+gpt-3,1,390,2138
+davinci,1,942,6066
+opt-iml,1,740,4073
+chatgpt,1,496,3009
+opinion statements,0,411,2440
+opinion statements,0,850,4773
+gpt-3.5,1,422,2432
+openwebtext,0,617,3757
+openwebtext,0,398,2392
+webtext,0,802,4999
+flan_t5,1,540,2942
+openwebtext,0,658,4204
+openwebtext,0,688,4000
+gpt-4,1,328,1898
+scientific research,0,302,2118
+openwebtext,0,529,3127
+answers,0,1045,5932
+scientific research,0,318,2134
+gpt-3.5,1,792,5332
+chatgpt,1,364,2303
+answers,0,883,5049
+scientific research,0,318,2123
+opinion statements,0,496,2795
+opinion statements,0,422,2155
+opinion statements,0,1375,7884
+opinion statements,0,517,2989
+chatgpt,1,414,2845
+openwebtext,0,643,3806
+opinion statements,0,1047,6032
+gpt-3.5,1,810,5691
+openwebtext,0,695,3697
+davinci,1,476,2701
+gpt2,1,828,4530
+davinci,1,739,4960
+opt-iml,1,637,4300
+opinion statements,0,465,2576
+opinion statements,0,444,2457
+chatgpt,1,411,2591
+flan_t5,1,865,4972
+opt-iml,1,445,2949
+gpt-4,1,419,2603
+gpt-4,1,390,2348
+gpt-4,1,401,2455
+davinci,1,919,6202
+opinion statements,0,427,2340
+gpt-3.5,1,570,3393
+flan_t5,1,921,5530
+openwebtext,0,622,3587
+davinci,1,408,2687
+opt-iml,1,850,6223
+flan_t5,1,888,4803
+chatgpt,1,462,2928
+chatgpt,1,568,3725
+openwebtext,0,428,2732
+blog,0,414,2280
+chatgpt,1,780,5100
+opinion statements,0,496,2855
+opt-iml,1,681,4022
+chatgpt,1,449,2924
+gpt-3.5,1,542,3071
+blog,0,374,1906
+flan_t5,1,887,4924
+answers,0,809,4513
+news articles,0,933,5127
+chatgpt,1,626,3956
+answers,0,1117,6609
+gpt-4,1,311,1660
+openwebtext,0,544,3219
+opinion statements,0,1076,6394
+news articles,0,1326,7540
+openwebtext,0,401,2347
+news articles,0,894,5279
+openwebtext,0,570,3245
+gpt-3.5,1,563,3215
+openwebtext,0,771,4634
+answers,0,802,4477
+gpt-3.5,1,639,4190
+opt-iml,1,542,2999
+news articles,0,1059,6143
+news articles,0,880,5028
+flan_t5,1,617,4069
+opt-iml,1,430,2541
+answers,0,1012,5849
+flan_t5,1,545,3155
+opinion statements,0,686,4040
+openwebtext,0,1017,5891
+gpt-3.5,1,443,2728
+chatgpt,1,410,2468
+opt-iml,1,465,2831
+opinion statements,0,764,4581
+flan_t5,1,456,2297
+opt-iml,1,691,4198
+flan_t5,1,512,3214
+chatgpt,1,484,3011
+opt-iml,1,767,4287
+openwebtext,0,669,4419
+chatgpt,1,480,2949
+opinion statements,0,682,3745
+webtext,0,657,3746
+opinion statements,0,619,3561
+gpt-4,1,394,2404
+opinion statements,0,815,4572
+openwebtext,0,593,3396
+openwebtext,0,538,3328
+gpt-4,1,466,3137
+news articles,0,812,4758
+gpt-3,1,424,2320
+gpt-4,1,381,2370
+flan_t5,1,473,2922
+opinion statements,0,620,3297
+openwebtext,0,735,4427
+gpt2,1,833,5213
+news articles,0,1079,6387
+openwebtext,0,762,4464
+opt-iml,1,441,2835
+opinion statements,0,448,2361
+opt-iml,1,463,2156
+opinion statements,0,447,2569
+openwebtext,0,959,5689
+openwebtext,0,776,4623
+chatgpt,1,497,2895
+davinci,1,620,4108
+answers,0,974,5476
+opinion statements,0,452,2548
+davinci,1,402,2622
+opinion statements,0,425,2452
+gpt-4,1,425,2581
+gpt-4,1,449,2483
+gpt-3,1,397,2277
+flan_t5,1,458,2638
+opinion statements,0,707,4023
+blog,0,676,3554
+opinion statements,0,654,3619
+gpt-4,1,472,3010
+opinion statements,0,511,2843
+scientific research,0,323,2091
+openwebtext,0,491,2876
+chatgpt,1,529,3528
+news articles,0,822,4690
+webtext,0,772,4386
+gpt2,1,819,4365
+gpt-4,1,463,2950
+openwebtext,0,385,2371
+davinci,1,722,4956
+opt-iml,1,484,3019
+gpt-4,1,349,1983
+davinci,1,472,3054
+gpt-3.5,1,510,3082
+chatgpt,1,518,2992
+openwebtext,0,493,2560
+opt-iml,1,461,2680
+opt-iml,1,627,4112
+webtext,0,805,4808
+opinion statements,0,492,2789
+openwebtext,0,568,3164
+news articles,0,1211,6502
+opinion statements,0,407,2275
+chatgpt,1,434,2696
+gpt-4,1,387,2262
+openwebtext,0,430,2597
+webtext,0,394,2046
+openwebtext,0,1452,8490
+webtext,0,425,2556
+gpt-3.5,1,433,2749
+scientific research,0,334,2087
+answers,0,1310,7521
+openwebtext,0,861,5534
+opt-iml,1,408,2715
+gpt-4,1,289,1635
+opinion statements,0,801,4407
+openwebtext,0,599,3880
+openwebtext,0,852,4600
+gpt-3,1,403,2344
+davinci,1,545,2901
+opinion statements,0,1033,6523
+chatgpt,1,486,3063
+chatgpt,1,316,1987
+flan_t5,1,626,3272
+answers,0,870,4691
+openwebtext,0,717,4545
+opinion statements,0,452,2581
+opinion statements,0,447,2382
+gpt2,1,683,3423
+answers,0,1289,7342
+davinci,1,519,3721
+chatgpt,1,475,2910
+chatgpt,1,500,3074
+opinion statements,0,890,4989
+openwebtext,0,1124,6780
+openwebtext,0,1349,8386
+gpt2,1,504,2993
+chatgpt,1,421,2659
+flan_t5,1,582,3606
+opinion statements,0,589,3275
+opinion statements,0,952,5666
+webtext,0,602,3865
+chatgpt,1,491,2851
+openwebtext,0,704,4296
+chatgpt,1,589,3628
+chatgpt,1,439,2596
+opinion statements,0,587,3370
+openwebtext,0,439,2823
+chatgpt,1,457,2952
+opinion statements,0,1031,5611
+openwebtext,0,447,2731
+scientific research,0,347,2107
+gpt-3.5,1,635,3975
+openwebtext,0,1091,6754
+davinci,1,634,4234
+chatgpt,1,568,3289
+answers,0,1297,7735
+chatgpt,1,399,2346
+openwebtext,0,779,4971
+chatgpt,1,466,2804
+gpt-3,1,442,1947
+openwebtext,0,730,4534
+opinion statements,0,668,4041
+webtext,0,604,3688
+davinci,1,547,3343
+gpt-4,1,409,2678
+openwebtext,0,789,4577
+chatgpt,1,392,2320
+davinci,1,476,3016
+gpt-4,1,456,2917
+gpt-3.5,1,605,4131
+davinci,1,701,5143
+chatgpt,1,513,3351
+opinion statements,0,653,3612
+opinion statements,0,856,4690
+answers,0,1341,7308
+gpt-4,1,607,3883
+gpt-4,1,375,2509
+openwebtext,0,969,5866
+gpt-4,1,388,2564
+opinion statements,0,539,3083
+chatgpt,1,500,3351
+chatgpt,1,381,2434
+chatgpt,1,419,2398
+gpt-3,1,375,2279
+gpt-3.5,1,620,3696
+opinion statements,0,833,4501
+openwebtext,0,542,3446
+opt-iml,1,495,3042
+gpt-4,1,413,2499
+chatgpt,1,448,3109
+opt-iml,1,890,5286
+chatgpt,1,495,3066
+scientific research,0,312,1919
+chatgpt,1,480,3101
+blog,0,761,3935
+gpt-3.5,1,637,3970
+openwebtext,0,570,3360
+gpt-3,1,385,1945
+opinion statements,0,453,2386
+openwebtext,0,537,2872
+chatgpt,1,424,2999
+opinion statements,0,576,3021
+answers,0,917,5176
+opt-iml,1,465,2815
+opinion statements,0,423,2401
+gpt-4,1,487,2764
+opt-iml,1,822,4473
+davinci,1,704,4341
+chatgpt,1,436,2733
+flan_t5,1,713,4374
+gpt-4,1,372,2177
+opinion statements,0,773,4474
+webtext,0,808,4159
+opinion statements,0,835,4589
+chatgpt,1,379,2278
+flan_t5,1,444,2411
+openwebtext,0,858,4933
+openwebtext,0,495,3147
+flan_t5,1,606,3596
+scientific research,0,313,1839
+webtext,0,440,2641
+chatgpt,1,382,2513
+answers,0,1178,5907
+chatgpt,1,473,2864
+answers,0,1329,7888
+chatgpt,1,338,2232
+chatgpt,1,470,2883
+opinion statements,0,472,2755
+news articles,0,1426,8345
+opinion statements,0,499,2841
+gpt-4,1,314,1990
+gpt-3.5,1,605,3496
+opinion statements,0,646,3869
+webtext,0,771,5133
+gpt-3,1,454,2326
+openwebtext,0,524,3475
+flan_t5,1,439,3074
+opinion statements,0,435,2473
+openwebtext,0,500,3054
+opinion statements,0,521,2979
+gpt-3,1,375,2093
+webtext,0,836,4756
+opinion statements,0,417,2295
+opinion statements,0,440,2409
+gpt2,1,629,3753
+answers,0,882,5148
+webtext,0,830,4839
+gpt2,1,877,5169
+opinion statements,0,515,3108
+webtext,0,622,3665
+chatgpt,1,389,2334
+answers,0,819,4592
+opinion statements,0,991,5386
+chatgpt,1,378,2207
+answers,0,883,5382
+chatgpt,1,569,3456
+flan_t5,1,484,3128
+openwebtext,0,972,5760
+openwebtext,0,630,3534
+answers,0,856,4931
+scientific research,0,365,2282
+gpt-3.5,1,933,5745
+news articles,0,1415,8123
+chatgpt,1,392,2581
+gpt-4,1,421,2533
+webtext,0,379,2354
+chatgpt,1,412,2674
+opt-iml,1,869,4758
+chatgpt,1,508,3009
+answers,0,925,5145
+news articles,0,869,4662
+gpt2,1,761,4517
+scientific research,0,328,1683
+gpt2,1,628,3974
+opinion statements,0,459,2631
+webtext,0,810,5049
+news articles,0,1161,6108
+flan_t5,1,615,3792
+opt-iml,1,548,3333
+openwebtext,0,562,3340
+answers,0,1286,7236
+opinion statements,0,412,2255
+gpt-3,1,458,2127
+chatgpt,1,394,2446
+gpt-4,1,401,2411
+davinci,1,877,5458
+gpt-4,1,453,2905
+answers,0,865,5307
+openwebtext,0,380,2325
+flan_t5,1,878,5438
+openwebtext,0,817,4796
+openwebtext,0,434,2708
+openwebtext,0,1399,8793
+openwebtext,0,954,5685
+chatgpt,1,454,2548
+openwebtext,0,950,5517
+openwebtext,0,1028,5688
+openwebtext,0,899,6022
+gpt-3.5,1,505,2963
+opinion statements,0,497,2725
+opinion statements,0,516,2849
+scientific research,0,311,1988
+gpt2,1,823,4409
+openwebtext,0,386,2328
+chatgpt,1,408,2525
+openwebtext,0,776,4689
+opinion statements,0,774,4584
+opinion statements,0,642,3461
+openwebtext,0,742,4368
+chatgpt,1,424,2569
+answers,0,965,5721
+openwebtext,0,1161,7281
+davinci,1,1010,4825
+answers,0,1176,6676
+chatgpt,1,620,3894
+gpt-4,1,427,2516
+davinci,1,652,3930
+opt-iml,1,424,2699
+gpt-4,1,314,1906
+opt-iml,1,545,3397
+opt-iml,1,439,2535
+gpt-4,1,434,2576
+openwebtext,0,553,3414
+chatgpt,1,373,2242
+gpt-3.5,1,566,3108
+openwebtext,0,1305,8083
+davinci,1,518,3593
+gpt-4,1,387,2333
+gpt-4,1,378,2176
+davinci,1,617,3616
+davinci,1,496,3152
+opinion statements,0,519,3102
+chatgpt,1,521,3528
+gpt-4,1,466,3127
+gpt-3,1,391,2255
+openwebtext,0,596,3547
+opinion statements,0,433,2568
+opt-iml,1,444,2456
+chatgpt,1,360,2168
+chatgpt,1,378,2497
+opt-iml,1,883,5269
+news articles,0,1186,6624
+davinci,1,407,2458
+news articles,0,849,4920
+webtext,0,732,4310
+opt-iml,1,420,2459
+flan_t5,1,876,5240
+news articles,0,850,4926
+openwebtext,0,495,3287
+webtext,0,606,3712
+opinion statements,0,676,3909
+davinci,1,862,5593
+openwebtext,0,473,2859
+flan_t5,1,577,3717
+gpt2,1,824,4560
+webtext,0,825,4945
+news articles,0,1017,5837
+openwebtext,0,380,2395
+opinion statements,0,568,3303
+answers,0,1285,7432
+opinion statements,0,480,2508
+chatgpt,1,290,1796
+opinion statements,0,501,2805
+webtext,0,524,3205
+answers,0,1127,6399
+opinion statements,0,427,2460
+opt-iml,1,743,4612
+gpt-4,1,360,2103
+news articles,0,866,4937
+gpt-4,1,467,2722
+opinion statements,0,476,2876
+opt-iml,1,442,2442
+openwebtext,0,472,2724
+openwebtext,0,1272,7627
+davinci,1,450,2708
+openwebtext,0,727,4172
+openwebtext,0,680,4255
+opinion statements,0,428,2331
+gpt-4,1,484,2835
+opinion statements,0,732,4101
+opinion statements,0,461,2788
+opt-iml,1,787,5458
+openwebtext,0,418,2440
+openwebtext,0,466,3181
+blog,0,449,2640
+answers,0,1285,8059
+gpt-4,1,473,3003
+davinci,1,908,6147
+news articles,0,1092,5985
+opinion statements,0,402,2237
+webtext,0,762,4623
+openwebtext,0,724,4678
+openwebtext,0,678,3830
+opinion statements,0,931,5450
+opinion statements,0,539,2919
+flan_t5,1,891,5508
+davinci,1,436,2509
+blog,0,420,2236
+opinion statements,0,1033,5916
+chatgpt,1,377,2443
+openwebtext,0,472,2937
+flan_t5,1,414,2389
+opinion statements,0,509,2864
+blog,0,409,2222
+chatgpt,1,626,4035
+chatgpt,1,405,2623
+webtext,0,769,4688
+opt-iml,1,518,3402
+gpt-3.5,1,919,6002
+gpt-4,1,365,2256
+answers,0,917,5251
+openwebtext,0,609,3612
+opinion statements,0,476,2654
+news articles,0,1007,6729
+news articles,0,823,4806
+answers,0,1395,7815
+openwebtext,0,954,5905
+opt-iml,1,849,5254
+gpt-4,1,408,2446
+gpt2,1,850,5272
+opt-iml,1,626,3775
+gpt-4,1,425,2485
+openwebtext,0,510,3218
+davinci,1,491,3025
+gpt-3.5,1,861,5016
+gpt-3.5,1,830,4372
+openwebtext,0,1283,7844
+gpt-4,1,430,2671
+webtext,0,406,2545
+gpt-4,1,432,2705
+chatgpt,1,336,2151
+news articles,0,822,4594
+scientific research,0,332,2132
+chatgpt,1,567,3257
+openwebtext,0,772,4633
+openwebtext,0,830,4736
+openwebtext,0,908,5328
+flan_t5,1,751,4677
+gpt-4,1,358,2105
+gpt-3,1,415,2718
+gpt-3.5,1,477,2873
+webtext,0,762,4458
+blog,0,438,2318
+davinci,1,720,4826
+opinion statements,0,575,3169
+flan_t5,1,411,2543
+openwebtext,0,383,2398
+chatgpt,1,450,2838
+gpt2,1,739,3875
+openwebtext,0,846,5081
+chatgpt,1,493,3146
+scientific research,0,358,2585
+opinion statements,0,906,5319
+gpt2,1,778,4763
+chatgpt,1,630,4191
+openwebtext,0,1036,6726
+gpt-4,1,446,2830
+answers,0,1135,6318
+gpt-4,1,376,2122
+opinion statements,0,591,3338
+openwebtext,0,837,5398
+gpt-4,1,390,2259
+openwebtext,0,382,2433
+flan_t5,1,731,4483
+opinion statements,0,480,2675
+opinion statements,0,560,3158
+chatgpt,1,424,2845
+news articles,0,883,5160
+chatgpt,1,769,4512
+blog,0,400,2147
+chatgpt,1,469,2670
+webtext,0,696,4038
+opinion statements,0,578,3413
+openwebtext,0,610,3800
+openwebtext,0,1060,6005
+openwebtext,0,458,2843
+news articles,0,923,4901
+flan_t5,1,627,3725
+openwebtext,0,703,4095
+opinion statements,0,507,2795
+chatgpt,1,457,2808
+gpt-4,1,399,2286
+chatgpt,1,420,2600
+opinion statements,0,597,3487
+openwebtext,0,945,5818
+chatgpt,1,404,2476
+chatgpt,1,496,3005
+answers,0,1265,6812
+chatgpt,1,413,2632
+news articles,0,1041,5795
+gpt2,1,392,2359
+flan_t5,1,521,2857
+webtext,0,804,5194
+opinion statements,0,947,5481
+openwebtext,0,602,3714
+openwebtext,0,741,4354
+answers,0,1117,5881
+flan_t5,1,865,4937
+chatgpt,1,538,3347
+gpt2,1,789,4929
+opinion statements,0,663,4003
+opt-iml,1,672,4832
+chatgpt,1,397,2685
+openwebtext,0,1349,7672
+opinion statements,0,585,3375
+gpt-3,1,425,2427
+openwebtext,0,600,3971
+opinion statements,0,669,3646
+chatgpt,1,556,3257
+davinci,1,915,6306
+openwebtext,0,556,3551
+gpt-3.5,1,502,3328
+openwebtext,0,1149,7206
+answers,0,1377,7814
+answers,0,1391,7935
+gpt-4,1,440,2594
+opinion statements,0,1005,5572
+openwebtext,0,594,3324
+opt-iml,1,508,3072
+openwebtext,0,395,2490
+davinci,1,547,3433
+gpt-3.5,1,542,3342
+opinion statements,0,452,2600
+gpt-4,1,400,2498
+flan_t5,1,840,4757
+chatgpt,1,426,2861
+opinion statements,0,435,2410
+gpt2,1,827,4717
+openwebtext,0,768,4924
+gpt2,1,783,4375
+gpt2,1,806,4476
+gpt2,1,471,2582
+openwebtext,0,419,2470
+opinion statements,0,485,2688
+gpt-3.5,1,545,3122
+davinci,1,647,3412
+davinci,1,937,6253
+gpt-3.5,1,571,3387
+chatgpt,1,513,2960
+davinci,1,948,6532
+gpt-4,1,468,3033
+chatgpt,1,499,3396
+chatgpt,1,299,1827
+opinion statements,0,447,2341
+news articles,0,919,5310
+chatgpt,1,690,4388
+blog,0,464,2446
+chatgpt,1,478,3040
+openwebtext,0,735,4614
+webtext,0,387,2117
+opt-iml,1,525,2910
+gpt-4,1,396,2603
+flan_t5,1,824,4602
+davinci,1,443,3053
+openwebtext,0,564,3208
+gpt-3,1,442,2281
+davinci,1,487,3615
+davinci,1,879,6272
+flan_t5,1,875,5571
+gpt-4,1,425,2513
+opt-iml,1,768,4562
+gpt-3.5,1,779,3992
+opt-iml,1,412,2292
+gpt2,1,862,5107
+opt-iml,1,583,3713
+chatgpt,1,539,3177
+webtext,0,735,4613
+openwebtext,0,734,4315
+opinion statements,0,492,2666
+opt-iml,1,879,5637
+opinion statements,0,499,2841
+gpt-4,1,429,2550
+openwebtext,0,477,2979
+opinion statements,0,714,4125
+answers,0,876,4504
+gpt2,1,511,3063
+openwebtext,0,815,4371
+gpt2,1,783,4184
+chatgpt,1,484,3051
+gpt2,1,843,5065
+chatgpt,1,436,2839
+gpt-3.5,1,598,3331
+gpt2,1,422,2491
+opinion statements,0,831,4756
+openwebtext,0,1381,7995
+opinion statements,0,954,5358
+news articles,0,869,5116
+opinion statements,0,863,4676
+gpt-4,1,389,2516
+openwebtext,0,574,3595
+openwebtext,0,902,5472
+opt-iml,1,872,5219
+opinion statements,0,460,2589
+openwebtext,0,494,3028
+openwebtext,0,749,4366
+opinion statements,0,418,2501
+opt-iml,1,886,5626

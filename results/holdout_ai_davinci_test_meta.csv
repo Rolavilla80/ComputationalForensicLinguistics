@@ -1,0 +1,867 @@
+source,label,n_tokens,n_chars
+openwebtext,0,381,2119
+scientific research,0,436,2854
+openwebtext,0,811,5030
+openwebtext,0,707,4634
+davinci,1,932,6168
+davinci,1,694,4635
+blog,0,386,2011
+davinci,1,461,2950
+opinion statements,0,411,2278
+davinci,1,442,2653
+opinion statements,0,676,3984
+opinion statements,0,1285,7030
+davinci,1,508,3039
+answers,0,984,5639
+opinion statements,0,444,2627
+answers,0,1128,6380
+davinci,1,875,6181
+openwebtext,0,788,4730
+openwebtext,0,1250,7728
+davinci,1,757,4800
+answers,0,1030,5800
+davinci,1,450,2830
+davinci,1,852,4692
+davinci,1,476,2701
+openwebtext,0,1265,6859
+davinci,1,757,3993
+opinion statements,0,521,2908
+openwebtext,0,726,4719
+davinci,1,427,2518
+davinci,1,512,2746
+openwebtext,0,722,4093
+answers,0,872,4954
+opinion statements,0,541,2871
+opinion statements,0,741,4292
+openwebtext,0,947,5871
+scientific research,0,311,1846
+news articles,0,1208,6303
+openwebtext,0,880,5251
+davinci,1,683,4459
+davinci,1,872,5929
+davinci,1,756,5103
+davinci,1,620,4108
+davinci,1,808,5576
+davinci,1,559,3573
+davinci,1,509,3094
+davinci,1,619,4018
+davinci,1,915,6306
+opinion statements,0,905,5145
+davinci,1,450,2767
+openwebtext,0,810,4711
+davinci,1,576,3523
+davinci,1,924,5914
+openwebtext,0,551,3223
+davinci,1,580,3669
+davinci,1,554,3429
+davinci,1,790,4570
+openwebtext,0,1227,7298
+davinci,1,407,2546
+opinion statements,0,455,2583
+davinci,1,459,2871
+davinci,1,489,3781
+openwebtext,0,517,3308
+davinci,1,623,4310
+davinci,1,617,4364
+scientific research,0,412,2656
+davinci,1,877,5458
+webtext,0,428,2246
+davinci,1,547,3433
+openwebtext,0,817,4950
+davinci,1,647,3412
+davinci,1,554,3244
+davinci,1,836,5563
+openwebtext,0,934,5212
+openwebtext,0,444,2912
+davinci,1,622,3856
+davinci,1,507,3003
+answers,0,1417,8234
+davinci,1,407,2575
+davinci,1,488,2940
+davinci,1,415,2297
+davinci,1,503,2997
+news articles,0,861,4988
+davinci,1,881,4991
+answers,0,1224,7078
+davinci,1,505,3092
+davinci,1,476,3069
+davinci,1,877,6042
+opinion statements,0,1178,6534
+openwebtext,0,819,4931
+davinci,1,862,5593
+opinion statements,0,514,2984
+scientific research,0,375,2205
+scientific research,0,313,1770
+opinion statements,0,622,3548
+openwebtext,0,915,5504
+davinci,1,419,2426
+davinci,1,491,3025
+answers,0,1168,6286
+davinci,1,598,3734
+davinci,1,503,3284
+davinci,1,901,5566
+blog,0,378,2019
+answers,0,1046,5588
+openwebtext,0,585,3740
+davinci,1,497,2691
+openwebtext,0,576,3403
+webtext,0,789,4785
+davinci,1,520,2790
+openwebtext,0,403,2187
+davinci,1,922,6040
+davinci,1,924,5974
+opinion statements,0,747,4122
+davinci,1,502,2945
+davinci,1,496,3388
+opinion statements,0,410,2298
+davinci,1,864,5151
+blog,0,627,3151
+openwebtext,0,474,2485
+davinci,1,479,3164
+davinci,1,812,4950
+davinci,1,871,5102
+davinci,1,864,5122
+davinci,1,480,2622
+opinion statements,0,483,2742
+davinci,1,857,5881
+opinion statements,0,458,2504
+openwebtext,0,454,2663
+davinci,1,402,2589
+davinci,1,512,2754
+openwebtext,0,896,5155
+openwebtext,0,699,4280
+davinci,1,443,2616
+opinion statements,0,641,3755
+davinci,1,956,6334
+davinci,1,897,5683
+davinci,1,404,2423
+webtext,0,435,2671
+davinci,1,604,3984
+davinci,1,835,4340
+scientific research,0,464,3007
+opinion statements,0,696,3997
+openwebtext,0,1254,7181
+openwebtext,0,613,3698
+openwebtext,0,1232,7520
+davinci,1,852,5502
+davinci,1,950,6611
+opinion statements,0,597,3259
+davinci,1,454,2803
+news articles,0,898,5353
+davinci,1,450,2926
+davinci,1,792,4589
+openwebtext,0,648,4293
+davinci,1,515,3590
+davinci,1,924,6646
+davinci,1,420,2913
+davinci,1,431,2593
+davinci,1,616,3520
+davinci,1,641,4332
+openwebtext,0,762,4215
+davinci,1,860,5219
+davinci,1,619,4091
+davinci,1,465,3117
+scientific research,0,301,1908
+news articles,0,1033,6017
+webtext,0,818,4937
+blog,0,397,1968
+openwebtext,0,738,4479
+openwebtext,0,488,2988
+openwebtext,0,543,3054
+opinion statements,0,469,2804
+openwebtext,0,615,3738
+scientific research,0,352,2054
+openwebtext,0,1154,6835
+opinion statements,0,535,2988
+news articles,0,864,4962
+scientific research,0,310,2032
+davinci,1,403,2619
+davinci,1,953,7099
+opinion statements,0,406,2237
+davinci,1,720,4826
+opinion statements,0,906,4913
+davinci,1,830,6311
+blog,0,385,2313
+davinci,1,409,2563
+opinion statements,0,672,3680
+davinci,1,640,4267
+answers,0,1120,6633
+davinci,1,977,7037
+davinci,1,420,2356
+blog,0,653,3233
+davinci,1,475,2768
+openwebtext,0,964,5764
+davinci,1,573,3447
+news articles,0,1388,7502
+opinion statements,0,512,2858
+openwebtext,0,1316,7832
+openwebtext,0,691,4348
+davinci,1,532,3190
+opinion statements,0,864,5283
+opinion statements,0,433,2528
+davinci,1,436,2509
+davinci,1,478,3149
+opinion statements,0,672,3752
+opinion statements,0,710,3916
+davinci,1,861,5570
+davinci,1,737,3910
+opinion statements,0,623,3533
+scientific research,0,312,2199
+davinci,1,621,3929
+davinci,1,444,2506
+webtext,0,782,4517
+davinci,1,460,2398
+openwebtext,0,394,2304
+davinci,1,766,4647
+davinci,1,402,2273
+davinci,1,699,4156
+opinion statements,0,414,2510
+davinci,1,896,5925
+openwebtext,0,768,4754
+opinion statements,0,408,2446
+openwebtext,0,1364,7447
+davinci,1,484,2760
+openwebtext,0,1182,6558
+davinci,1,634,4234
+opinion statements,0,664,3647
+scientific research,0,360,2032
+davinci,1,431,2645
+davinci,1,467,3125
+davinci,1,402,2506
+davinci,1,890,5905
+davinci,1,639,4671
+davinci,1,593,3912
+openwebtext,0,794,4396
+davinci,1,404,2417
+davinci,1,590,3565
+news articles,0,1101,6089
+davinci,1,547,3596
+blog,0,505,2840
+answers,0,1335,7945
+openwebtext,0,548,3669
+openwebtext,0,1434,8899
+webtext,0,764,4545
+davinci,1,469,2683
+openwebtext,0,634,3899
+davinci,1,847,4740
+openwebtext,0,379,2489
+davinci,1,671,4225
+scientific research,0,387,2688
+davinci,1,409,2449
+webtext,0,747,4304
+davinci,1,710,2533
+opinion statements,0,476,2743
+davinci,1,874,4870
+davinci,1,481,3048
+davinci,1,769,4326
+davinci,1,907,6524
+openwebtext,0,1348,7978
+openwebtext,0,624,3350
+davinci,1,761,5451
+davinci,1,701,5143
+davinci,1,926,5871
+openwebtext,0,429,2804
+davinci,1,644,4453
+davinci,1,519,3721
+opinion statements,0,676,3871
+answers,0,829,4482
+davinci,1,754,4688
+davinci,1,687,4353
+davinci,1,954,6253
+opinion statements,0,412,2523
+davinci,1,464,3016
+davinci,1,870,5492
+openwebtext,0,516,3103
+answers,0,953,5417
+davinci,1,404,2724
+davinci,1,748,4909
+davinci,1,593,4060
+davinci,1,614,3918
+openwebtext,0,775,4319
+davinci,1,450,2708
+davinci,1,766,4503
+davinci,1,404,2345
+answers,0,1205,6544
+openwebtext,0,1104,8411
+davinci,1,912,6281
+webtext,0,877,5118
+davinci,1,813,4824
+openwebtext,0,747,4482
+davinci,1,896,5998
+answers,0,1332,8140
+openwebtext,0,489,2805
+webtext,0,827,5309
+davinci,1,931,6052
+webtext,0,404,2574
+davinci,1,418,2876
+opinion statements,0,517,2904
+davinci,1,899,6159
+davinci,1,433,2811
+openwebtext,0,428,2630
+scientific research,0,341,1943
+davinci,1,547,3224
+davinci,1,414,2517
+opinion statements,0,649,3567
+davinci,1,432,2632
+answers,0,834,4915
+davinci,1,942,6066
+openwebtext,0,846,5397
+openwebtext,0,534,3216
+davinci,1,857,5237
+davinci,1,889,6089
+davinci,1,537,3255
+davinci,1,516,3457
+davinci,1,476,3016
+davinci,1,402,2622
+openwebtext,0,1335,7563
+davinci,1,668,4356
+davinci,1,453,2936
+opinion statements,0,755,4056
+davinci,1,610,3928
+opinion statements,0,651,3718
+opinion statements,0,513,2827
+davinci,1,450,2600
+scientific research,0,348,2297
+scientific research,0,310,2072
+openwebtext,0,650,4272
+davinci,1,681,4598
+openwebtext,0,453,2661
+opinion statements,0,1138,6429
+davinci,1,702,4395
+davinci,1,575,3353
+openwebtext,0,1104,7021
+openwebtext,0,840,4554
+davinci,1,870,5626
+davinci,1,799,5943
+openwebtext,0,584,3510
+blog,0,380,1921
+davinci,1,820,5305
+davinci,1,798,5573
+openwebtext,0,387,2411
+davinci,1,845,5979
+openwebtext,0,426,2465
+davinci,1,848,5521
+davinci,1,474,3043
+blog,0,554,2954
+openwebtext,0,459,2835
+openwebtext,0,1254,7144
+opinion statements,0,542,3026
+openwebtext,0,372,2615
+davinci,1,842,4967
+davinci,1,950,6270
+openwebtext,0,499,3073
+davinci,1,908,6066
+davinci,1,908,6147
+davinci,1,478,2744
+davinci,1,694,4769
+openwebtext,0,653,3925
+webtext,0,781,4840
+opinion statements,0,429,2421
+opinion statements,0,506,2702
+davinci,1,676,4319
+openwebtext,0,1483,9268
+openwebtext,0,956,5800
+davinci,1,676,4478
+openwebtext,0,607,3447
+openwebtext,0,389,2581
+webtext,0,642,3711
+davinci,1,556,3691
+openwebtext,0,1358,7640
+davinci,1,474,3292
+openwebtext,0,502,3009
+davinci,1,946,6714
+davinci,1,974,6388
+davinci,1,432,2664
+davinci,1,557,3000
+davinci,1,405,2688
+scientific research,0,359,1964
+openwebtext,0,596,3357
+davinci,1,612,3896
+openwebtext,0,1456,9143
+opinion statements,0,568,3241
+answers,0,875,5071
+davinci,1,481,2830
+scientific research,0,319,1720
+davinci,1,952,6151
+davinci,1,574,3415
+davinci,1,932,5971
+davinci,1,453,2933
+davinci,1,612,4046
+news articles,0,1353,7890
+webtext,0,811,4965
+openwebtext,0,518,3313
+openwebtext,0,482,3205
+davinci,1,469,2607
+opinion statements,0,402,2288
+davinci,1,635,4033
+davinci,1,592,3985
+davinci,1,844,4802
+scientific research,0,574,3426
+davinci,1,409,2495
+opinion statements,0,590,3174
+davinci,1,518,3593
+davinci,1,665,4113
+opinion statements,0,632,3678
+openwebtext,0,688,4210
+davinci,1,722,4956
+davinci,1,869,5795
+answers,0,1046,6437
+blog,0,422,2650
+davinci,1,524,3032
+davinci,1,875,5288
+webtext,0,848,5082
+davinci,1,656,3948
+davinci,1,540,3732
+blog,0,464,2347
+openwebtext,0,435,2837
+davinci,1,593,3328
+davinci,1,849,5491
+answers,0,1099,5957
+davinci,1,792,5097
+davinci,1,781,4475
+scientific research,0,370,2633
+davinci,1,513,3369
+davinci,1,590,4071
+davinci,1,1016,5595
+openwebtext,0,655,3849
+answers,0,908,5207
+opinion statements,0,961,5649
+davinci,1,420,2543
+answers,0,1064,6291
+davinci,1,778,5424
+davinci,1,523,3256
+openwebtext,0,412,2393
+davinci,1,793,5305
+davinci,1,602,3839
+webtext,0,817,5036
+openwebtext,0,435,2662
+opinion statements,0,713,4175
+davinci,1,534,3736
+davinci,1,484,2883
+opinion statements,0,490,2784
+davinci,1,748,4881
+answers,0,867,4919
+blog,0,962,4854
+answers,0,1241,6866
+openwebtext,0,501,3130
+davinci,1,441,2615
+davinci,1,545,2901
+openwebtext,0,847,5370
+davinci,1,496,3152
+davinci,1,404,2639
+davinci,1,495,3063
+opinion statements,0,484,2726
+davinci,1,905,5750
+davinci,1,463,2514
+davinci,1,438,3036
+openwebtext,0,993,6213
+davinci,1,553,3228
+davinci,1,642,4274
+openwebtext,0,652,3659
+openwebtext,0,441,2607
+davinci,1,814,4815
+davinci,1,890,6034
+openwebtext,0,432,2753
+opinion statements,0,411,2431
+davinci,1,832,5068
+webtext,0,509,3129
+openwebtext,0,454,2736
+opinion statements,0,501,2829
+answers,0,1436,7880
+opinion statements,0,715,3924
+davinci,1,672,4609
+davinci,1,498,2978
+openwebtext,0,606,3872
+davinci,1,892,5500
+opinion statements,0,445,2414
+davinci,1,731,5002
+davinci,1,783,5108
+opinion statements,0,584,3290
+webtext,0,395,2415
+davinci,1,664,4147
+openwebtext,0,560,3190
+davinci,1,901,5305
+davinci,1,468,2648
+openwebtext,0,831,4474
+opinion statements,0,409,2426
+opinion statements,0,593,3286
+davinci,1,481,3058
+davinci,1,456,2850
+opinion statements,0,553,3172
+davinci,1,751,4832
+openwebtext,0,565,3184
+davinci,1,439,2804
+openwebtext,0,530,3006
+davinci,1,752,4835
+davinci,1,418,2536
+opinion statements,0,421,2318
+davinci,1,547,3343
+davinci,1,482,3231
+davinci,1,942,6175
+davinci,1,687,4195
+webtext,0,373,2449
+davinci,1,491,3107
+davinci,1,425,2593
+webtext,0,804,5268
+davinci,1,948,6667
+davinci,1,411,2722
+davinci,1,411,2630
+davinci,1,497,3336
+davinci,1,454,2805
+davinci,1,929,6643
+answers,0,1236,7523
+davinci,1,693,4474
+openwebtext,0,629,3696
+davinci,1,917,6743
+davinci,1,682,4929
+davinci,1,580,3406
+news articles,0,1330,7477
+opinion statements,0,551,3189
+answers,0,1482,8154
+answers,0,840,5436
+davinci,1,722,5042
+davinci,1,515,2821
+answers,0,869,4942
+davinci,1,944,6221
+davinci,1,774,4051
+davinci,1,481,3371
+davinci,1,557,3500
+opinion statements,0,605,3455
+openwebtext,0,481,2792
+davinci,1,650,3883
+davinci,1,795,5140
+answers,0,920,5367
+davinci,1,671,4268
+davinci,1,502,3158
+openwebtext,0,457,2773
+openwebtext,0,661,3487
+openwebtext,0,527,3214
+opinion statements,0,717,3935
+openwebtext,0,661,3989
+openwebtext,0,951,5388
+opinion statements,0,423,2494
+davinci,1,907,5382
+opinion statements,0,538,3127
+davinci,1,712,4367
+opinion statements,0,518,3025
+davinci,1,692,4145
+davinci,1,944,6552
+news articles,0,968,5359
+davinci,1,903,5902
+opinion statements,0,471,2516
+opinion statements,0,489,2724
+openwebtext,0,763,4822
+opinion statements,0,766,4354
+opinion statements,0,520,2958
+davinci,1,519,3305
+opinion statements,0,461,2545
+davinci,1,610,3644
+davinci,1,928,6073
+scientific research,0,312,1730
+blog,0,653,3133
+davinci,1,445,2831
+davinci,1,599,3461
+davinci,1,919,6202
+openwebtext,0,466,2797
+davinci,1,437,2488
+scientific research,0,302,2053
+answers,0,895,4940
+webtext,0,385,2242
+openwebtext,0,619,3672
+davinci,1,643,3499
+openwebtext,0,875,5209
+openwebtext,0,689,4010
+openwebtext,0,1164,6650
+opinion statements,0,514,2762
+news articles,0,842,4548
+opinion statements,0,460,2559
+davinci,1,704,4341
+openwebtext,0,520,2856
+davinci,1,726,4582
+answers,0,838,4829
+openwebtext,0,538,3568
+openwebtext,0,1073,5846
+davinci,1,804,5793
+davinci,1,608,3488
+opinion statements,0,991,5880
+davinci,1,821,5146
+davinci,1,405,2253
+davinci,1,406,2609
+openwebtext,0,1245,7529
+davinci,1,791,4613
+davinci,1,898,5367
+davinci,1,729,4203
+davinci,1,415,2389
+openwebtext,0,1475,8703
+davinci,1,625,3256
+opinion statements,0,730,4086
+opinion statements,0,418,2307
+davinci,1,952,6412
+blog,0,1138,6441
+davinci,1,919,6609
+openwebtext,0,778,4581
+davinci,1,561,3530
+davinci,1,502,2727
+openwebtext,0,1029,5821
+openwebtext,0,571,3527
+openwebtext,0,753,4699
+openwebtext,0,1349,8313
+davinci,1,550,3594
+davinci,1,505,3383
+davinci,1,408,2687
+davinci,1,730,3949
+opinion statements,0,766,4164
+openwebtext,0,993,6096
+opinion statements,0,487,2859
+openwebtext,0,1048,6852
+davinci,1,739,4960
+davinci,1,741,4448
+opinion statements,0,460,2530
+opinion statements,0,407,2309
+openwebtext,0,847,5456
+davinci,1,463,2429
+openwebtext,0,527,3206
+davinci,1,480,3614
+davinci,1,658,4414
+davinci,1,784,4424
+opinion statements,0,488,2552
+scientific research,0,437,2996
+davinci,1,749,4788
+openwebtext,0,510,3000
+davinci,1,641,4482
+news articles,0,1124,6598
+davinci,1,522,3096
+davinci,1,509,3254
+davinci,1,417,2600
+davinci,1,789,4477
+davinci,1,665,4405
+davinci,1,635,4089
+opinion statements,0,604,3222
+davinci,1,578,3437
+davinci,1,408,2196
+openwebtext,0,1090,6687
+davinci,1,771,5303
+openwebtext,0,757,4468
+davinci,1,415,2452
+opinion statements,0,555,2954
+openwebtext,0,903,5321
+webtext,0,798,4877
+davinci,1,614,3796
+webtext,0,822,5085
+openwebtext,0,388,2105
+answers,0,928,5366
+opinion statements,0,822,4803
+opinion statements,0,422,2434
+openwebtext,0,751,4574
+scientific research,0,301,1837
+davinci,1,430,2551
+openwebtext,0,740,4091
+openwebtext,0,647,3941
+davinci,1,545,3491
+opinion statements,0,427,2458
+opinion statements,0,440,2529
+openwebtext,0,814,5027
+davinci,1,801,4360
+davinci,1,597,3953
+opinion statements,0,647,3995
+openwebtext,0,1221,7562
+davinci,1,437,2839
+opinion statements,0,563,3319
+davinci,1,597,4039
+opinion statements,0,653,3646
+davinci,1,487,3615
+opinion statements,0,666,3784
+davinci,1,409,2471
+opinion statements,0,504,3098
+davinci,1,452,2715
+davinci,1,554,3444
+openwebtext,0,673,3988
+openwebtext,0,601,3906
+davinci,1,519,3161
+davinci,1,433,2893
+davinci,1,430,2610
+davinci,1,610,3901
+openwebtext,0,488,2871
+webtext,0,768,4616
+openwebtext,0,800,4683
+davinci,1,463,2588
+opinion statements,0,491,2773
+scientific research,0,329,2235
+opinion statements,0,404,2295
+openwebtext,0,1005,5614
+openwebtext,0,429,2603
+openwebtext,0,456,2899
+opinion statements,0,449,2705
+answers,0,1281,7208
+openwebtext,0,675,4018
+opinion statements,0,549,2959
+answers,0,854,5105
+scientific research,0,313,1990
+davinci,1,852,5245
+davinci,1,587,3363
+answers,0,820,4643
+davinci,1,708,4644
+news articles,0,1359,7786
+davinci,1,920,6063
+opinion statements,0,527,2868
+davinci,1,692,4989
+blog,0,540,2839
+openwebtext,0,952,6314
+openwebtext,0,425,2628
+webtext,0,474,2968
+davinci,1,840,5236
+openwebtext,0,638,3696
+davinci,1,589,3492
+webtext,0,792,4585
+blog,0,449,2581
+opinion statements,0,547,3080
+opinion statements,0,476,2751
+openwebtext,0,419,2494
+davinci,1,629,3987
+davinci,1,421,2548
+davinci,1,419,2135
+openwebtext,0,1314,8240
+davinci,1,617,3616
+davinci,1,965,5488
+webtext,0,812,4703
+openwebtext,0,543,3382
+news articles,0,1157,6466
+answers,0,1258,7426
+openwebtext,0,451,2724
+opinion statements,0,1312,7628
+davinci,1,834,5322
+answers,0,1193,6727
+news articles,0,961,5790
+davinci,1,413,2270
+opinion statements,0,1257,7183
+davinci,1,904,6241
+davinci,1,923,6022
+davinci,1,639,3777
+davinci,1,763,4827
+davinci,1,926,6028
+news articles,0,971,5806
+davinci,1,599,3617
+news articles,0,851,5036
+davinci,1,432,2637
+davinci,1,515,2793
+davinci,1,407,2458
+openwebtext,0,1156,6845
+davinci,1,424,2697
+openwebtext,0,1455,8853
+opinion statements,0,897,5066
+davinci,1,757,4282
+davinci,1,887,6460
+opinion statements,0,684,4308
+openwebtext,0,639,3836
+davinci,1,773,4541
+openwebtext,0,528,3349
+openwebtext,0,981,6001
+davinci,1,879,6272
+davinci,1,947,6845
+davinci,1,714,4948
+davinci,1,914,5998
+openwebtext,0,875,5304
+davinci,1,432,2558
+davinci,1,656,3983
+openwebtext,0,631,3619
+davinci,1,617,3834
+davinci,1,898,5578
+davinci,1,472,3054
+opinion statements,0,428,2349
+opinion statements,0,703,3744
+opinion statements,0,424,2441
+davinci,1,507,2737
+opinion statements,0,437,2664
+davinci,1,567,3642
+answers,0,914,5356
+openwebtext,0,540,3902
+opinion statements,0,617,3538
+openwebtext,0,1084,6417
+davinci,1,544,3344
+davinci,1,637,3554
+davinci,1,704,4396
+opinion statements,0,494,2882
+webtext,0,795,4931
+davinci,1,416,2432
+openwebtext,0,935,5539
+opinion statements,0,425,2374
+openwebtext,0,506,3292
+davinci,1,819,5579
+opinion statements,0,469,2674
+davinci,1,426,2429
+davinci,1,1010,4825
+opinion statements,0,469,2736
+blog,0,1283,7066
+davinci,1,860,5061
+davinci,1,631,3783
+davinci,1,921,6244
+opinion statements,0,1207,6484
+answers,0,998,5343
+davinci,1,404,2313
+openwebtext,0,1113,6372
+davinci,1,443,3053
+davinci,1,846,5775
+davinci,1,469,2848
+webtext,0,711,4376
+davinci,1,465,2658
+webtext,0,592,3663
+davinci,1,589,3320
+davinci,1,948,6532
+davinci,1,488,3267
+scientific research,0,362,2436
+davinci,1,428,2715
+davinci,1,537,3259
+davinci,1,696,3955
+opinion statements,0,417,2199
+openwebtext,0,1192,7010
+opinion statements,0,465,2616
+opinion statements,0,465,2547
+scientific research,0,313,2153
+davinci,1,586,3679
+opinion statements,0,465,2767
+news articles,0,1412,8470
+openwebtext,0,461,2694
+davinci,1,652,3930
+openwebtext,0,507,3044
+opinion statements,0,526,2854
+openwebtext,0,435,2392
+opinion statements,0,461,2921
+openwebtext,0,432,2611
+davinci,1,891,6885
+opinion statements,0,454,2456
+opinion statements,0,432,2418
+opinion statements,0,556,2956
+davinci,1,562,3240
+davinci,1,937,6253
+davinci,1,489,3112
+news articles,0,886,4963
+davinci,1,705,3823
+davinci,1,526,3540
+davinci,1,648,3529
+davinci,1,430,2590
+webtext,0,743,3917
+davinci,1,408,2725
+opinion statements,0,438,2448
+davinci,1,466,2557
+openwebtext,0,891,5345
+davinci,1,496,3083
+news articles,0,912,4849
+davinci,1,769,5085
+opinion statements,0,523,2714
+davinci,1,834,5059
+davinci,1,438,2564
+davinci,1,851,6102
+scientific research,0,319,1896
+davinci,1,477,3070
+davinci,1,618,4124
+openwebtext,0,464,2733
+davinci,1,789,5150
+openwebtext,0,743,4565
+davinci,1,942,6307
+webtext,0,416,2426
+davinci,1,872,4902
+davinci,1,819,5154
+davinci,1,542,3255
+opinion statements,0,636,3404
+openwebtext,0,901,5296
+davinci,1,821,5550

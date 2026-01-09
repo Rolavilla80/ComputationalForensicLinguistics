@@ -1,0 +1,813 @@
+source,label_name,label,pred,proba_ai,correct,n_tokens,n_chars
+opt-iml,ai-generated,1,1,0.6892222222222223,1,523,3272
+opinion statements,human-written,0,0,0.0016666666666666668,1,521,2908
+opt-iml,ai-generated,1,1,0.772172619047619,1,540,2623
+opt-iml,ai-generated,1,1,0.5227222222222223,1,475,2766
+opinion statements,human-written,0,0,0.0,1,469,2674
+opinion statements,human-written,0,1,0.526611111111111,0,676,3984
+opt-iml,ai-generated,1,1,0.6549444444444444,1,583,3713
+opinion statements,human-written,0,1,0.5930555555555557,0,422,2434
+opt-iml,ai-generated,1,1,0.6587777777777778,1,456,2764
+opinion statements,human-written,0,0,0.005833333333333334,1,649,3567
+opt-iml,ai-generated,1,1,0.5886111111111112,1,851,5364
+opt-iml,ai-generated,1,1,0.590920634920635,1,539,3286
+opinion statements,human-written,0,0,0.0,1,905,5145
+answers,human-written,0,0,0.43666666666666665,1,895,4940
+opt-iml,ai-generated,1,1,0.5902777777777777,1,510,3217
+opinion statements,human-written,0,0,0.0011111111111111111,1,672,3680
+opt-iml,ai-generated,1,1,0.6451666666666667,1,459,3069
+opt-iml,ai-generated,1,1,0.671968253968254,1,786,5057
+opt-iml,ai-generated,1,1,0.688111111111111,1,412,2353
+scientific research,human-written,0,0,0.4543888888888889,1,310,2032
+opt-iml,ai-generated,1,1,0.5941666666666666,1,702,4010
+opt-iml,ai-generated,1,0,0.4627222222222223,0,850,6223
+opt-iml,ai-generated,1,1,0.548888888888889,1,431,2349
+opt-iml,ai-generated,1,1,0.8008333333333333,1,430,3450
+opt-iml,ai-generated,1,0,0.32777777777777783,0,873,4634
+opt-iml,ai-generated,1,1,0.5080555555555555,1,881,4849
+openwebtext,human-written,0,0,0.4066666666666667,1,653,3925
+opt-iml,ai-generated,1,1,0.5834761904761906,1,563,3693
+opt-iml,ai-generated,1,1,0.5947539682539683,1,559,2782
+opt-iml,ai-generated,1,1,0.6344444444444445,1,840,5033
+answers,human-written,0,0,0.18088888888888888,1,953,5417
+openwebtext,human-written,0,0,0.4421666666666666,1,412,2393
+opinion statements,human-written,0,1,0.5113015873015873,0,526,2854
+opinion statements,human-written,0,0,0.006666666666666667,1,647,3995
+openwebtext,human-written,0,0,0.4047222222222222,1,675,4018
+opt-iml,ai-generated,1,1,0.605563492063492,1,886,6135
+opt-iml,ai-generated,1,1,0.69,1,431,2723
+opt-iml,ai-generated,1,1,0.7954444444444444,1,405,2424
+opt-iml,ai-generated,1,1,0.5917777777777776,1,852,5021
+opt-iml,ai-generated,1,1,0.5215555555555556,1,601,3335
+opt-iml,ai-generated,1,0,0.46099999999999997,0,851,5160
+scientific research,human-written,0,1,0.5173333333333335,0,301,1908
+opt-iml,ai-generated,1,1,0.6217777777777779,1,473,2674
+opt-iml,ai-generated,1,0,0.49994444444444447,0,708,3982
+news articles,human-written,0,0,0.23062698412698415,1,912,4849
+opt-iml,ai-generated,1,1,0.6182222222222222,1,556,3506
+scientific research,human-written,0,0,0.2895555555555555,1,464,3007
+opinion statements,human-written,0,0,0.0016666666666666668,1,424,2441
+answers,human-written,0,0,0.19655555555555554,1,1335,7945
+openwebtext,human-written,0,1,0.5677777777777777,0,516,3103
+opt-iml,ai-generated,1,1,0.7026944444444445,1,441,2835
+openwebtext,human-written,0,0,0.15916666666666668,1,934,5212
+opinion statements,human-written,0,1,0.5688888888888889,0,730,4086
+webtext,human-written,0,1,0.5306111111111113,0,395,2415
+opt-iml,ai-generated,1,1,0.6379722222222223,1,465,2831
+opt-iml,ai-generated,1,1,0.6067222222222223,1,401,2287
+openwebtext,human-written,0,0,0.35633333333333334,1,956,5800
+opt-iml,ai-generated,1,0,0.4575,0,832,5128
+openwebtext,human-written,0,0,0.3590555555555555,1,403,2187
+openwebtext,human-written,0,0,0.33638888888888885,1,1221,7562
+opt-iml,ai-generated,1,1,0.6152777777777778,1,447,2659
+openwebtext,human-written,0,0,0.29577777777777775,1,619,3672
+opt-iml,ai-generated,1,1,0.6467116402116402,1,754,4387
+opt-iml,ai-generated,1,1,0.7158888888888889,1,637,4300
+openwebtext,human-written,0,0,0.46638888888888885,1,444,2912
+opt-iml,ai-generated,1,1,0.5827962962962964,1,650,3979
+opt-iml,ai-generated,1,1,0.5756111111111111,1,479,2553
+opt-iml,ai-generated,1,1,0.6046666666666667,1,867,5085
+opt-iml,ai-generated,1,1,0.5402777777777779,1,811,5451
+opt-iml,ai-generated,1,0,0.4632222222222222,0,670,4137
+openwebtext,human-written,0,0,0.37183333333333335,1,762,4215
+opinion statements,human-written,0,0,0.005,1,593,3286
+answers,human-written,0,0,0.3122777777777778,1,1436,7880
+opinion statements,human-written,0,0,0.007111111111111111,1,445,2414
+opt-iml,ai-generated,1,0,0.49272222222222223,0,877,5269
+opt-iml,ai-generated,1,0,0.4260555555555556,0,879,5637
+answers,human-written,0,0,0.2203888888888889,1,1205,6544
+opt-iml,ai-generated,1,1,0.6550555555555555,1,491,3068
+opt-iml,ai-generated,1,1,0.6947222222222222,1,445,2949
+opt-iml,ai-generated,1,1,0.5958333333333334,1,412,2471
+opt-iml,ai-generated,1,1,0.6182777777777778,1,558,3478
+news articles,human-written,0,0,0.29883333333333334,1,886,4963
+openwebtext,human-written,0,0,0.31355555555555553,1,875,5304
+opt-iml,ai-generated,1,1,0.5194444444444445,1,846,5772
+opt-iml,ai-generated,1,1,0.5408968253968254,1,841,5490
+openwebtext,human-written,0,0,0.34706349206349213,1,981,6001
+answers,human-written,0,0,0.2428888888888889,1,1258,7426
+opt-iml,ai-generated,1,1,0.7228333333333333,1,432,2896
+opinion statements,human-written,0,0,0.01,1,460,2530
+webtext,human-written,0,1,0.5506111111111112,0,435,2671
+opt-iml,ai-generated,1,1,0.5418888888888888,1,484,3019
+scientific research,human-written,0,0,0.37738888888888894,1,341,1943
+opinion statements,human-written,0,1,0.5686111111111111,0,488,2552
+scientific research,human-written,0,0,0.4230555555555555,1,301,1837
+opt-iml,ai-generated,1,1,0.6027857142857143,1,428,2480
+openwebtext,human-written,0,0,0.35999999999999993,1,722,4093
+opinion statements,human-written,0,0,0.006666666666666667,1,483,2742
+opinion statements,human-written,0,0,0.0,1,520,2958
+openwebtext,human-written,0,0,0.32672222222222225,1,689,4010
+opt-iml,ai-generated,1,1,0.7851944444444444,1,554,3531
+openwebtext,human-written,0,0,0.14583333333333334,1,1254,7144
+opt-iml,ai-generated,1,1,0.6605,1,860,5727
+opinion statements,human-written,0,0,0.0,1,622,3548
+opt-iml,ai-generated,1,1,0.8365277777777778,1,406,2139
+opt-iml,ai-generated,1,1,0.7373333333333335,1,509,3223
+opinion statements,human-written,0,0,0.0,1,542,3026
+opt-iml,ai-generated,1,1,0.5430555555555554,1,810,4272
+opinion statements,human-written,0,0,0.02972222222222222,1,1207,6484
+opt-iml,ai-generated,1,0,0.4717777777777777,0,843,5319
+opt-iml,ai-generated,1,1,0.69,1,575,3449
+opinion statements,human-written,0,0,0.0016666666666666668,1,672,3752
+scientific research,human-written,0,0,0.4355079365079365,1,348,2297
+opt-iml,ai-generated,1,1,0.6102222222222222,1,554,3253
+blog,human-written,0,0,0.48088888888888887,1,378,2019
+openwebtext,human-written,0,0,0.3781984126984127,1,648,4293
+scientific research,human-written,0,0,0.36672222222222217,1,436,2854
+opt-iml,ai-generated,1,1,0.5527222222222222,1,837,6391
+opt-iml,ai-generated,1,0,0.41961111111111116,0,902,5414
+webtext,human-written,0,0,0.39038888888888884,1,818,4937
+opt-iml,ai-generated,1,1,0.5079444444444444,1,785,4646
+opt-iml,ai-generated,1,1,0.5321666666666667,1,477,2705
+opinion statements,human-written,0,0,0.0,1,461,2545
+openwebtext,human-written,0,1,0.6171269841269842,0,428,2630
+openwebtext,human-written,0,0,0.3029444444444444,1,1475,8703
+opinion statements,human-written,0,0,0.0033333333333333335,1,684,4308
+openwebtext,human-written,0,0,0.28449206349206346,1,794,4396
+opt-iml,ai-generated,1,1,0.5840555555555554,1,758,4424
+opt-iml,ai-generated,1,1,0.7157777777777778,1,436,2849
+opt-iml,ai-generated,1,1,0.5551666666666665,1,552,3347
+opt-iml,ai-generated,1,1,0.5998888888888888,1,883,5986
+openwebtext,human-written,0,0,0.2780555555555555,1,530,3006
+openwebtext,human-written,0,0,0.4263888888888889,1,726,4719
+opt-iml,ai-generated,1,1,0.6346388888888889,1,525,2910
+opt-iml,ai-generated,1,1,0.5267539682539684,1,465,2783
+opt-iml,ai-generated,1,1,0.5782222222222222,1,838,5336
+openwebtext,human-written,0,0,0.3911666666666667,1,466,2797
+opt-iml,ai-generated,1,1,0.7851805555555555,1,462,2650
+openwebtext,human-written,0,0,0.48022222222222233,1,538,3568
+opinion statements,human-written,0,0,0.006944444444444443,1,402,2288
+opinion statements,human-written,0,0,0.0,1,465,2767
+webtext,human-written,0,0,0.3133333333333334,1,764,4545
+webtext,human-written,0,1,0.6010000000000001,0,474,2968
+answers,human-written,0,0,0.24655555555555556,1,1241,6866
+opt-iml,ai-generated,1,1,0.7182777777777777,1,581,3702
+opinion statements,human-written,0,0,0.005,1,538,3127
+opinion statements,human-written,0,0,0.0016666666666666668,1,476,2751
+opt-iml,ai-generated,1,1,0.5471666666666667,1,906,6869
+openwebtext,human-written,0,0,0.4647777777777777,1,952,6314
+opt-iml,ai-generated,1,0,0.4593650793650793,0,801,6235
+opt-iml,ai-generated,1,1,0.6152777777777777,1,446,2467
+opt-iml,ai-generated,1,1,0.5448333333333334,1,535,3039
+opt-iml,ai-generated,1,1,0.793,1,461,2092
+opt-iml,ai-generated,1,1,0.5417222222222223,1,444,2456
+opt-iml,ai-generated,1,1,0.6589444444444443,1,935,7443
+blog,human-written,0,1,0.5123333333333333,0,464,2347
+scientific research,human-written,0,0,0.39449206349206345,1,313,1770
+news articles,human-written,0,0,0.2171111111111111,1,1033,6017
+answers,human-written,0,0,0.15805555555555556,1,1120,6633
+openwebtext,human-written,0,0,0.10222222222222221,1,935,5539
+openwebtext,human-written,0,0,0.3777777777777778,1,464,2733
+opinion statements,human-written,0,0,0.0033333333333333335,1,864,5283
+opinion statements,human-written,0,1,0.5838888888888889,0,590,3174
+openwebtext,human-written,0,0,0.45322222222222214,1,488,2871
+opt-iml,ai-generated,1,1,0.6798888888888889,1,531,3129
+openwebtext,human-written,0,0,0.11422222222222224,1,800,4683
+opt-iml,ai-generated,1,1,0.8706805555555555,1,442,2442
+opt-iml,ai-generated,1,1,0.5690158730158731,1,473,2772
+openwebtext,human-written,0,0,0.4063333333333334,1,915,5504
+opt-iml,ai-generated,1,1,0.6,1,840,4987
+opt-iml,ai-generated,1,1,0.5163888888888889,1,683,4347
+openwebtext,human-written,0,0,0.1412777777777778,1,1245,7529
+webtext,human-written,0,0,0.4153888888888889,1,848,5082
+openwebtext,human-written,0,0,0.08222222222222222,1,1154,6835
+news articles,human-written,0,0,0.4417222222222222,1,851,5036
+openwebtext,human-written,0,0,0.4019206349206349,1,778,4581
+opt-iml,ai-generated,1,1,0.5892222222222222,1,473,2814
+opt-iml,ai-generated,1,0,0.49688888888888877,0,720,4073
+news articles,human-written,0,0,0.22333333333333333,1,1101,6089
+opt-iml,ai-generated,1,1,0.6398888888888888,1,547,3347
+scientific research,human-written,0,0,0.2936904761904762,1,437,2996
+opt-iml,ai-generated,1,0,0.3502777777777777,0,859,5285
+scientific research,human-written,0,0,0.4829444444444445,1,319,1896
+openwebtext,human-written,0,0,0.4034126984126984,1,432,2753
+openwebtext,human-written,0,0,0.24583333333333332,1,993,6096
+webtext,human-written,0,0,0.35,1,743,3917
+openwebtext,human-written,0,0,0.4309722222222222,1,451,2724
+openwebtext,human-written,0,1,0.5769444444444444,0,419,2494
+opt-iml,ai-generated,1,1,0.6687777777777778,1,466,2844
+opt-iml,ai-generated,1,1,0.6477777777777778,1,412,2450
+opt-iml,ai-generated,1,0,0.3755555555555556,0,853,4723
+news articles,human-written,0,0,0.1926111111111111,1,1124,6598
+opt-iml,ai-generated,1,1,0.6896388888888889,1,413,2572
+opt-iml,ai-generated,1,1,0.6214444444444444,1,589,3298
+scientific research,human-written,0,1,0.6635,0,302,2053
+openwebtext,human-written,0,0,0.4680555555555555,1,435,2662
+webtext,human-written,0,0,0.3976111111111112,1,711,4376
+opinion statements,human-written,0,0,0.013333333333333334,1,1178,6534
+opt-iml,ai-generated,1,1,0.7116666666666667,1,517,3414
+opt-iml,ai-generated,1,1,0.6621111111111111,1,501,3343
+opt-iml,ai-generated,1,1,0.5443888888888889,1,462,2692
+opt-iml,ai-generated,1,1,0.5611666666666667,1,820,5051
+opt-iml,ai-generated,1,1,0.5330357142857144,1,442,2479
+opt-iml,ai-generated,1,1,0.6610000000000001,1,621,3745
+openwebtext,human-written,0,0,0.3548888888888889,1,585,3740
+opt-iml,ai-generated,1,1,0.787537037037037,1,424,2063
+opt-iml,ai-generated,1,1,0.7785555555555556,1,404,2171
+opt-iml,ai-generated,1,1,0.5948333333333333,1,667,3782
+opt-iml,ai-generated,1,1,0.5505,1,848,4751
+opinion statements,human-written,0,0,0.013055555555555555,1,514,2762
+opt-iml,ai-generated,1,0,0.47938888888888886,0,724,4608
+opt-iml,ai-generated,1,0,0.4333888888888888,0,870,5044
+opt-iml,ai-generated,1,1,0.548611111111111,1,847,5234
+answers,human-written,0,0,0.11155555555555553,1,1482,8154
+opinion statements,human-written,0,0,0.011666666666666667,1,491,2773
+opt-iml,ai-generated,1,1,0.9161666666666669,1,457,2480
+openwebtext,human-written,0,0,0.3837777777777777,1,891,5345
+opt-iml,ai-generated,1,1,0.5814206349206349,1,719,3835
+opt-iml,ai-generated,1,1,0.5518888888888888,1,838,5458
+opt-iml,ai-generated,1,1,0.5422777777777777,1,654,3865
+opt-iml,ai-generated,1,0,0.4183571428571428,0,655,3592
+opt-iml,ai-generated,1,0,0.48661111111111105,0,883,4734
+opinion statements,human-written,0,0,0.44688888888888895,1,604,3222
+opt-iml,ai-generated,1,1,0.6424444444444445,1,595,3877
+opt-iml,ai-generated,1,1,0.5916111111111112,1,448,2746
+scientific research,human-written,0,0,0.3311666666666667,1,574,3426
+opinion statements,human-written,0,1,0.6438888888888888,0,406,2237
+opt-iml,ai-generated,1,1,0.5607857142857142,1,717,4918
+openwebtext,human-written,0,0,0.2663888888888889,1,688,4210
+opinion statements,human-written,0,0,0.0,1,651,3718
+opt-iml,ai-generated,1,1,0.5682777777777778,1,698,4154
+scientific research,human-written,0,0,0.4192222222222222,1,313,2153
+opt-iml,ai-generated,1,1,0.5478888888888889,1,912,5160
+opinion statements,human-written,0,0,0.0,1,549,2959
+opt-iml,ai-generated,1,1,0.7772777777777778,1,406,2106
+opt-iml,ai-generated,1,1,0.6265000000000001,1,519,3093
+opt-iml,ai-generated,1,1,0.515,1,844,5004
+answers,human-written,0,0,0.2345,1,1128,6380
+openwebtext,human-written,0,1,0.6790476190476191,0,432,2611
+opt-iml,ai-generated,1,1,0.6837777777777777,1,420,2493
+opt-iml,ai-generated,1,1,0.5630238095238095,1,689,4263
+opt-iml,ai-generated,1,1,0.6817777777777778,1,467,2886
+opt-iml,ai-generated,1,1,0.5646666666666667,1,536,3386
+opt-iml,ai-generated,1,1,0.7153333333333334,1,545,3397
+webtext,human-written,0,0,0.46313492063492057,1,592,3663
+openwebtext,human-written,0,0,0.27805555555555556,1,527,3206
+opt-iml,ai-generated,1,1,0.6097777777777776,1,722,4069
+openwebtext,human-written,0,0,0.3067222222222223,1,372,2615
+opt-iml,ai-generated,1,1,0.6517222222222222,1,499,3235
+openwebtext,human-written,0,0,0.17677777777777778,1,1029,5821
+webtext,human-written,0,0,0.3466666666666667,1,798,4877
+scientific research,human-written,0,1,0.5100555555555555,0,310,2072
+opt-iml,ai-generated,1,0,0.4309682539682539,0,872,5407
+blog,human-written,0,0,0.3991666666666666,1,627,3151
+opt-iml,ai-generated,1,1,0.5874999999999999,1,787,5458
+openwebtext,human-written,0,0,0.3087222222222223,1,875,5209
+opt-iml,ai-generated,1,0,0.48488888888888887,0,858,5285
+answers,human-written,0,0,0.3255555555555556,1,820,4643
+openwebtext,human-written,0,0,0.4094920634920635,1,435,2392
+openwebtext,human-written,0,0,0.34327777777777785,1,517,3308
+opt-iml,ai-generated,1,1,0.5716111111111112,1,886,5626
+opt-iml,ai-generated,1,1,0.6373333333333334,1,432,2227
+opt-iml,ai-generated,1,1,0.5925,1,430,2573
+opt-iml,ai-generated,1,1,0.7908333333333333,1,429,2796
+opt-iml,ai-generated,1,0,0.4532222222222223,0,861,5121
+opt-iml,ai-generated,1,1,0.6556111111111111,1,442,2832
+blog,human-written,0,0,0.21694444444444444,1,1138,6441
+opt-iml,ai-generated,1,1,0.6215714285714288,1,501,3214
+opt-iml,ai-generated,1,1,0.6066111111111111,1,427,2364
+openwebtext,human-written,0,1,0.6137222222222223,0,388,2105
+opt-iml,ai-generated,1,1,0.6100873015873014,1,439,2535
+openwebtext,human-written,0,0,0.36777777777777776,1,551,3223
+opt-iml,ai-generated,1,1,0.5720555555555555,1,887,5162
+answers,human-written,0,0,0.38188888888888883,1,1046,6437
+opt-iml,ai-generated,1,1,0.6720793650793652,1,426,2763
+opt-iml,ai-generated,1,1,0.6201666666666666,1,838,5495
+opt-iml,ai-generated,1,1,0.5278333333333334,1,853,5107
+openwebtext,human-written,0,0,0.40439682539682537,1,584,3510
+opinion statements,human-written,0,1,0.594888888888889,0,411,2278
+openwebtext,human-written,0,0,0.4907777777777778,1,613,3698
+opt-iml,ai-generated,1,1,0.6366666666666667,1,621,3451
+openwebtext,human-written,0,0,0.47321428571428575,1,454,2663
+opinion statements,human-written,0,0,0.4497222222222222,1,822,4803
+opt-iml,ai-generated,1,1,0.7186111111111111,1,543,3356
+opinion statements,human-written,0,0,0.0022222222222222222,1,617,3538
+openwebtext,human-written,0,1,0.6333730158730159,0,520,2856
+opt-iml,ai-generated,1,1,0.5786111111111112,1,450,2501
+opt-iml,ai-generated,1,1,0.6271111111111111,1,443,2729
+opinion statements,human-written,0,0,0.0,1,454,2456
+news articles,human-written,0,0,0.17944444444444446,1,1359,7786
+opt-iml,ai-generated,1,1,0.6115,1,627,3901
+openwebtext,human-written,0,1,0.5763888888888888,0,560,3190
+opt-iml,ai-generated,1,1,0.6443333333333334,1,425,2809
+opt-iml,ai-generated,1,1,0.7116349206349207,1,657,4249
+opt-iml,ai-generated,1,1,0.5381746031746031,1,522,2882
+opinion statements,human-written,0,1,0.5513888888888889,0,487,2859
+opinion statements,human-written,0,1,0.590388888888889,0,433,2528
+opt-iml,ai-generated,1,0,0.4357777777777778,0,844,5472
+openwebtext,human-written,0,0,0.30076984126984124,1,738,4479
+openwebtext,human-written,0,0,0.29261111111111104,1,1182,6558
+opt-iml,ai-generated,1,0,0.3831031746031746,0,792,4432
+opt-iml,ai-generated,1,0,0.4083888888888889,0,765,4973
+scientific research,human-written,0,0,0.3708333333333334,1,360,2032
+opt-iml,ai-generated,1,0,0.49116666666666664,0,813,4871
+openwebtext,human-written,0,0,0.21627777777777776,1,951,5388
+opt-iml,ai-generated,1,0,0.4332142857142857,0,821,4638
+openwebtext,human-written,0,0,0.36444444444444446,1,540,3902
+opinion statements,human-written,0,1,0.5410555555555556,0,476,2743
+openwebtext,human-written,0,1,0.5442777777777779,0,507,3044
+openwebtext,human-written,0,0,0.37600000000000006,1,817,4950
+opinion statements,human-written,0,0,0.0016666666666666668,1,414,2510
+opinion statements,human-written,0,0,0.0,1,489,2724
+opt-iml,ai-generated,1,0,0.39355555555555566,0,897,5504
+opt-iml,ai-generated,1,1,0.553722222222222,1,429,2284
+opt-iml,ai-generated,1,0,0.374,0,870,5360
+opt-iml,ai-generated,1,0,0.4531666666666667,0,872,5219
+opt-iml,ai-generated,1,1,0.5716031746031746,1,651,3769
+opinion statements,human-written,0,1,0.6433333333333333,0,449,2705
+openwebtext,human-written,0,1,0.6090555555555557,0,639,3836
+opinion statements,human-written,0,0,0.018055555555555557,1,438,2448
+opt-iml,ai-generated,1,1,0.6448888888888888,1,623,4085
+news articles,human-written,0,0,0.21633333333333335,1,1412,8470
+openwebtext,human-written,0,0,0.3094444444444444,1,571,3527
+opt-iml,ai-generated,1,1,0.6749444444444445,1,626,3775
+opinion statements,human-written,0,0,0.002666666666666667,1,551,3189
+openwebtext,human-written,0,0,0.20916666666666667,1,757,4468
+opt-iml,ai-generated,1,1,0.5856666666666667,1,511,2912
+opt-iml,ai-generated,1,1,0.5440555555555556,1,427,2523
+blog,human-written,0,0,0.2916666666666667,1,962,4854
+opt-iml,ai-generated,1,0,0.4545555555555556,0,890,5286
+opt-iml,ai-generated,1,0,0.4379444444444444,0,917,5637
+openwebtext,human-written,0,0,0.32405555555555554,1,1349,8313
+opt-iml,ai-generated,1,1,0.6033333333333334,1,514,3089
+opt-iml,ai-generated,1,1,0.6290555555555556,1,421,2658
+opt-iml,ai-generated,1,1,0.7894583333333334,1,406,2051
+opt-iml,ai-generated,1,1,0.7022222222222222,1,438,2527
+openwebtext,human-written,0,0,0.2891666666666667,1,647,3941
+openwebtext,human-written,0,0,0.3367777777777778,1,1232,7520
+answers,human-written,0,0,0.21466666666666667,1,1099,5957
+opinion statements,human-written,0,1,0.5311904761904762,0,555,2954
+opt-iml,ai-generated,1,1,0.6234444444444444,1,449,2772
+blog,human-written,0,0,0.4678333333333333,1,554,2954
+opt-iml,ai-generated,1,1,0.5253333333333333,1,904,5491
+opt-iml,ai-generated,1,1,0.6837619047619048,1,521,3134
+opt-iml,ai-generated,1,0,0.2795,0,886,5013
+opt-iml,ai-generated,1,1,0.6641111111111112,1,544,3408
+openwebtext,human-written,0,1,0.5518333333333334,0,661,3989
+opinion statements,human-written,0,1,0.5275555555555554,0,410,2298
+openwebtext,human-written,0,1,0.5485,0,381,2119
+blog,human-written,0,0,0.23105555555555554,1,1283,7066
+opt-iml,ai-generated,1,1,0.6420000000000001,1,439,2677
+answers,human-written,0,0,0.32266666666666666,1,928,5366
+opt-iml,ai-generated,1,1,0.6919444444444444,1,576,3727
+opt-iml,ai-generated,1,1,0.7118888888888888,1,533,3329
+opt-iml,ai-generated,1,0,0.4018888888888889,0,813,5101
+opt-iml,ai-generated,1,1,0.5720555555555555,1,401,2395
+opinion statements,human-written,0,0,0.007222222222222222,1,501,2829
+opinion statements,human-written,0,0,0.0033333333333333335,1,527,2868
+opt-iml,ai-generated,1,1,0.7405,1,481,3035
+opt-iml,ai-generated,1,1,0.6042222222222222,1,620,3946
+opinion statements,human-written,0,1,0.5367777777777776,0,766,4164
+openwebtext,human-written,0,0,0.3212777777777778,1,638,3696
+opt-iml,ai-generated,1,1,0.6171111111111109,1,672,3848
+opt-iml,ai-generated,1,0,0.495962962962963,0,843,5013
+opinion statements,human-written,0,0,0.01,1,465,2616
+opinion statements,human-written,0,0,0.0033333333333333335,1,741,4292
+opt-iml,ai-generated,1,1,0.6292222222222222,1,488,2918
+opt-iml,ai-generated,1,0,0.4574444444444445,0,849,5254
+opinion statements,human-written,0,1,0.6069444444444445,0,455,2583
+opt-iml,ai-generated,1,1,0.7036904761904762,1,613,3868
+opt-iml,ai-generated,1,1,0.6433888888888888,1,494,2781
+opt-iml,ai-generated,1,1,0.8157222222222222,1,533,3214
+opt-iml,ai-generated,1,1,0.5422777777777777,1,822,4473
+openwebtext,human-written,0,0,0.23777777777777775,1,1250,7728
+opt-iml,ai-generated,1,0,0.48714285714285716,0,761,4580
+opt-iml,ai-generated,1,1,0.7109444444444445,1,743,4612
+openwebtext,human-written,0,0,0.1641111111111111,1,964,5764
+opt-iml,ai-generated,1,1,0.6527777777777778,1,475,2965
+opt-iml,ai-generated,1,1,0.9013888888888889,1,531,2474
+opt-iml,ai-generated,1,1,0.6418888888888887,1,943,7147
+openwebtext,human-written,0,0,0.29422222222222233,1,993,6213
+opt-iml,ai-generated,1,1,0.6784444444444443,1,410,2732
+webtext,human-written,0,1,0.6892777777777778,0,385,2242
+opinion statements,human-written,0,1,0.7167857142857142,0,432,2418
+opt-iml,ai-generated,1,1,0.5601666666666666,1,487,3003
+opinion statements,human-written,0,0,0.0,1,429,2421
+opt-iml,ai-generated,1,1,0.6625396825396824,1,761,5100
+opt-iml,ai-generated,1,1,0.6026111111111111,1,540,3095
+opinion statements,human-written,0,0,0.011333333333333332,1,717,3935
+answers,human-written,0,0,0.1881111111111111,1,829,4482
+opinion statements,human-written,0,0,0.0016666666666666668,1,597,3259
+opt-iml,ai-generated,1,1,0.571537037037037,1,491,2920
+opt-iml,ai-generated,1,1,0.8281805555555556,1,456,2238
+opinion statements,human-written,0,1,0.539277777777778,0,584,3290
+opt-iml,ai-generated,1,1,0.6563888888888889,1,691,4198
+opinion statements,human-written,0,0,0.015277777777777777,1,513,2827
+opinion statements,human-written,0,1,0.5011111111111112,0,747,4122
+openwebtext,human-written,0,0,0.33472222222222225,1,840,4554
+openwebtext,human-written,0,0,0.3213333333333333,1,753,4699
+opt-iml,ai-generated,1,1,0.6221666666666666,1,424,2558
+opt-iml,ai-generated,1,1,0.5503333333333335,1,496,2766
+openwebtext,human-written,0,0,0.1963888888888889,1,1254,7181
+opt-iml,ai-generated,1,1,0.9096031746031745,1,462,2082
+opt-iml,ai-generated,1,1,0.6197222222222221,1,462,3800
+scientific research,human-written,0,1,0.5398888888888888,0,359,1964
+opt-iml,ai-generated,1,1,0.5086111111111111,1,870,5465
+opt-iml,ai-generated,1,1,0.6891190476190476,1,432,3018
+opt-iml,ai-generated,1,1,0.6385555555555557,1,424,2699
+opinion statements,human-written,0,1,0.6549999999999999,0,494,2882
+opt-iml,ai-generated,1,1,0.7151190476190475,1,508,3072
+opt-iml,ai-generated,1,1,0.645,1,592,3562
+opinion statements,human-written,0,0,0.4939722222222222,1,471,2516
+webtext,human-written,0,0,0.4445476190476191,1,768,4616
+opt-iml,ai-generated,1,0,0.4055555555555555,0,791,4779
+opt-iml,ai-generated,1,0,0.4437777777777778,0,854,4667
+openwebtext,human-written,0,0,0.38711111111111113,1,601,3906
+openwebtext,human-written,0,0,0.4163888888888889,1,565,3184
+opt-iml,ai-generated,1,0,0.4313888888888889,0,807,4720
+answers,human-written,0,0,0.22044444444444442,1,998,5343
+openwebtext,human-written,0,0,0.4206349206349206,1,429,2804
+answers,human-written,0,0,0.25022222222222223,1,867,4919
+answers,human-written,0,0,0.3356111111111111,1,854,5105
+opt-iml,ai-generated,1,1,0.5337777777777778,1,623,3988
+opt-iml,ai-generated,1,1,0.8667222222222222,1,463,2156
+opinion statements,human-written,0,0,0.0016666666666666668,1,547,3080
+webtext,human-written,0,0,0.3813888888888889,1,781,4840
+opinion statements,human-written,0,0,0.0016666666666666668,1,766,4354
+opt-iml,ai-generated,1,1,0.6339285714285716,1,682,3684
+opt-iml,ai-generated,1,1,0.5380555555555556,1,748,4200
+opinion statements,human-written,0,0,0.0,1,553,3172
+openwebtext,human-written,0,1,0.5535079365079364,0,425,2628
+opt-iml,ai-generated,1,0,0.47361111111111126,0,619,3807
+opinion statements,human-written,0,0,0.004722222222222221,1,427,2458
+opt-iml,ai-generated,1,0,0.43933333333333335,0,864,5468
+opinion statements,human-written,0,0,0.0033333333333333335,1,605,3455
+opinion statements,human-written,0,0,0.0025,1,696,3997
+opinion statements,human-written,0,0,0.49916666666666665,1,407,2309
+opt-iml,ai-generated,1,1,0.5833333333333335,1,451,2665
+opt-iml,ai-generated,1,1,0.8831666666666667,1,430,2414
+scientific research,human-written,0,1,0.5109166666666666,0,312,2199
+opt-iml,ai-generated,1,1,0.6501190476190476,1,695,4290
+opt-iml,ai-generated,1,1,0.7053333333333334,1,424,2723
+opt-iml,ai-generated,1,1,0.5273333333333334,1,698,3908
+opt-iml,ai-generated,1,1,0.6461666666666667,1,404,2340
+opt-iml,ai-generated,1,1,0.6194444444444444,1,502,2851
+opt-iml,ai-generated,1,1,0.6065555555555556,1,456,2648
+opt-iml,ai-generated,1,0,0.36277777777777775,0,887,5079
+opt-iml,ai-generated,1,1,0.5534603174603177,1,643,3962
+answers,human-written,0,0,0.20877777777777778,1,1224,7078
+opt-iml,ai-generated,1,1,0.6173888888888888,1,461,2743
+opt-iml,ai-generated,1,1,0.7947777777777778,1,408,2235
+answers,human-written,0,0,0.34500000000000003,1,872,4954
+opt-iml,ai-generated,1,1,0.5679166666666667,1,897,5755
+openwebtext,human-written,0,0,0.21876984126984123,1,880,5251
+openwebtext,human-written,0,0,0.2565555555555556,1,901,5296
+opt-iml,ai-generated,1,1,0.8226666666666667,1,463,2340
+opt-iml,ai-generated,1,1,0.867388888888889,1,430,2541
+opt-iml,ai-generated,1,0,0.3972777777777778,0,884,5166
+webtext,human-written,0,1,0.5834444444444444,0,404,2574
+opt-iml,ai-generated,1,1,0.5763333333333334,1,647,3891
+opt-iml,ai-generated,1,1,0.5788650793650794,1,873,4917
+opt-iml,ai-generated,1,1,0.7387777777777778,1,627,4112
+opt-iml,ai-generated,1,1,0.5677777777777777,1,524,3153
+opt-iml,ai-generated,1,1,0.5321666666666667,1,467,2624
+webtext,human-written,0,1,0.5847222222222223,0,373,2449
+webtext,human-written,0,0,0.43400793650793656,1,509,3129
+webtext,human-written,0,1,0.5802777777777777,0,416,2426
+opt-iml,ai-generated,1,1,0.8978472222222222,1,493,2148
+answers,human-written,0,0,0.18583333333333332,1,1281,7208
+opt-iml,ai-generated,1,1,0.617595238095238,1,672,3914
+opt-iml,ai-generated,1,0,0.48427777777777786,0,741,4559
+opinion statements,human-written,0,0,0.0,1,425,2374
+opinion statements,human-written,0,0,0.35005555555555556,1,1312,7628
+opt-iml,ai-generated,1,1,0.6785,1,438,2696
+blog,human-written,0,1,0.5378333333333333,0,380,1921
+opt-iml,ai-generated,1,1,0.5807777777777778,1,477,2949
+opt-iml,ai-generated,1,0,0.4772777777777776,0,767,4287
+openwebtext,human-written,0,1,0.5769444444444445,0,389,2581
+opt-iml,ai-generated,1,1,0.6997222222222222,1,639,4056
+opt-iml,ai-generated,1,1,0.5457777777777777,1,429,2411
+openwebtext,human-written,0,1,0.5559444444444445,0,482,3205
+opt-iml,ai-generated,1,1,0.5098611111111111,1,857,5117
+news articles,human-written,0,0,0.2742222222222222,1,1353,7890
+opt-iml,ai-generated,1,0,0.456111111111111,0,543,2977
+opt-iml,ai-generated,1,1,0.6001666666666666,1,487,2797
+opt-iml,ai-generated,1,0,0.42972222222222217,0,888,4867
+opt-iml,ai-generated,1,0,0.49416666666666664,0,740,4073
+opt-iml,ai-generated,1,1,0.570388888888889,1,451,2686
+opt-iml,ai-generated,1,1,0.5255555555555556,1,515,2785
+blog,human-written,0,0,0.42261111111111105,1,386,2011
+openwebtext,human-written,0,0,0.48155555555555546,1,489,2805
+openwebtext,human-written,0,0,0.37038888888888893,1,527,3214
+openwebtext,human-written,0,0,0.20799999999999996,1,788,4730
+opinion statements,human-written,0,0,0.005,1,512,2858
+opt-iml,ai-generated,1,1,0.6248888888888889,1,610,3339
+opt-iml,ai-generated,1,1,0.5047222222222222,1,763,4846
+openwebtext,human-written,0,0,0.23055555555555557,1,1316,7832
+opinion statements,human-written,0,0,0.006666666666666667,1,710,3916
+opinion statements,human-written,0,0,0.0016666666666666668,1,411,2431
+opt-iml,ai-generated,1,0,0.3647222222222223,0,812,4675
+opt-iml,ai-generated,1,1,0.6095555555555556,1,622,3775
+opt-iml,ai-generated,1,1,0.6883888888888889,1,465,2815
+opinion statements,human-written,0,0,0.005,1,408,2446
+openwebtext,human-written,0,0,0.4029444444444445,1,743,4565
+openwebtext,human-written,0,0,0.22616666666666668,1,846,5397
+openwebtext,human-written,0,0,0.4265079365079365,1,459,2835
+opinion statements,human-written,0,0,0.0025,1,666,3784
+webtext,human-written,0,0,0.3251666666666667,1,811,4965
+webtext,human-written,0,0,0.43216666666666675,1,792,4585
+opt-iml,ai-generated,1,1,0.5838888888888889,1,912,5341
+opinion statements,human-written,0,1,0.5688888888888888,0,535,2988
+opt-iml,ai-generated,1,1,0.5501666666666667,1,870,5755
+openwebtext,human-written,0,0,0.27757936507936504,1,699,4280
+opt-iml,ai-generated,1,1,0.5423333333333333,1,668,3852
+answers,human-written,0,0,0.23211111111111107,1,1236,7523
+opt-iml,ai-generated,1,1,0.6100555555555555,1,643,4110
+opt-iml,ai-generated,1,0,0.394,0,889,5273
+answers,human-written,0,0,0.21572222222222223,1,920,5367
+opt-iml,ai-generated,1,1,0.5978888888888889,1,868,5419
+news articles,human-written,0,0,0.22127777777777774,1,1208,6303
+openwebtext,human-written,0,0,0.3583809523809523,1,629,3696
+answers,human-written,0,0,0.23072222222222227,1,1030,5800
+webtext,human-written,0,0,0.23938888888888887,1,747,4304
+opt-iml,ai-generated,1,1,0.6420555555555556,1,483,3446
+openwebtext,human-written,0,1,0.6307222222222222,0,499,3073
+opt-iml,ai-generated,1,1,0.6182777777777777,1,542,2999
+opt-iml,ai-generated,1,1,0.6268333333333332,1,883,5269
+answers,human-written,0,0,0.10922222222222222,1,1417,8234
+opinion statements,human-written,0,0,0.004722222222222221,1,506,2702
+opt-iml,ai-generated,1,1,0.6918253968253968,1,426,2540
+opt-iml,ai-generated,1,1,0.6648888888888889,1,540,3329
+opt-iml,ai-generated,1,1,0.5695555555555556,1,873,5070
+webtext,human-written,0,0,0.39038888888888884,1,804,5268
+opt-iml,ai-generated,1,1,0.7164444444444446,1,422,2784
+openwebtext,human-written,0,0,0.2775,1,814,5027
+opinion statements,human-written,0,0,0.0027777777777777775,1,469,2736
+openwebtext,human-written,0,0,0.25465873015873014,1,691,4348
+openwebtext,human-written,0,0,0.24654761904761907,1,1227,7298
+opt-iml,ai-generated,1,1,0.5806111111111111,1,594,3394
+news articles,human-written,0,0,0.2426984126984127,1,842,4548
+openwebtext,human-written,0,0,0.44236111111111104,1,631,3619
+openwebtext,human-written,0,0,0.23855555555555555,1,810,4711
+openwebtext,human-written,0,1,0.5666666666666667,0,379,2489
+openwebtext,human-written,0,0,0.4566904761904763,1,435,2837
+openwebtext,human-written,0,0,0.26694444444444443,1,707,4634
+opt-iml,ai-generated,1,1,0.5285634920634922,1,657,4406
+openwebtext,human-written,0,0,0.2833333333333333,1,847,5370
+opt-iml,ai-generated,1,1,0.7475,1,672,4832
+news articles,human-written,0,0,0.416388888888889,1,864,4962
+webtext,human-written,0,1,0.5416666666666666,0,817,5036
+scientific research,human-written,0,0,0.34410317460317463,1,312,1730
+opt-iml,ai-generated,1,0,0.44644444444444453,0,771,4232
+opt-iml,ai-generated,1,1,0.5114444444444444,1,541,3021
+answers,human-written,0,0,0.30572222222222223,1,838,4829
+opt-iml,ai-generated,1,0,0.4273333333333334,0,796,3968
+openwebtext,human-written,0,0,0.18874999999999997,1,1348,7978
+openwebtext,human-written,0,0,0.19474603174603172,1,831,4474
+opt-iml,ai-generated,1,1,0.5431666666666666,1,754,4552
+opt-iml,ai-generated,1,0,0.4478333333333333,0,861,5662
+opt-iml,ai-generated,1,1,0.606,1,681,4022
+opt-iml,ai-generated,1,1,0.6660555555555554,1,402,2397
+opinion statements,human-written,0,1,0.5712222222222222,0,412,2523
+opt-iml,ai-generated,1,1,0.6361111111111111,1,567,3489
+opinion statements,human-written,0,1,0.5715555555555556,0,484,2726
+openwebtext,human-written,0,0,0.4548888888888889,1,501,3130
+opt-iml,ai-generated,1,1,0.5434444444444444,1,905,5305
+openwebtext,human-written,0,0,0.4632222222222222,1,461,2694
+opt-iml,ai-generated,1,1,0.5509444444444445,1,875,5645
+openwebtext,human-written,0,0,0.4549444444444445,1,1104,8411
+opt-iml,ai-generated,1,1,0.7170555555555554,1,518,3402
+opt-iml,ai-generated,1,1,0.5657857142857142,1,464,2623
+webtext,human-written,0,0,0.42555555555555563,1,812,4703
+webtext,human-written,0,0,0.3655555555555555,1,642,3711
+news articles,human-written,0,0,0.17432539682539683,1,1157,6466
+openwebtext,human-written,0,0,0.2947777777777778,1,661,3487
+opt-iml,ai-generated,1,1,0.867111111111111,1,504,2888
+opt-iml,ai-generated,1,1,0.5888333333333332,1,467,2599
+opinion statements,human-written,0,1,0.5545555555555555,0,440,2529
+opt-iml,ai-generated,1,1,0.5786666666666667,1,682,4499
+opinion statements,human-written,0,1,0.6171666666666666,0,514,2984
+opinion statements,human-written,0,1,0.5241111111111112,0,428,2349
+scientific research,human-written,0,1,0.6129444444444445,0,313,1990
+openwebtext,human-written,0,0,0.48974603174603176,1,763,4822
+opt-iml,ai-generated,1,1,0.6150555555555556,1,683,4221
+opt-iml,ai-generated,1,1,0.5949444444444445,1,686,4054
+openwebtext,human-written,0,0,0.3271031746031747,1,426,2465
+openwebtext,human-written,0,0,0.49661904761904757,1,429,2603
+opinion statements,human-written,0,0,0.485111111111111,1,523,2714
+opt-iml,ai-generated,1,1,0.5845476190476191,1,432,2489
+openwebtext,human-written,0,0,0.18016666666666667,1,1456,9143
+opt-iml,ai-generated,1,1,0.8839444444444444,1,448,2356
+opt-iml,ai-generated,1,1,0.6349444444444444,1,618,3442
+opt-iml,ai-generated,1,1,0.5088888888888888,1,749,5068
+opinion statements,human-written,0,0,0.43600000000000005,1,703,3744
+opt-iml,ai-generated,1,0,0.3997222222222222,0,693,3592
+openwebtext,human-written,0,0,0.18011111111111114,1,1005,5614
+opt-iml,ai-generated,1,1,0.6692777777777779,1,586,3877
+opt-iml,ai-generated,1,1,0.5928888888888891,1,487,3034
+opt-iml,ai-generated,1,1,0.6154999999999998,1,473,2727
+opt-iml,ai-generated,1,1,0.8681111111111113,1,403,2370
+opt-iml,ai-generated,1,1,0.6222962962962962,1,752,4319
+opt-iml,ai-generated,1,1,0.6546111111111113,1,620,3679
+opt-iml,ai-generated,1,1,0.6287777777777778,1,576,3495
+opinion statements,human-written,0,1,0.5357777777777778,0,444,2627
+opt-iml,ai-generated,1,1,0.6121666666666666,1,524,3094
+scientific research,human-written,0,0,0.3839444444444445,1,375,2205
+opinion statements,human-written,0,1,0.5024126984126983,0,556,2956
+opt-iml,ai-generated,1,1,0.5900000000000001,1,730,4166
+opt-iml,ai-generated,1,1,0.5567777777777778,1,402,2282
+opinion statements,human-written,0,0,0.0,1,418,2307
+openwebtext,human-written,0,0,0.4244444444444444,1,1073,5846
+openwebtext,human-written,0,0,0.47086507936507926,1,1090,6687
+opt-iml,ai-generated,1,1,0.6258888888888888,1,546,3437
+opinion statements,human-written,0,1,0.575,0,517,2904
+openwebtext,human-written,0,0,0.4392777777777779,1,847,5456
+openwebtext,human-written,0,0,0.28583333333333333,1,506,3292
+openwebtext,human-written,0,0,0.3651111111111111,1,576,3403
+openwebtext,human-written,0,0,0.33938888888888885,1,811,5030
+opt-iml,ai-generated,1,1,0.5987222222222222,1,411,2461
+opinion statements,human-written,0,0,0.44388888888888883,1,676,3871
+openwebtext,human-written,0,0,0.4671111111111111,1,502,3009
+opt-iml,ai-generated,1,1,0.6513095238095238,1,498,2822
+opinion statements,human-written,0,0,0.4652222222222222,1,653,3646
+answers,human-written,0,0,0.3883055555555555,1,834,4915
+openwebtext,human-written,0,0,0.2693333333333333,1,947,5871
+opt-iml,ai-generated,1,1,0.6475000000000001,1,768,4562
+opt-iml,ai-generated,1,1,0.5730555555555555,1,537,3191
+openwebtext,human-written,0,0,0.2283888888888889,1,1314,8240
+openwebtext,human-written,0,0,0.3515555555555556,1,819,4931
+opt-iml,ai-generated,1,0,0.46655555555555556,0,422,2433
+opt-iml,ai-generated,1,1,0.9213888888888889,1,536,3971
+openwebtext,human-written,0,0,0.4666904761904762,1,394,2304
+opt-iml,ai-generated,1,1,0.5478888888888889,1,457,2483
+blog,human-written,0,0,0.38065079365079363,1,653,3133
+openwebtext,human-written,0,0,0.333,1,775,4319
+opt-iml,ai-generated,1,1,0.6761666666666668,1,429,2482
+opt-iml,ai-generated,1,1,0.7215,1,511,3303
+blog,human-written,0,0,0.4473333333333333,1,540,2839
+opinion statements,human-written,0,0,0.002666666666666667,1,541,2871
+opt-iml,ai-generated,1,1,0.6871349206349208,1,483,2703
+opt-iml,ai-generated,1,1,0.6212777777777778,1,420,2459
+opt-iml,ai-generated,1,0,0.48405555555555557,0,412,2292
+opt-iml,ai-generated,1,1,0.5925,1,542,3138
+webtext,human-written,0,0,0.44416666666666665,1,782,4517
+openwebtext,human-written,0,0,0.4925,1,615,3738
+blog,human-written,0,1,0.5158333333333334,0,505,2840
+opt-iml,ai-generated,1,1,0.7997142857142857,1,432,2003
+webtext,human-written,0,0,0.33033333333333337,1,877,5118
+blog,human-written,0,0,0.4390555555555555,1,397,1968
+openwebtext,human-written,0,0,0.42033333333333334,1,510,3000
+openwebtext,human-written,0,0,0.17294444444444446,1,634,3899
+news articles,human-written,0,0,0.23927777777777778,1,971,5806
+openwebtext,human-written,0,0,0.19444444444444448,1,1192,7010
+answers,human-written,0,0,0.23428571428571426,1,875,5071
+opinion statements,human-written,0,0,0.018888888888888886,1,1138,6429
+openwebtext,human-written,0,0,0.16749999999999998,1,1104,7021
+openwebtext,human-written,0,0,0.32266666666666666,1,453,2661
+openwebtext,human-written,0,0,0.20977777777777776,1,747,4482
+opt-iml,ai-generated,1,1,0.6438333333333334,1,836,6187
+opt-iml,ai-generated,1,1,0.541,1,529,3041
+opt-iml,ai-generated,1,1,0.5988888888888889,1,664,3997
+scientific research,human-written,0,0,0.48377777777777786,1,319,1720
+opt-iml,ai-generated,1,1,0.5186111111111111,1,875,4876
+openwebtext,human-written,0,0,0.36555555555555563,1,1483,9268
+opt-iml,ai-generated,1,1,0.5552777777777778,1,645,3723
+opinion statements,human-written,0,1,0.5967857142857143,0,461,2921
+openwebtext,human-written,0,0,0.26105555555555554,1,441,2607
+scientific research,human-written,0,1,0.6036111111111111,0,387,2688
+answers,human-written,0,0,0.3776111111111111,1,1046,5588
+opt-iml,ai-generated,1,1,0.5849444444444443,1,812,4773
+openwebtext,human-written,0,0,0.4104444444444445,1,454,2736
+opt-iml,ai-generated,1,1,0.5377777777777778,1,530,3055
+opinion statements,human-written,0,0,0.38422222222222224,1,991,5880
+news articles,human-written,0,0,0.24055555555555558,1,898,5353
+openwebtext,human-written,0,1,0.6303333333333333,0,387,2411
+openwebtext,human-written,0,0,0.3583412698412698,1,543,3054
+opt-iml,ai-generated,1,1,0.5697222222222221,1,567,3174
+opt-iml,ai-generated,1,1,0.5671111111111112,1,408,2418
+opt-iml,ai-generated,1,1,0.6666666666666666,1,405,1734
+openwebtext,human-written,0,0,0.3708333333333334,1,768,4754
+opt-iml,ai-generated,1,1,0.6736666666666666,1,548,3333
+opt-iml,ai-generated,1,0,0.47161111111111115,0,916,5588
+openwebtext,human-written,0,0,0.10255555555555557,1,903,5321
+opinion statements,human-written,0,0,0.25094444444444447,1,961,5649
+scientific research,human-written,0,1,0.5224444444444444,0,329,2235
+news articles,human-written,0,0,0.34244444444444444,1,961,5790
+scientific research,human-written,0,1,0.5954444444444444,0,370,2633
+opt-iml,ai-generated,1,0,0.39300000000000007,0,810,4420
+scientific research,human-written,0,1,0.5021428571428572,0,362,2436
+opinion statements,human-written,0,1,0.5522222222222222,0,458,2504
+openwebtext,human-written,0,0,0.2478968253968254,1,1364,7447
+opt-iml,ai-generated,1,1,0.6235,1,869,4758
+opt-iml,ai-generated,1,1,0.5544444444444445,1,877,5487
+opt-iml,ai-generated,1,0,0.49736507936507945,0,580,3176
+opt-iml,ai-generated,1,0,0.43611111111111106,0,720,4499
+opt-iml,ai-generated,1,1,0.5355,1,883,5145
+answers,human-written,0,0,0.3145,1,840,5436
+opt-iml,ai-generated,1,1,0.8049444444444445,1,539,2546
+answers,human-written,0,0,0.1166904761904762,1,1064,6291
+opt-iml,ai-generated,1,1,0.8338888888888889,1,419,2500
+opt-iml,ai-generated,1,1,0.7178333333333334,1,476,2903
+opinion statements,human-written,0,0,0.33144444444444443,1,1285,7030
+opinion statements,human-written,0,1,0.6650555555555555,0,437,2664
+opt-iml,ai-generated,1,1,0.6811111111111111,1,408,2715
+openwebtext,human-written,0,1,0.5211111111111111,0,456,2899
+answers,human-written,0,0,0.20850000000000002,1,869,4942
+opt-iml,ai-generated,1,0,0.495,0,707,4435
+opt-iml,ai-generated,1,0,0.43388888888888894,0,852,4819
+opinion statements,human-written,0,0,0.008333333333333333,1,897,5066
+openwebtext,human-written,0,0,0.3236111111111112,1,1156,6845
+opt-iml,ai-generated,1,1,0.5088333333333334,1,735,4256
+openwebtext,human-written,0,0,0.1477857142857143,1,1335,7563
+opinion statements,human-written,0,0,0.0,1,715,3924
+opt-iml,ai-generated,1,1,0.5698888888888888,1,851,5638
+opt-iml,ai-generated,1,1,0.5595634920634921,1,891,5790
+opt-iml,ai-generated,1,1,0.5855,1,670,4205
+opt-iml,ai-generated,1,1,0.5545555555555555,1,872,5264
+news articles,human-written,0,0,0.20277777777777775,1,1388,7502
+opt-iml,ai-generated,1,1,0.668888888888889,1,414,2453
+opt-iml,ai-generated,1,1,0.6783333333333335,1,614,3601
+opt-iml,ai-generated,1,1,0.672388888888889,1,551,3454
+opt-iml,ai-generated,1,1,0.5542777777777775,1,861,5522
+opt-iml,ai-generated,1,1,0.6564444444444445,1,439,2599
+opinion statements,human-written,0,1,0.6368333333333333,0,469,2804
+opt-iml,ai-generated,1,1,0.5886666666666668,1,468,2734
+scientific research,human-written,0,0,0.3417777777777778,1,352,2054
+opt-iml,ai-generated,1,1,0.6391666666666665,1,519,3283
+opinion statements,human-written,0,0,0.0033333333333333335,1,518,3025
+openwebtext,human-written,0,1,0.5361111111111111,0,1048,6852
+openwebtext,human-written,0,0,0.44866666666666677,1,606,3872
+opinion statements,human-written,0,1,0.5571111111111111,0,460,2559
+opt-iml,ai-generated,1,1,0.8813095238095237,1,495,2371
+opt-iml,ai-generated,1,1,0.5509444444444446,1,579,3158
+opt-iml,ai-generated,1,1,0.6103333333333334,1,659,3921
+scientific research,human-written,0,1,0.5371666666666667,0,412,2656
+openwebtext,human-written,0,1,0.5412222222222223,0,488,2988
+opt-iml,ai-generated,1,1,0.6209444444444444,1,403,2506
+webtext,human-written,0,0,0.39038888888888895,1,795,4931
+openwebtext,human-written,0,0,0.1837777777777778,1,1164,6650
+opt-iml,ai-generated,1,0,0.4273253968253969,0,792,5037
+openwebtext,human-written,0,0,0.22849999999999998,1,1455,8853
+opt-iml,ai-generated,1,1,0.8176388888888888,1,409,2445
+opt-iml,ai-generated,1,0,0.4523888888888888,0,937,5099
+answers,human-written,0,0,0.24055555555555558,1,1332,8140
+opinion statements,human-written,0,1,0.6349206349206349,0,568,3241
+opt-iml,ai-generated,1,1,0.5550555555555555,1,838,5293
+opt-iml,ai-generated,1,1,0.5807222222222223,1,574,3140
+opt-iml,ai-generated,1,0,0.48944444444444446,0,876,5146
+blog,human-written,0,0,0.4585,1,422,2650
+openwebtext,human-written,0,0,0.25861111111111107,1,1113,6372
+openwebtext,human-written,0,1,0.5302777777777778,0,474,2485
+opt-iml,ai-generated,1,1,0.8124999999999999,1,425,2224
+opt-iml,ai-generated,1,1,0.5219444444444444,1,817,6248
+opt-iml,ai-generated,1,1,0.5957222222222224,1,439,2801
+openwebtext,human-written,0,0,0.29,1,607,3447
+opt-iml,ai-generated,1,1,0.6275,1,435,2790
+opt-iml,ai-generated,1,1,0.8492361111111112,1,529,2539
+opt-iml,ai-generated,1,0,0.4765555555555557,0,894,5522
+opt-iml,ai-generated,1,1,0.9321111111111111,1,457,3155
+openwebtext,human-written,0,0,0.3201944444444445,1,673,3988
+opt-iml,ai-generated,1,1,0.7147222222222223,1,411,2670
+opt-iml,ai-generated,1,1,0.63,1,492,2745
+opt-iml,ai-generated,1,1,0.6690793650793652,1,652,3742
+openwebtext,human-written,0,0,0.4711746031746033,1,481,2792
+webtext,human-written,0,1,0.5750000000000001,0,428,2246
+news articles,human-written,0,0,0.35400000000000004,1,968,5359
+opinion statements,human-written,0,1,0.5080555555555555,0,641,3755
+openwebtext,human-written,0,0,0.37272222222222223,1,650,4272
+opt-iml,ai-generated,1,1,0.6725000000000001,1,526,3414
+opinion statements,human-written,0,0,0.005,1,664,3647
+opinion statements,human-written,0,1,0.649888888888889,0,490,2784
+opinion statements,human-written,0,0,0.2600555555555555,1,623,3533
+opt-iml,ai-generated,1,1,0.5567777777777778,1,612,3773
+answers,human-written,0,0,0.2791111111111111,1,914,5356
+opinion statements,human-written,0,0,0.37227777777777776,1,1257,7183
+openwebtext,human-written,0,0,0.14638888888888887,1,1358,7640
+opinion statements,human-written,0,0,0.011666666666666667,1,755,4056
+opt-iml,ai-generated,1,1,0.6433055555555556,1,855,5016
+openwebtext,human-written,0,0,0.31498412698412703,1,534,3216
+openwebtext,human-written,0,1,0.6771746031746032,0,548,3669
+openwebtext,human-written,0,0,0.11750000000000002,1,751,4574
+opt-iml,ai-generated,1,1,0.6426666666666666,1,519,3145
+opt-iml,ai-generated,1,1,0.5891666666666666,1,887,5657
+opt-iml,ai-generated,1,1,0.6037222222222224,1,461,2680
+opinion statements,human-written,0,0,0.0033333333333333335,1,906,4913
+opt-iml,ai-generated,1,1,0.5456666666666666,1,664,4467
+opt-iml,ai-generated,1,1,0.6955555555555555,1,491,2901
+opt-iml,ai-generated,1,1,0.5760555555555554,1,601,3540
+opt-iml,ai-generated,1,1,0.7234444444444443,1,412,2899
+openwebtext,human-written,0,0,0.4910555555555555,1,624,3350
+openwebtext,human-written,0,0,0.24405555555555555,1,896,5155
+opt-iml,ai-generated,1,1,0.5835,1,437,2496
+openwebtext,human-written,0,0,0.4100555555555557,1,543,3382
+opt-iml,ai-generated,1,1,0.5703333333333334,1,462,2842
+answers,human-written,0,0,0.20311111111111113,1,984,5639
+opt-iml,ai-generated,1,0,0.4065555555555556,0,728,3884
+blog,human-written,0,0,0.4360694444444445,1,449,2581
+opt-iml,ai-generated,1,0,0.4583333333333333,0,807,4676
+opt-iml,ai-generated,1,1,0.6108333333333335,1,423,2490
+opt-iml,ai-generated,1,1,0.5433333333333333,1,825,5046
+openwebtext,human-written,0,0,0.21099999999999997,1,1434,8899
+opt-iml,ai-generated,1,1,0.6087222222222223,1,444,2665
+opt-iml,ai-generated,1,1,0.5690555555555555,1,554,3214
+opinion statements,human-written,0,0,0.0033333333333333335,1,421,2318
+opt-iml,ai-generated,1,1,0.6024999999999999,1,752,4259
+webtext,human-written,0,0,0.47550000000000003,1,822,5085
+opt-iml,ai-generated,1,1,0.6146111111111111,1,887,7426
+answers,human-written,0,0,0.17855555555555555,1,1193,6727
+opt-iml,ai-generated,1,1,0.5548412698412698,1,847,5127
+opt-iml,ai-generated,1,0,0.4855555555555554,0,792,5103
+opt-iml,ai-generated,1,1,0.5456666666666667,1,495,3042
+webtext,human-written,0,0,0.4543888888888888,1,827,5309
+opt-iml,ai-generated,1,1,0.6077222222222222,1,797,5315
