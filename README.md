@@ -27,4 +27,5 @@ The focus is on robustness under distribution shift, using character-level stylo
 
 <img width="2379" height="730" alt="slide9_stylometry_results_table" src="https://github.com/user-attachments/assets/ffba9f39-6537-4fba-a6b4-e1e46bd63251" />
 <img width="2380" height="977" alt="slide11_comparison_f1" src="https://github.com/user-attachments/assets/dd2072e5-d653-4fba-8233-32e2d844f45e" />
-![sbert](https://github.com/user-attachments/assets/1af16d7b-04fb-45f8-adc8-04d3d965db4b)
+
+<img width="1137" height="323" alt="sbert" src="https://github.com/user-attachments/assets/a793a88b-967a-4b1c-bcda-4d227561f0ce" />
